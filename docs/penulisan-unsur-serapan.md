@@ -10,6 +10,7 @@ Dalam hal ini, penyerapan diusahakan agar ejaannya diubah seperlunya sehingga be
 Indonesianya masih dapat dibandingkan dengan bentuk asalnya.
 
 Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
+
 a (Arab, bunyi pendek atau bunyi panjang) menjadi a (bukan o)
 mazhab (
 ).. ..
@@ -25,6 +26,7 @@ iqamah ( ..... ) ikamah
 khatib ( .... ) khatib
 ri.a’ ( .... ) rida
 .alim ( .... ) zalim
+
 ‘ain ( . Arab) pada awal suku kata menjadi a, i, u
 ‘aja’ib ( ..... ) ajaib
 sa‘adah ( ..... ) saadah
@@ -32,6 +34,7 @@ sa‘adah ( ..... ) saadah
 qa‘idah ( ..... ) kaidah
 ‘uzr ( ... ) uzur
 ma‘unah ( ..... ) maunah
+
 ‘ain ( . Arab) di akhir suku kata menjadi k
 ’i‘ tiqad ( ...... ) iktikad
 mu‘jizat ( ..... ) mukjizat
@@ -39,26 +42,29 @@ ni‘mat ( .... ) nikmat
 ruku‘ ( .... ) rukuk
 sima‘ ( .... ) simak
 ta‘rif ( ..... ) takrif
+
 aa (Belanda) menjadi a
 paal pal
 baal bal
 octaaf oktaf
+
 ae tetap ae jika tidak bervariasi dengan e
 aerobe aerob
 aerodinamics aerodinamika
+
 ae, jika bervariasi dengan e, menjadi e
 haemoglobin hemoglobin
 haematite hematit
-ai tetap ai
 trailer trailer
 caisson kaison
-
+
 au tetap au
 audiogram audiogram
 autotroph autotrof
 tautomer tautomer
 hydraulic hidraulik
 caustic kaustik
+
 c di depan a, u, o, dan konsonan menjadi k
 calomel kalomel
 construction konstruksi
@@ -66,6 +72,7 @@ cubic kubik
 coup kup
 classification klasifikasi
 crystal kristal
+
 c di depan e, i, oe, dan y menjadi s
 central sentral
 cent sen
@@ -73,44 +80,53 @@ circulation sirkulasi
 coelom selom
 cybernetics sibernetika
 cylinder silinder
+
 cc di depan o, u, dan konsonan menjadi k
 accomodation akomodasi
 acculturation akulturasi
 acclimatization aklimatisasi
 accumulation akumulasi
 acclamation aklamasi
+
 cc di depan e dan i menjadi ks
 accent aksen
 accessory aksesori
 vaccine vaksin
+
 cch dan ch di depan a, o, dan konsonan menjadi k
 saccharin sakarin
 charisma karisma
 cholera kolera
 chromosome kromosom
 technique teknik
+
 ch yang lafalnya s atau sy menjadi s
 echelon eselon
 machine mesin
+
 ch yang lafalnya c menjadi c
 charter carter
 chip cip
+
 ck menjadi k
 check cek
 ticket tiket
+
 ç (Sanskerta) menjadi s
 çabda sabda
 çastra sastra
+
 .ad ( . Arab) menjadi d
 ’af.al ( .... ) afdal
 .a’if ( .... ) daif
 far. ( ... ) fardu
 ha.ir ( .... ) hadir
+
 e tetap e
 effect efek
 description deskripsi
 synthesis sintesis
-
+
 ea tetap ea
 idealist idealis
 habeas habeas
