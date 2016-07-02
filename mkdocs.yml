@@ -1,0 +1,8 @@
+site_name: Pedoman Umum Ejaan Bahasa Indonesia
+pages:
+  - 'Daftar Isi': 'index.md'
+  - 'Pemakaian Huruf': 'pemakaian-huruf.md'
+  - 'Penulisan Kata': 'penulisan-kata.md'
+  - 'Pemakaian Tanda Baca': 'pemakaian-tanda-baca.md'
+  - 'Penulisan Unsur Serapan': 'penulisan-unsur-serapan.md'
+theme: readthedocs
