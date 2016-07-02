@@ -46,149 +46,67 @@ o | oleh | kota | radio
 u | ulang | bumi | ibu
 
 Keterangan:
-* Untuk pengucapan (pelafalan) kata yang benar, diakritik berikut ini dapat digunakan jika
-ejaan kata itu dapat menimbulkan keraguan.
-
-a. Diakritik (é) dilafalkan [e].
-Misalnya:
-Anak-anak bermain di teras (téras).
-Kedelai merupakan bahan pokok kecap (kécap).
-b. Diakritik (è) dilafalkan [.].
-Misalnya:
-Kami menonton film seri (sèri).
-Pertahanan militer (militèr) Indonesia cukup kuat.
-c. Diakritik (ê) dilafalkan [.].
-Misalnya:
-Pertandingan itu berakhir seri (sêri).
-Upacara itu dihadiri pejabat teras (têras) Bank Indonesia.
-Kecap (kêcap) dulu makanan itu.
-C. Huruf Konsonan
-Huruf yang melambangkan konsonan dalam bahasa Indonesia terdiri atas 21 huruf, yaitu b,
-c, d, f, g, h, j, k, l, m, n, p, q, r, s, t, v, w, x, y, dan z.
-Huruf
-Konsonan
-Misalnya Pemakaian dalam Kata
-Posisi Awal
-Posisi
-Tengah
-Posisi Akhir
-b
-c
-d
-f
-g
-h
-j
-k
-l
-m
-n
-p
-q*
-r
-s
-t
-v
-w
-x*
-y
-z
-bahasa
-cakap
-dua
-fakir
-guna
-hari
-jalan
-kami
-lekas
-maka
-nama
-pasang
-qariah
-raih
-sampai
-tali
-variasi
-wanita
-xenon
-yakin
-zeni
-sebut
-kaca
-ada
-kafan
-tiga
-saham
-manja
-paksa
-alas
-kami
-tanah
-apa
-iqra
-bara
-asli
-mata
-lava
-hawa
--
-payung
-lazim
-adab
--
-abad
-maaf
-gudeg
-tuah
-mikraj
-politik
-akal
-diam
-daun
-siap
--
-putar
-tangkas
-rapat
-molotov
-takraw
--
--
-juz
-Keterangan:
-* Huruf q dan x khusus digunakan untuk nama diri dan keperluan ilmu. Huruf x pada posisi
-awal kata diucapkan [s].
 
+Untuk pengucapan (pelafalan) kata yang benar, diakritik berikut ini dapat digunakan jika ejaan kata itu dapat menimbulkan keraguan.
+
+a. Diakritik (é) dilafalkan [e]. Misalnya:
+
+- Anak-anak bermain di teras (téras).
+- Kedelai merupakan bahan pokok kecap (kécap).
+
+b. Diakritik (è) dilafalkan [ɛ]. Misalnya:
+
+- Kami menonton film seri (sèri).
+- Pertahanan militer (militèr) Indonesia cukup kuat.
+
+c. Diakritik (ê) dilafalkan [ə]. Misalnya:
+
+- Pertandingan itu berakhir seri (sêri).
+- Upacara itu dihadiri pejabat teras (têras) Bank Indonesia.
+- Kecap (kêcap) dulu makanan itu.
+
+# C. Huruf Konsonan
+
+Huruf yang melambangkan konsonan dalam bahasa Indonesia terdiri atas 21 huruf, yaitu b, c, d, f, g, h, j, k, l, m, n, p, q, r, s, t, v, w, x, y, dan z.
+
+Huruf Konsonan | Posisi Awal | Posisi Tengah | Posisi Akhir
+- | - | - | -
+b | bahasa | sebut | adab
+c | cakap | kaca | -
+d | dua | ada | abad
+f | fakir | kafan | maaf
+g | guna | tiga | gudeg
+h | hari | saham | tuah
+j | jalan | manja | mikraj
+k | kami | paksa | politik
+l | lekas | alas | akal
+m | maka | kami | diam
+n | nama | tanah | daun
+p | pasang | apa | siap
+q* | qariah | iqra | -
+r | raih | bara | putar
+s | sampai | asli | tangkas
+t | tali | mata | rapat
+v | variasi | lava | molotov
+w | wanita | hawa | takraw
+x* | xenon | - | -
+y | yakin | payung | -
+z | zeni | lazim | juz
+
+Keterangan:
+
+Huruf q dan x khusus digunakan untuk nama diri dan keperluan ilmu. Huruf x pada posisi awal kata diucapkan [s].
 
 # D. Huruf Diftong
 
-Di dalam bahasa Indonesia terdapat empat diftong yang dilambangkan dengan gabungan
-huruf vokal ai, au, ei, dan oi.
-Huruf
-Diftong
-Misalnya Pemakaian dalam Kata
-Posisi Awal
-Posisi
-Tengah
-Posisi
-Akhir
-ai
-au
-ei
-oi
--
-autodidak
-eigendom
--
-balairung
-taufik
-geiser
-boikot
-pandai
-harimau
-survei
-amboi
+Di dalam bahasa Indonesia terdapat empat diftong yang dilambangkan dengan gabungan huruf vokal ai, au, ei, dan oi.
+
+Huruf Diftong | Posisi Awal | Posisi Tengah | Posisi Akhir
+- | - | - | -
+ai | - | balairung | pandai
+au | autodidak | taufik | harimau
+ei | eigendom | geiser | survei
+oi | - | boikot | amboi
 
 # E. Gabungan Huruf Konsonan
 
