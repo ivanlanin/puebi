@@ -4,9 +4,9 @@ Proyek ini adalah prakarsa semenjana untuk meningkatkan keterbacaan PUEBI dengan
 
 Silakan telusuri laman-laman PUEBI berikut yang akan disempurnakan formatnya secara perlahan. Kunjungi laman GitHub proyek ini untuk mendapatkan naskah PUEBI dalam format Markdown.
 
-I. [Pemakaian Huruf](pemakaian-huruf)
-II. [Penulisan Kata](penulisan-kata)
-III. [Pemakaian Tanda Baca](pemakaian-tanda-baca)
-IV. [Penulisan Unsur Serapan](penulisan-unsur-serapan)
+I. [Pemakaian Huruf](pemakaian-huruf)  
+II. [Penulisan Kata](penulisan-kata)  
+III. [Pemakaian Tanda Baca](pemakaian-tanda-baca)  
+IV. [Penulisan Unsur Serapan](penulisan-unsur-serapan)  
 
 Oh, ya. Hak cipta PUEBI dimiliki oleh [Badan Pengembangan dan Pembinaan Bahasa Republik Indonesia](http://badanbahasa.kemdikbud.go.id/).
