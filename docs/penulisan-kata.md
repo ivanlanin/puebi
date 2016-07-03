@@ -1,6 +1,7 @@
 # II.A. Kata Dasar
 
-Kata dasar ditulis sebagai satu kesatuan.
+!!! important ""
+	Kata dasar ditulis sebagai satu kesatuan.
 
 Misalnya:
 
@@ -10,212 +11,211 @@ Misalnya:
 
 # II.B. Kata Berimbuhan
 
-II.B.1. Imbuhan (awalan, sisipan, akhiran, serta gabungan awalan dan akhiran) ditulis serangkai dengan bentuk dasarnya.
+!!! important ""
+	**II.B.1.** Imbuhan (awalan, sisipan, akhiran, serta gabungan awalan dan akhiran) ditulis serangkai dengan bentuk dasarnya.
 
 Misalnya:
 
-berjalan  
-berkelanjutan  
-mempermudah  
-gemetar  
-lukisan  
-kemauan  
-perbaikan  
+- berjalan
+- berkelanjutan
+- mempermudah
+- gemetar
+- lukisan
+- kemauan
+- perbaikan
 
 Catatan:
- Imbuhan yang diserap dari unsur asing, seperti -isme, -man, -wan, atau -wi, ditulis serangkai dengan bentuk dasarnya.
+Imbuhan yang diserap dari unsur asing, seperti *-isme*, *-man*, *-wan*, atau *-wi*, ditulis serangkai dengan bentuk dasarnya.
 
 Misalnya:
 
-sukuisme  
-seniman  
-kamerawan  
-gerejawi  
+- sukuisme
+- seniman
+- kamerawan
+- gerejawi
 
-II.B.2. Bentuk terikat ditulis serangkai dengan kata yang mengikutinya. 
+II.B.2. Bentuk terikat ditulis serangkai dengan kata yang mengikutinya.
 
 Misalnya:
 
-adibusana
-aerodinamika
-antarkota
-antibiotik
-awahama
-bikarbonat
-biokimia
-dekameter
-demoralisasi
-dwiwarna
-ekabahasa
-ekstrakurikuler
-infrastruktur
-inkonvensional
-kontraindikasi
-kosponsor
-mancanegara
-multilateral
-narapidana
-nonkolaborasi
-paripurna
-pascasarjana
-pramusaji
-prasejarah
-proaktif
-purnawirawan
-saptakrida
-semiprofesional
-subbagian
-swadaya
-telewicara
-transmigrasi
-tunakarya
-tritunggal
-tansuara
-ultramodern
+- adibusana
+- aerodinamika
+- antarkota
+- antibiotik
+- awahama
+- bikarbonat
+- biokimia
+- dekameter
+- demoralisasi
+- dwiwarna
+- ekabahasa
+- ekstrakurikuler
+- infrastruktur
+- inkonvensional
+- kontraindikasi
+- kosponsor
+- mancanegara
+- multilateral
+- narapidana
+- nonkolaborasi
+- paripurna
+- pascasarjana
+- pramusaji
+- prasejarah
+- proaktif
+- purnawirawan
+- saptakrida
+- semiprofesional
+- subbagian
+- swadaya
+- telewicara
+- transmigrasi
+- tunakarya
+- tritunggal
+- tansuara
+- ultramodern
 
 Catatan:
 
-(1) Bentuk terikat yang diikuti oleh kata yang berhuruf awal kapital atau singkatan yang berupa huruf kapital dirangkaikan dengan tanda hubung (-). 
+(1) Bentuk terikat yang diikuti oleh kata yang berhuruf awal kapital atau singkatan yang berupa huruf kapital dirangkaikan dengan tanda hubung (-).
 
 Misalnya:
 
-  
-non-Indonesia  
-pan-Afrikanisme  
-pro-Barat  
-non-ASEAN  
-anti-PKI  
-(2) Bentuk maha yang diikuti kata turunan yang mengacu pada nama atau sifat Tuhan ditulis terpisah dengan huruf awal kapital. 
+- non-Indonesia
+- pan-Afrikanisme
+- pro-Barat
+- non-ASEAN
+- anti-PKI
+
+(2) Bentuk maha yang diikuti kata turunan yang mengacu pada nama atau sifat Tuhan ditulis terpisah dengan huruf awal kapital.
 
 Misalnya:
 
-  
-Marilah kita bersyukur kepada Tuhan Yang Maha Pengasih.  
-Kita berdoa kepada Tuhan Yang Maha Pengampun.  
-(3) Bentuk maha yang diikuti kata dasar yang mengacu kepada nama atau sifat Tuhan, kecuali kata esa, ditulis serangkai. 
+- Marilah kita bersyukur kepada Tuhan Yang Maha Pengasih.
+- Kita berdoa kepada Tuhan Yang Maha Pengampun.
+
+(3) Bentuk maha yang diikuti kata dasar yang mengacu kepada nama atau sifat Tuhan, kecuali kata *esa*, ditulis serangkai.
 
 Misalnya:
 
-  
-Tuhan Yang Mahakuasa menentukan arah hidup kita.  
-Mudah-mudahan Tuhan Yang Maha Esa melindungi kita.  
+- Tuhan Yang Mahakuasa menentukan arah hidup kita.
+- Mudah-mudahan Tuhan Yang Maha Esa melindungi kita.
 
 # II.C. Bentuk Ulang
 
-Bentuk ulang ditulis dengan menggunakan tanda hubung (-) di antara unsur-unsurnya. 
+Bentuk ulang ditulis dengan menggunakan tanda hubung (-) di antara unsur-unsurnya.
 
 Misalnya:
 
-anak-anak
-biri-biri
-lauk-pauk
-berjalan-jalan
-buku-buku
-cumi-cumi
-mondar-mandir
-mencari-cari
-hati-hati
-kupu-kupu
-ramah-tamah
-terus-menerus
-kuda-kuda
-kura-kura
-sayur-mayur
-porak-poranda
-mata-mata
-ubun-ubun
-serba-serbi
-tunggang-langgang
+- anak-anak
+- biri-biri
+- lauk-pauk
+- berjalan-jalan
+- buku-buku
+- cumi-cumi
+- mondar-mandir
+- mencari-cari
+- hati-hati
+- kupu-kupu
+- ramah-tamah
+- terus-menerus
+- kuda-kuda
+- kura-kura
+- sayur-mayur
+- porak-poranda
+- mata-mata
+- ubun-ubun
+- serba-serbi
+- tunggang-langgang
 
-Catatan:
- Bentuk ulang gabungan kata ditulis dengan mengulang unsur pertama. 
+Catatan: Bentuk ulang gabungan kata ditulis dengan mengulang unsur pertama.
 
 Misalnya:
 
-surat kabar . surat-surat kabar
-kapal barang . kapal-kapal barang
-rak buku . rak-rak buku
-kereta api cepat . kereta-kereta api cepat
+- surat kabar → surat-surat kabar
+- kapal barang → kapal-kapal barang
+- rak buku → rak-rak buku
+- kereta api cepat → kereta-kereta api cepat
 
 # II.D. Gabungan Kata
 
-1. Unsur gabungan kata yang lazim disebut kata majemuk, termasuk istilah khusus, ditulis terpisah.
+II.D.1. Unsur gabungan kata yang lazim disebut kata majemuk, termasuk istilah khusus, ditulis terpisah.
 
 Misalnya:
 
-duta besar model linear
-kambing hitam persegi panjang
-orang tua rumah sakit jiwa
-simpang empat meja tulis
-mata acara cendera mata
+- duta besar model linear
+- kambing hitam persegi panjang
+- orang tua rumah sakit jiwa
+- simpang empat meja tulis
+- mata acara cendera mata
 
-2. Gabungan kata yang dapat menimbulkan salah pengertian ditulis dengan membubuhkan tanda hubung (-) di antara unsur-unsurnya.
-
-Misalnya:
-
-anak-istri pejabat anak istri-pejabat
-ibu-bapak kami ibu bapak-kami
-buku-sejarah baru buku sejarah-baru
-
-3. Gabungan kata yang penulisannya terpisah tetap ditulis terpisah jika mendapat awalan atau akhiran.
+II.D.2. Gabungan kata yang dapat menimbulkan salah pengertian ditulis dengan membubuhkan tanda hubung (-) di antara unsur-unsurnya.
 
 Misalnya:
 
-bertepuk tangan
-menganak sungai
-garis bawahi
-sebar luaskan
+- anak-istri pejabat anak istri-pejabat
+- ibu-bapak kami ibu bapak-kami
+- buku-sejarah baru buku sejarah-baru
 
-4. Gabungan kata yang mendapat awalan dan akhiran sekaligus ditulis serangkai.
-
-Misalnya:
-
-dilipatgandakan
-menggarisbawahi
-menyebarluaskan
-penghancurleburan
-pertanggungjawaban
-
-5. Gabungan kata yang sudah padu ditulis serangkai.
+II.D.3. Gabungan kata yang penulisannya terpisah tetap ditulis terpisah jika mendapat awalan atau akhiran.
 
 Misalnya:
 
-acapkali
-adakalanya
-apalagi
-bagaimana
-barangkali
-beasiswa
-belasungkawa
-bilamana
-bumiputra
-darmabakti
-dukacita
-hulubalang
-kacamata
-kasatmata
-kilometer
-manasuka
-matahari
-olahraga
-padahal
-peribahasa
-perilaku
-puspawarna
-radioaktif
-saptamarga
-saputangan
-saripati
-sediakala
-segitiga
-sukacita
-sukarela
-syahbandar
-wiraswata
+- bertepuk tangan
+- menganak sungai
+- garis bawahi
+- sebar luaskan
+
+II.D.4. Gabungan kata yang mendapat awalan dan akhiran sekaligus ditulis serangkai.
+
+Misalnya:
+
+- dilipatgandakan
+- menggarisbawahi
+- menyebarluaskan
+- penghancurleburan
+- pertanggungjawaban
+
+II.D.5. Gabungan kata yang sudah padu ditulis serangkai.
+
+Misalnya:
+
+- acapkali
+- adakalanya
+- apalagi
+- bagaimana
+- barangkali
+- beasiswa
+- belasungkawa
+- bilamana
+- bumiputra
+- darmabakti
+- dukacita
+- hulubalang
+- kacamata
+- kasatmata
+- kilometer
+- manasuka
+- matahari
+- olahraga
+- padahal
+- peribahasa
+- perilaku
+- puspawarna
+- radioaktif
+- saptamarga
+- saputangan
+- saripati
+- sediakala
+- segitiga
+- sukacita
+- sukarela
+- syahbandar
+- wiraswata
 
 # II.E. Pemenggalan Kata
 
-I.E.1. Pemenggalan kata pada kata dasar dilakukan sebagai berikut.
+II.E.1. Pemenggalan kata pada kata dasar dilakukan sebagai berikut.
 
 a. Jika di tengah kata terdapat huruf vokal yang berurutan, pemenggalannya dilakukan
 di antara kedua huruf vokal itu.
@@ -289,7 +289,7 @@ makh-luk
 masy-hur
 sang-gup
 
-I.E.2. Pemenggalan kata turunan sedapat-dapatnya dilakukan di antara bentuk dasar dan
+II.E.2. Pemenggalan kata turunan sedapat-dapatnya dilakukan di antara bentuk dasar dan
 unsur pembentuknya.
 
 Misalnya:
@@ -351,7 +351,7 @@ telah disampaikan ….
 Walaupun cuma-cuma, mereka tidak mau
 mengambil makanan itu.
 
-I.E.3. Jika sebuah kata terdiri atas dua unsur atau lebih dan salah satu unsurnya itu dapat bergabung dengan unsur lain, pemenggalannya dilakukan di antara unsur-unsur itu. Tiap unsur gabungan itu dipenggal seperti pada kata dasar.
+II.E.3. Jika sebuah kata terdiri atas dua unsur atau lebih dan salah satu unsurnya itu dapat bergabung dengan unsur lain, pemenggalannya dilakukan di antara unsur-unsur itu. Tiap unsur gabungan itu dipenggal seperti pada kata dasar.
 
 Misalnya:
 
@@ -386,7 +386,7 @@ pascasarjana
 pasca-sarjana
 pas-ca-sar-ja-na
 
-I.E.4. Nama orang yang terdiri atas dua unsur atau lebih pada akhir baris dipenggal di antara
+II.E.4. Nama orang yang terdiri atas dua unsur atau lebih pada akhir baris dipenggal di antara
 unsur-unsurnya.
 
 Misalnya:
@@ -396,7 +396,7 @@ Supratman.
 Buku Layar Terkembang dikarang oleh Sutan Takdir
 Alisjahbana.
 
-I.E.5. Singkatan nama diri dan gelar yang terdiri atas dua huruf atau lebih tidak dipenggal.
+II.E.5. Singkatan nama diri dan gelar yang terdiri atas dua huruf atau lebih tidak dipenggal.
 
 Misalnya:
 
@@ -743,7 +743,7 @@ Misalnya:
 
 # II.K. Kata Sandang
 
-Kata *si* dan *sang* ditulis terpisah dari kata yang mengikutinya. 
+Kata *si* dan *sang* ditulis terpisah dari kata yang mengikutinya.
 
 Misalnya:
 
@@ -755,7 +755,7 @@ Misalnya:
 - Dalam cerita itu si Buta berhasil menolong kekasihnya.
 
 Catatan:
- Huruf awal sang ditulis dengan huruf kapital jika sang merupakan unsur nama Tuhan. 
+ Huruf awal sang ditulis dengan huruf kapital jika sang merupakan unsur nama Tuhan.
 
 Misalnya:
 
