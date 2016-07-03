@@ -8,5 +8,6 @@ pages:
 theme: 'readthedocs'
 repo_name: 'GitHub'
 repo_url: 'https://github.com/ivanlanin/puebi'
+google_analytics: ['UA-80210173-1', 'auto']
 markdown_extensions:
   - admonition
