@@ -149,17 +149,18 @@ ng | ngarai | bangun | senang
 ny | nyata | banyak | -
 sy | syarat | musyawarah | arasy
 
-
 # I.F. Huruf Kapital
 
-**I.F.1.** Huruf kapital dipakai sebagai huruf pertama awal kalimat. Misalnya:
+!!! important ""
+	**I.F.1.** Huruf kapital dipakai sebagai huruf pertama awal kalimat. Misalnya:
 
 - Apa maksudnya?
 - Dia membaca buku.
 - Kita harus bekerja keras.
 - Pekerjaan itu akan selesai dalam satu jam.
 
-**I.F.2.** Huruf kapital dipakai sebagai huruf pertama unsur nama orang, termasuk julukan. Misalnya:
+!!! important ""
+	**I.F.2.** Huruf kapital dipakai sebagai huruf pertama unsur nama orang, termasuk julukan. Misalnya:
 
 - Amir Hamzah
 - Dewi Sartika
@@ -194,7 +195,8 @@ Misalnya:
 - Ayam Jantan dari Timur
 - Mutiara dari Selatan
 
-**I.F.3.** Huruf kapital dipakai pada awal kalimat dalam petikan langsung.
+!!! important ""
+	**I.F.3.** Huruf kapital dipakai pada awal kalimat dalam petikan langsung.
 
 Misalnya:
 
@@ -203,7 +205,8 @@ Misalnya:
 - "Mereka berhasil meraih medali emas," katanya.
 - "Besok pagi," kata dia, "mereka akan berangkat."
 
-**I.F.4.** Huruf kapital dipakai sebagai huruf pertama setiap kata nama agama, kitab suci, dan Tuhan, termasuk sebutan dan kata ganti untuk Tuhan
+!!! important ""
+	**I.F.4.** Huruf kapital dipakai sebagai huruf pertama setiap kata nama agama, kitab suci, dan Tuhan, termasuk sebutan dan kata ganti untuk Tuhan
 
 Misalnya:
 
@@ -215,7 +218,8 @@ Misalnya:
 - Allah akan menunjukkan jalan kepada hamba-Nya.
 - Ya, Tuhan, bimbinglah hamba-Mu ke jalan yang Engkau beri rahmat.
 
-**I.F.5.a.** Huruf kapital dipakai sebagai huruf pertama unsur nama gelar kehormatan, keturunan, keagamaan, atau akademik yang diikuti nama orang, termasuk gelar akademik yang mengikuti nama orang.
+!!! important ""
+	**I.F.5.a.** Huruf kapital dipakai sebagai huruf pertama unsur nama gelar kehormatan, keturunan, keagamaan, atau akademik yang diikuti nama orang, termasuk gelar akademik yang mengikuti nama orang.
 
 Misalnya:
 
@@ -229,7 +233,8 @@ Misalnya:
 - Agung Permana, Sarjana Hukum
 - Irwansyah, Magister Humaniora
 
-**I.F.5.b.** Huruf kapital dipakai sebagai huruf pertama unsur nama gelar kehormatan, keturunan, keagamaan, profesi, serta nama jabatan dan kepangkatan yang dipakai sebagai sapaan.
+!!! important ""
+	**I.F.5.b.** Huruf kapital dipakai sebagai huruf pertama unsur nama gelar kehormatan, keturunan, keagamaan, profesi, serta nama jabatan dan kepangkatan yang dipakai sebagai sapaan.
 
 Misalnya:
 
@@ -240,7 +245,8 @@ Misalnya:
 - Silakan duduk, Prof.
 - Mohon izin, Jenderal.
 
-**I.F.6.** Huruf kapital dipakai sebagai huruf pertama unsur nama jabatan dan pangkat yang diikuti nama orang atau yang dipakai sebagai pengganti nama orang tertentu, nama instansi, atau nama tempat.
+!!! important ""
+	**I.F.6.** Huruf kapital dipakai sebagai huruf pertama unsur nama jabatan dan pangkat yang diikuti nama orang atau yang dipakai sebagai pengganti nama orang tertentu, nama instansi, atau nama tempat.
 
 Misalnya:
 
@@ -252,7 +258,8 @@ Misalnya:
 - Sekretaris Jenderal Kementerian Pendidikan dan Kebudayaan
 - Gubernur Papua Barat
 
-**I.F.7.** Huruf kapital dipakai sebagai huruf pertama nama bangsa, suku bangsa, dan bahasa.
+!!! important ""
+	**I.F.7.** Huruf kapital dipakai sebagai huruf pertama nama bangsa, suku bangsa, dan bahasa.
 
 Misalnya:
 
@@ -268,7 +275,8 @@ Misalnya:
 - keinggris-inggrisan
 - kejawa-jawaan
 
-**I.F.8.a.** Huruf kapital dipakai sebagai huruf pertama nama tahun, bulan, hari, dan hari besar atau hari raya.
+!!! important ""
+	**I.F.8.a.** Huruf kapital dipakai sebagai huruf pertama nama tahun, bulan, hari, dan hari besar atau hari raya.
 
 Misalnya:
 
@@ -277,7 +285,8 @@ Misalnya:
 - hari Jumat hari Galungan
 - hari Lebaran hari Natal
 
-**I.F.8.b.** Huruf kapital dipakai sebagai huruf pertama unsur nama peristiwa sejarah.
+!!! important ""
+	**I.F.8.b.** Huruf kapital dipakai sebagai huruf pertama unsur nama peristiwa sejarah.
 
 Misalnya:
 
@@ -292,7 +301,8 @@ Misalnya:
 - Soekarno dan Hatta memproklamasikan kemerdekaan bangsa Indonesia.
 - Perlombaan senjata membawa risiko pecahnya perang dunia.
 
-**I.F.9.** Huruf kapital dipakai sebagai huruf pertama nama geografi.
+!!! important ""
+	**I.F.9.** Huruf kapital dipakai sebagai huruf pertama nama geografi.
 
 Misalnya:
 
@@ -350,7 +360,8 @@ Contoh berikut bukan nama jenis.
 - Selain film Hongkong, juga akan diputar film India, film Korea, dan film Jepang.
 - Murid-murid sekolah dasar itu menampilkan tarian Sumatra Selatan, tarian Kalimantan Timur, dan tarian Sulawesi Selatan.
 
-**I.F.10.** Huruf kapital dipakai sebagai huruf pertama semua kata (termasuk semua unsur bentuk ulang sempurna) dalam nama negara, lembaga, badan, organisasi, atau dokumen, kecuali kata tugas, seperti *di*, *ke*, *dari*, *dan*, *yang*, dan *untuk*.
+!!! important ""
+	**I.F.10.** Huruf kapital dipakai sebagai huruf pertama semua kata (termasuk semua unsur bentuk ulang sempurna) dalam nama negara, lembaga, badan, organisasi, atau dokumen, kecuali kata tugas, seperti *di*, *ke*, *dari*, *dan*, *yang*, dan *untuk*.
 
 Misalnya:
 
@@ -362,7 +373,8 @@ Misalnya:
 - Perserikatan Bangsa-Bangsa
 - Kitab Undang-Undang Hukum Pidana
 
-**I.F.11.** Huruf kapital dipakai sebagai huruf pertama setiap kata (termasuk unsur kata ulang sempurna) di dalam judul buku, karangan, artikel, dan makalah serta nama majalah dan surat kabar, kecuali kata tugas, seperti *di*, *ke*, *dari*, *dan*, *yang*, dan *untuk*, yang tidak terletak pada posisi awal.
+!!! important ""
+	**I.F.11.** Huruf kapital dipakai sebagai huruf pertama setiap kata (termasuk unsur kata ulang sempurna) di dalam judul buku, karangan, artikel, dan makalah serta nama majalah dan surat kabar, kecuali kata tugas, seperti *di*, *ke*, *dari*, *dan*, *yang*, dan *untuk*, yang tidak terletak pada posisi awal.
 
 Misalnya:
 
@@ -371,7 +383,8 @@ Misalnya:
 - Dia agen surat kabar Sinar Pembangunan.
 - Ia menyajikan makalah "Penerapan Asas-Asas Hukum Perdata".
 
-**I.F.12.** Huruf kapital dipakai sebagai huruf pertama unsur singkatan nama gelar, pangkat, atau sapaan.
+!!! important ""
+	**I.F.12.** Huruf kapital dipakai sebagai huruf pertama unsur singkatan nama gelar, pangkat, atau sapaan.
 
 Misalnya:
 
@@ -396,7 +409,8 @@ Misalnya:
 - Ny. nyonya
 - Sdr. saudara
 
-**I.F.13.** Huruf kapital dipakai sebagai huruf pertama kata penunjuk hubungan kekerabatan, seperti bapak, ibu, kakak, adik, dan paman, serta kata atau ungkapan lain yang dipakai dalam penyapaan atau pengacuan.
+!!! important ""
+	**I.F.13.** Huruf kapital dipakai sebagai huruf pertama kata penunjuk hubungan kekerabatan, seperti bapak, ibu, kakak, adik, dan paman, serta kata atau ungkapan lain yang dipakai dalam penyapaan atau pengacuan.
 
 Misalnya:
 
@@ -424,7 +438,8 @@ Misalnya:
 
 # I.G. Huruf Miring
 
-I.G.1. Huruf miring dipakai untuk menuliskan judul buku, nama majalah, atau nama surat kabar yang dikutip dalam tulisan, termasuk dalam daftar pustaka.
+!!! important ""
+	I.G.1. Huruf miring dipakai untuk menuliskan judul buku, nama majalah, atau nama surat kabar yang dikutip dalam tulisan, termasuk dalam daftar pustaka.
 
 Misalnya:
 
@@ -433,7 +448,8 @@ Misalnya:
 - Berita itu muncul dalam surat kabar Cakrawala.
 - Pusat Bahasa. 2011. Kamus Besar Bahasa Indonesia Pusat Bahasa. Edisi Keempat (Cetakan Kedua). Jakarta: Gramedia Pustaka Utama.
 
-I.G.2. Huruf miring dipakai untuk menegaskan atau mengkhususkan huruf, bagian kata, kata, atau kelompok kata dalam kalimat.
+!!! important ""
+	I.G.2. Huruf miring dipakai untuk menegaskan atau mengkhususkan huruf, bagian kata, kata, atau kelompok kata dalam kalimat.
 
 Misalnya:
 
@@ -442,7 +458,8 @@ Misalnya:
 - Dalam bab ini tidak dibahas pemakaian tanda baca.
 - Buatlah kalimat dengan menggunakan ungkapan lepas tangan.
 
-I.G.3. Huruf miring dipakai untuk menuliskan kata atau ungkapan dalam bahasa daerah atau bahasa asing.
+!!! important ""
+	I.G.3. Huruf miring dipakai untuk menuliskan kata atau ungkapan dalam bahasa daerah atau bahasa asing.
 
 Misalnya:
 
@@ -459,14 +476,16 @@ Catatan:
 
 # I.H. Huruf Tebal
 
-I.H.1. Huruf tebal dipakai untuk menegaskan bagian tulisan yang sudah ditulis miring.
+!!! important ""
+	I.H.1. Huruf tebal dipakai untuk menegaskan bagian tulisan yang sudah ditulis miring.
 
 Misalnya:
 
 - Huruf dh, seperti pada kata Ramadhan, tidak terdapat dalam Ejaan Bahasa Indonesia yang Disempurnakan.
 - Kata et dalam ungkapan ora et labora berarti 'dan'.
 
-I.H.2. Huruf tebal dapat dipakai untuk menegaskan bagian- bagian karangan, seperti judul buku, bab, atau subbab.
+!!! important ""
+	I.H.2. Huruf tebal dapat dipakai untuk menegaskan bagian- bagian karangan, seperti judul buku, bab, atau subbab.
 
 Misalnya:
 

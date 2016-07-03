@@ -34,7 +34,8 @@ Misalnya:
 - kamerawan
 - gerejawi
 
-II.B.2. Bentuk terikat ditulis serangkai dengan kata yang mengikutinya.
+!!! important ""
+	**II.B.2.** Bentuk terikat ditulis serangkai dengan kata yang mengikutinya.
 
 Misalnya:
 
@@ -103,7 +104,8 @@ Misalnya:
 
 # II.C. Bentuk Ulang
 
-Bentuk ulang ditulis dengan menggunakan tanda hubung (-) di antara unsur-unsurnya.
+!!! important ""
+	Bentuk ulang ditulis dengan menggunakan tanda hubung (-) di antara unsur-unsurnya.
 
 Misalnya:
 
@@ -139,7 +141,8 @@ Misalnya:
 
 # II.D. Gabungan Kata
 
-II.D.1. Unsur gabungan kata yang lazim disebut kata majemuk, termasuk istilah khusus, ditulis terpisah.
+!!! important ""
+	**II.D.1.** Unsur gabungan kata yang lazim disebut kata majemuk, termasuk istilah khusus, ditulis terpisah.
 
 Misalnya:
 
@@ -149,7 +152,8 @@ Misalnya:
 - simpang empat meja tulis
 - mata acara cendera mata
 
-II.D.2. Gabungan kata yang dapat menimbulkan salah pengertian ditulis dengan membubuhkan tanda hubung (-) di antara unsur-unsurnya.
+!!! important ""
+	**II.D.2.** Gabungan kata yang dapat menimbulkan salah pengertian ditulis dengan membubuhkan tanda hubung (-) di antara unsur-unsurnya.
 
 Misalnya:
 
@@ -157,7 +161,8 @@ Misalnya:
 - ibu-bapak kami ibu bapak-kami
 - buku-sejarah baru buku sejarah-baru
 
-II.D.3. Gabungan kata yang penulisannya terpisah tetap ditulis terpisah jika mendapat awalan atau akhiran.
+!!! important ""
+	**II.D.3.** Gabungan kata yang penulisannya terpisah tetap ditulis terpisah jika mendapat awalan atau akhiran.
 
 Misalnya:
 
@@ -166,7 +171,8 @@ Misalnya:
 - garis bawahi
 - sebar luaskan
 
-II.D.4. Gabungan kata yang mendapat awalan dan akhiran sekaligus ditulis serangkai.
+!!! important ""
+	**II.D.4.** Gabungan kata yang mendapat awalan dan akhiran sekaligus ditulis serangkai.
 
 Misalnya:
 
@@ -176,7 +182,8 @@ Misalnya:
 - penghancurleburan
 - pertanggungjawaban
 
-II.D.5. Gabungan kata yang sudah padu ditulis serangkai.
+!!! important ""
+	**II.D.5.** Gabungan kata yang sudah padu ditulis serangkai.
 
 Misalnya:
 
@@ -215,7 +222,8 @@ Misalnya:
 
 # II.E. Pemenggalan Kata
 
-II.E.1. Pemenggalan kata pada kata dasar dilakukan sebagai berikut.
+!!! important ""
+	**II.E.1.** Pemenggalan kata pada kata dasar dilakukan sebagai berikut.
 
 a. Jika di tengah kata terdapat huruf vokal yang berurutan, pemenggalannya dilakukan
 di antara kedua huruf vokal itu.
@@ -237,9 +245,7 @@ sau-da-ra
 sur-vei
 am-boi
 
-c. Jika di tengah kata dasar terdapat huruf konsonan (termasuk gabungan huruf
-konsonan) di antara dua huruf vokal, pemenggalannya dilakukan sebelum huruf kon-
-sonan itu.
+c. Jika di tengah kata dasar terdapat huruf konsonan (termasuk gabungan huruf konsonan) di antara dua huruf vokal, pemenggalannya dilakukan sebelum huruf konsonan itu.
 
 Misalnya:
 
@@ -250,8 +256,7 @@ ke-nyang
 mu-ta-khir
 mu-sya-wa-rah
 
-d. Jika di tengah kata dasar terdapat dua huruf konsonan yang berurutan,
-pemenggalannya dilakukan di antara kedua huruf konsonan itu.
+d. Jika di tengah kata dasar terdapat dua huruf konsonan yang berurutan, pemenggalannya dilakukan di antara kedua huruf konsonan itu.
 
 Misalnya:
 
@@ -263,9 +268,7 @@ sang-gup
 som-bong
 swas-ta
 
-e. Jika di tengah kata dasar terdapat tiga huruf konsonan atau lebih yang masing-
-masing melambangkan satu bunyi, pemenggalannya dilakukan di antara huruf
-konsonan yang pertama dan huruf konsonan yang kedua.
+e. Jika di tengah kata dasar terdapat tiga huruf konsonan atau lebih yang masing- masing melambangkan satu bunyi, pemenggalannya dilakukan di antara huruf konsonan yang pertama dan huruf konsonan yang kedua.
 
 Misalnya:
 
@@ -274,9 +277,7 @@ in-fra
 ben-trok
 in-stru-men
 
-Catatan:
-
-Gabungan huruf konsonan yang melambangkan satu bunyi tidak dipenggal.
+Catatan: Gabungan huruf konsonan yang melambangkan satu bunyi tidak dipenggal.
 
 Misalnya:
 
@@ -289,8 +290,8 @@ makh-luk
 masy-hur
 sang-gup
 
-II.E.2. Pemenggalan kata turunan sedapat-dapatnya dilakukan di antara bentuk dasar dan
-unsur pembentuknya.
+!!! important ""
+	**II.E.2.** Pemenggalan kata turunan sedapat-dapatnya dilakukan di antara bentuk dasar dan unsur pembentuknya.
 
 Misalnya:
 
@@ -316,8 +317,7 @@ kekuat-an
 
 Catatan:
 
-(1) Pemenggalan kata berimbuhan yang bentuk dasarnya mengalami perubahan
-dilakukan seperti pada kata dasar.
+(1) Pemenggalan kata berimbuhan yang bentuk dasarnya mengalami perubahan dilakukan seperti pada kata dasar.
 
 Misalnya:
 
@@ -351,7 +351,8 @@ telah disampaikan ….
 Walaupun cuma-cuma, mereka tidak mau
 mengambil makanan itu.
 
-II.E.3. Jika sebuah kata terdiri atas dua unsur atau lebih dan salah satu unsurnya itu dapat bergabung dengan unsur lain, pemenggalannya dilakukan di antara unsur-unsur itu. Tiap unsur gabungan itu dipenggal seperti pada kata dasar.
+!!! important ""
+	**II.E.3.** Jika sebuah kata terdiri atas dua unsur atau lebih dan salah satu unsurnya itu dapat bergabung dengan unsur lain, pemenggalannya dilakukan di antara unsur-unsur itu. Tiap unsur gabungan itu dipenggal seperti pada kata dasar.
 
 Misalnya:
 
@@ -386,8 +387,8 @@ pascasarjana
 pasca-sarjana
 pas-ca-sar-ja-na
 
-II.E.4. Nama orang yang terdiri atas dua unsur atau lebih pada akhir baris dipenggal di antara
-unsur-unsurnya.
+!!! important ""
+	**II.E.4.** Nama orang yang terdiri atas dua unsur atau lebih pada akhir baris dipenggal di antara unsur-unsurnya.
 
 Misalnya:
 
@@ -396,24 +397,25 @@ Supratman.
 Buku Layar Terkembang dikarang oleh Sutan Takdir
 Alisjahbana.
 
-II.E.5. Singkatan nama diri dan gelar yang terdiri atas dua huruf atau lebih tidak dipenggal.
+!!! important ""
+	**II.E.5.** Singkatan nama diri dan gelar yang terdiri atas dua huruf atau lebih tidak dipenggal.
 
 Misalnya:
 
 Ia bekerja di DLLAJR.
 Pujangga terakhir Keraton Surakarta bergelar R.Ng. Rangga Warsita.
 
-Catatan:
+Catatan: Penulisan berikut dihindari.
 
-Penulisan berikut dihindari.
-Ia bekerja di DLL-
+- Ia bekerja di DLL-
 AJR.
-Pujangga terakhir Keraton Surakarta bergelar R.
+- Pujangga terakhir Keraton Surakarta bergelar R.
 Ng. Rangga Warsita.
 
 # II.F. Kata Depan
 
-Kata depan, seperti *di*, *ke*, dan *dari*, ditulis terpisah dari kata yang mengikutinya.
+!!! important ""
+	Kata depan, seperti *di*, *ke*, dan *dari*, ditulis terpisah dari kata yang mengikutinya.
 
 Misalnya:
 
@@ -427,7 +429,8 @@ Misalnya:
 
 # II.G. Partikel
 
-II.G.1. Partikel *-lah*, *-kah*, dan *-tah* ditulis serangkai dengan kata yang mendahuluinya.
+!!! important ""
+	**II.G.1.** Partikel *-lah*, *-kah*, dan *-tah* ditulis serangkai dengan kata yang mendahuluinya.
 
 Misalnya:
 
@@ -436,7 +439,8 @@ Misalnya:
 - Siapakah gerangan dia?
 - Apatah gunanya bersedih hati?
 
-II.G.2. Partikel *pun* ditulis terpisah dari kata yang mendahuluinya.
+!!! important ""
+	**II.G.2.** Partikel *pun* ditulis terpisah dari kata yang mendahuluinya.
 
 Misalnya:
 
@@ -453,7 +457,8 @@ Misalnya:
 - Adapun penyebab kemacetan itu belum diketahui.
 - Bagaimanapun pekerjaan itu harus selesai minggu depan.
 
-II.G.3. Partikel *per* yang berarti 'demi', 'tiap', atau 'mulai' ditulis terpisah dari kata yang mengikutinya.
+!!! important ""
+	**II.G.3.** Partikel *per* yang berarti 'demi', 'tiap', atau 'mulai' ditulis terpisah dari kata yang mengikutinya.
 
 Misalnya:
 
@@ -463,7 +468,8 @@ Misalnya:
 
 # II.H. Singkatan dan Akronim
 
-II.H.1. Singkatan nama orang, gelar, sapaan, jabatan, atau pangkat diikuti dengan tanda titik pada setiap unsur singkatan itu.
+!!! important ""
+	**II.H.1.** Singkatan nama orang, gelar, sapaan, jabatan, atau pangkat diikuti dengan tanda titik pada setiap unsur singkatan itu.
 
 Misalnya:
 
@@ -481,9 +487,8 @@ S.K.M. sarjana kesehatan masyarakat
 Sdr. saudara
 Kol. Darmawati Kolonel Darmawati
 
-II.H.2. a. Singkatan yang terdiri atas huruf awal setiap kata nama lembaga pemerintah dan
-ketatanegaraan, lembaga pendidikan, badan atau organisasi, serta nama dokumen
-resmi ditulis dengan huruf kapital tanpa tanda titik.
+!!! important ""
+	**II.H.2.** a. Singkatan yang terdiri atas huruf awal setiap kata nama lembaga pemerintah dan ketatanegaraan, lembaga pendidikan, badan atau organisasi, serta nama dokumen resmi ditulis dengan huruf kapital tanpa tanda titik.
 
 Misalnya:
 
@@ -505,7 +510,8 @@ KTP kartu tanda penduduk
 SIM surat izin mengemudi
 NIP nomor induk pegawai
 
-II.H.3. Singkatan yang terdiri atas tiga huruf atau lebih diikuti dengan tanda titik.
+!!! important ""
+		**II.H.3.** Singkatan yang terdiri atas tiga huruf atau lebih diikuti dengan tanda titik.
 
 Misalnya:
 
@@ -519,7 +525,8 @@ yth. yang terhormat
 ttd. tertanda
 dkk. dan kawan-kawan
 
-II.H.4. Singkatan yang terdiri atas dua huruf yang lazim dipakai dalam surat-menyurat masing- masing diikuti oleh tanda titik.
+!!! important ""
+	**II.H.4.** Singkatan yang terdiri atas dua huruf yang lazim dipakai dalam surat-menyurat masing- masing diikuti oleh tanda titik.
 
 Misalnya:
 
@@ -529,7 +536,8 @@ u.b. untuk beliau
 u.p. untuk perhatian
 s.d. sampai dengan
 
-II.H.5. Lambang kimia, singkatan satuan ukuran, takaran, timbangan, dan mata uang tidak diikuti tanda titik.
+!!! important ""
+	**II.H.5.** Lambang kimia, singkatan satuan ukuran, takaran, timbangan, dan mata uang tidak diikuti tanda titik.
 
 Misalnya:
 
@@ -540,7 +548,8 @@ l liter
 kg kilogram
 Rp rupiah
 
-II.H.6. Akronim nama diri yang terdiri atas huruf awal setiap kata ditulis dengan huruf kapital tanpa tanda titik.
+!!! important ""
+	**II.H.6.** Akronim nama diri yang terdiri atas huruf awal setiap kata ditulis dengan huruf kapital tanpa tanda titik.
 
 Misalnya:
 
@@ -550,7 +559,8 @@ LIPI Lembaga Ilmu Pengetahuan Indonesia
 LAN Lembaga Administrasi Negara
 PASI Persatuan Atletik Seluruh Indonesia
 
-II.H.7. Akronim nama diri yang berupa gabungan suku kata atau gabungan huruf dan suku kata dari deret kata ditulis dengan huruf awal kapital.
+!!! important ""
+	**II.H.7.** Akronim nama diri yang berupa gabungan suku kata atau gabungan huruf dan suku kata dari deret kata ditulis dengan huruf awal kapital.
 
 Misalnya:
 
@@ -561,7 +571,8 @@ Kalteng Kalimantan Tengah
 Mabbim Majelis Bahasa Brunei Darussalam-Indonesia-Malaysia
 Suramadu Surabaya Madura
 
-II.H.8. Akronim bukan nama diri yang berupa gabungan huruf awal dan suku kata atau gabungan suku kata ditulis dengan huruf kecil.
+!!! important ""
+	**II.H.8.** Akronim bukan nama diri yang berupa gabungan huruf awal dan suku kata atau gabungan suku kata ditulis dengan huruf kecil.
 
 Misalnya:
 
@@ -579,7 +590,8 @@ Angka Arab atau angka Romawi lazim dipakai sebagai lambang bilangan atau nomor.
 - Angka Arab: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9
 - Angka Romawi: I, II, III, IV, V, VI, VII, VIII, IX, X, L (50), C (100), D (500), M (1.000), V (5.000), M (1.000.000)
 
-II.I.1. Bilangan dalam teks yang dapat dinyatakan dengan satu atau dua kata ditulis dengan huruf, kecuali jika dipakai secara berurutan seperti dalam perincian.
+!!! important ""
+	**II.I.1.** Bilangan dalam teks yang dapat dinyatakan dengan satu atau dua kata ditulis dengan huruf, kecuali jika dipakai secara berurutan seperti dalam perincian.
 
 Misalnya:
 
@@ -588,7 +600,8 @@ Misalnya:
 - Di antara 72 anggota yang hadir, 52 orang setuju, 15 orang tidak setuju, dan 5 orang abstain.
 - Kendaraan yang dipesan untuk angkutan umum terdiri atas 50 bus, 100 minibus, dan 250 sedan.
 
-II.I.2. Bilangan pada awal kalimat ditulis dengan huruf.
+!!! important ""
+	**II.I.2.** Bilangan pada awal kalimat ditulis dengan huruf.
 
 Misalnya:
 
@@ -612,7 +625,8 @@ Catatan: Penulisan berikut dihindari:
 - 250 orang peserta diundang panitia.
 - 25 naskah kuno tersimpan di lemari itu.
 
-II.I.3. Angka yang menunjukkan bilangan besar dapat ditulis sebagian dengan huruf supaya lebih mudah dibaca.
+!!! important ""
+	**II.I.3.** Angka yang menunjukkan bilangan besar dapat ditulis sebagian dengan huruf supaya lebih mudah dibaca.
 
 Misalnya:
 
@@ -620,7 +634,8 @@ Misalnya:
 - Perusahaan itu baru saja mendapat pinjaman 550 miliar rupiah.
 - Proyek pemberdayaan ekonomi rakyat itu memerlukan biaya Rp10 triliun.
 
-II.I.4. Angka dipakai untuk menyatakan (a) ukuran panjang, berat, luas, isi, dan waktu serta (b) nilai uang.
+!!! important ""
+	**II.I.4.** Angka dipakai untuk menyatakan (a) ukuran panjang, berat, luas, isi, dan waktu serta (b) nilai uang.
 
 Misalnya:
 
@@ -635,7 +650,8 @@ Misalnya:
 - £5,10
 - ¥100
 
-II.I.5. Angka dipakai untuk menomori alamat, seperti jalan, rumah, apartemen, atau kamar.
+!!! important ""
+	**II.I.5.** Angka dipakai untuk menomori alamat, seperti jalan, rumah, apartemen, atau kamar.
 
 Misalnya:
 
@@ -645,7 +661,8 @@ Misalnya:
 - Hotel Mahameru, Kamar 169
 - Gedung Samudra, Lantai II, Ruang 201
 
-II.I.6. Angka dipakai untuk menomori bagian karangan atau ayat kitab suci.
+!!! important ""
+	**II.I.6.** Angka dipakai untuk menomori bagian karangan atau ayat kitab suci.
 
 Misalnya:
 
@@ -653,7 +670,8 @@ Misalnya:
 - Surah Yasin: 9
 - Markus 16: 15—16
 
-II.I.7. Penulisan bilangan dengan huruf dilakukan sebagai berikut.
+!!! important ""
+	**II.I.7.** Penulisan bilangan dengan huruf dilakukan sebagai berikut.
 
 a. Bilangan Utuh
 
@@ -675,7 +693,8 @@ Misalnya:
 - satu persen (1%)
 - satu permil (1o/oo)
 
-II.I.8. Penulisan bilangan tingkat dapat dilakukan dengan cara berikut.
+!!! important ""
+	**II.I.8.** Penulisan bilangan tingkat dapat dilakukan dengan cara berikut.
 
 Misalnya:
 
@@ -686,7 +705,8 @@ Misalnya:
 - Perang Dunia Ke-2
 - Perang Dunia Kedua
 
-II.I.9. Penulisan angka yang mendapat akhiran *-an* dilakukan dengan cara berikut.
+!!! important ""
+	**II.I.9.** Penulisan angka yang mendapat akhiran *-an* dilakukan dengan cara berikut.
 
 Misalnya:
 
@@ -694,22 +714,24 @@ Misalnya:
 - tahun 1950-an (tahun seribu sembilan ratus lima puluhan)
 - uang 5.000-an (uang lima ribuan)
 
-II.I.10. Penulisan bilangan dengan angka dan huruf sekaligus dilakukan dalam peraturan perundang-undangan, akta, dan kuitansi.
+!!! important ""
+	**II.I.10.** Penulisan bilangan dengan angka dan huruf sekaligus dilakukan dalam peraturan perundang-undangan, akta, dan kuitansi.
 
 Misalnya:
 
 - Setiap orang yang menyebarkan atau mengedarkan rupiah tiruan, sebagaimana dimaksud dalam Pasal 23 ayat (2), dipidana dengan pidana kurungan paling lama 1 (satu) tahun dan pidana denda paling banyak Rp200.000.000,00 (dua ratus juta rupiah).
 - Telah diterima uang sebanyak Rp2.950.000,00 (dua juta sembilan ratus lima puluh ribu rupiah) untuk pembayaran satu unit televisi.
 
-II.I.11. Penulisan bilangan yang dilambangkan dengan angka dan diikuti huruf dilakukan
-seperti berikut.
+!!! important ""
+	**II.I.11.** Penulisan bilangan yang dilambangkan dengan angka dan diikuti huruf dilakukan sseperti berikut.
 
 Misalnya:
 
 - Saya lampirkan tanda terima uang sebesar Rp900.500,50 (sembilan ratus ribu lima ratus rupiah lima puluh sen).
 - Bukti pembelian barang seharga Rp5.000.000,00 (lima juta rupiah) ke atas harus dilampirkan pada laporan pertanggungjawaban.
 
-II.I.12. Bilangan yang digunakan sebagai unsur nama geografi ditulis dengan huruf.
+!!! important ""
+	**II.I.12.** Bilangan yang digunakan sebagai unsur nama geografi ditulis dengan huruf.
 
 Misalnya:
 
@@ -721,7 +743,8 @@ Misalnya:
 
 # II.J. Kata Ganti
 
-Kata ganti *ku-* dan *kau-* ditulis serangkai dengan kata yang mengikutinya, sedangkan *-ku*, *-mu*, dan *-nya* ditulis serangkai dengan kata yang mendahuluinya.
+!!! important ""
+	Kata ganti *ku-* dan *kau-* ditulis serangkai dengan kata yang mengikutinya, sedangkan *-ku*, *-mu*, dan *-nya* ditulis serangkai dengan kata yang mendahuluinya.
 
 Misalnya:
 
@@ -732,7 +755,8 @@ Misalnya:
 
 # II.K. Kata Sandang
 
-Kata *si* dan *sang* ditulis terpisah dari kata yang mengikutinya.
+!!! important ""
+	Kata *si* dan *sang* ditulis terpisah dari kata yang mengikutinya.
 
 Misalnya:
 

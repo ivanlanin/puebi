@@ -1,17 +1,19 @@
 # III.A. Tanda Titik (.)
 
-**III.A.1.** Tanda titik dipakai pada akhir kalimat pernyataan.
+!!! important ""
+	**III.A.1.** Tanda titik dipakai pada akhir kalimat pernyataan.
 
 Misalnya:
 
 - Mereka duduk di sana.
 - Dia akan datang pada pertemuan itu.
 
-**III.A.2.** Tanda titik dipakai di belakang angka atau huruf dalam suatu bagan, ikhtisar, atau daftar.
+!!! important ""
+	**III.A.2.** Tanda titik dipakai di belakang angka atau huruf dalam suatu bagan, ikhtisar, atau daftar.
 
 Misalnya:
 
-I\. Kondisi Kebahasaan di Indonesia  
+- I\. Kondisi Kebahasaan di Indonesia  
 &nbsp;&nbsp;A\. Bahasa Indonesia  
 &nbsp;&nbsp;&nbsp;&nbsp;1\. Kedudukan  
 &nbsp;&nbsp;&nbsp;&nbsp;2\. Fungsi  
@@ -21,8 +23,7 @@ I\. Kondisi Kebahasaan di Indonesia
 &nbsp;&nbsp;C\. Bahasa Asing  
 &nbsp;&nbsp;&nbsp;&nbsp;1\. Kedudukan  
 &nbsp;&nbsp;&nbsp;&nbsp;2\. Fungsi  
-
-1\. Patokan Umum  
+- 1\. Patokan Umum  
 1\.1 Isi Karangan  
 1\.2 Ilustrasi  
 1\.2.1 Gambar Tangan  
@@ -44,7 +45,7 @@ b) identitas nasional, dan
 c) alat pemersatu bangsa;  
 2) bahasa negara ....  
 
-(2) Tanda titik tidak dipakai pada akhir penomoran digital yang lebih dari satu angka (seperti pada Misalnya 2b).
+(2) Tanda titik tidak dipakai pada akhir penomoran digital yang lebih dari satu angka (seperti pada Misalnya III.A.2.b).
 
 (3) Tanda titik tidak dipakai di belakang angka atau angka terakhir dalam penomoran deret digital yang lebih dari satu angka dalam judul tabel, bagan, grafik, atau gambar.
 
@@ -59,24 +60,26 @@ Misalnya:
 - Gambar 1 Gedung Cakrawala
 - Gambar 1.1 Ruang Rapat
 
-**III.A.3.** Tanda titik dipakai untuk memisahkan angka jam, menit, dan detik yang menunjukkan waktu atau jangka waktu.
+!!! important ""
+	**III.A.3.** Tanda titik dipakai untuk memisahkan angka jam, menit, dan detik yang menunjukkan waktu atau jangka waktu.
 
 Misalnya:
 
-- pukul 01.35.20 (pukul 1 lewat 35 menit 20 detik
-- atau pukul 1, 35 menit, 20 detik)
+- pukul 01.35.20 (pukul 1 lewat 35 menit 20 detik atau pukul 1, 35 menit, 20 detik)
 - 01.35.20 jam (1 jam, 35 menit, 20 detik)
 - 00.20.30 jam (20 menit, 30 detik)
 - 00.00.30 jam (30 detik)
 
-**III.A.4.** Tanda titik dipakai dalam daftar pustaka di antara nama penulis, tahun, judul tulisan (yang tidak berakhir dengan tanda tanya atau tanda seru), dan tempat terbit.
+!!! important ""
+	**III.A.4.** Tanda titik dipakai dalam daftar pustaka di antara nama penulis, tahun, judul tulisan (yang tidak berakhir dengan tanda tanya atau tanda seru), dan tempat terbit.
 
 Misalnya:
 
 - Pusat Bahasa, Departemen Pendidikan Nasional. 2008. Peta Bahasa di Negara Kesatuan Republik Indonesia. Jakarta.
 - Moeliono, Anton M. 1989. Kembara Bahasa. Jakarta: Gramedia.
 
-**III.A.5.** Tanda titik dipakai untuk memisahkan bilangan ribuan atau kelipatannya yang menunjukkan jumlah.
+!!! important ""
+	**III.A.5.** Tanda titik dipakai untuk memisahkan bilangan ribuan atau kelipatannya yang menunjukkan jumlah.
 
 Misalnya:
 
@@ -87,6 +90,7 @@ Misalnya:
 Catatan:
 
 (1) Tanda titik tidak dipakai untuk memisahkan bilangan ribuan atau kelipatannya yang tidak menunjukkan jumlah.
+
 Misalnya:
 
 - Dia lahir pada tahun 1956 di Bandung.
@@ -94,6 +98,7 @@ Misalnya:
 - Nomor rekening panitia seminar adalah 0015645678.
 
 (2) Tanda titik tidak dipakai pada akhir judul yang merupakan kepala karangan, ilustrasi, atau tabel.
+
 Misalnya:
 
 - Acara Kunjungan Menteri Pendidikan dan Kebudayaan
@@ -102,25 +107,27 @@ Misalnya:
 - Tabel 5 Sikap Bahasa Generasi Muda Berdasarkan Pendidikan
 
 (3) Tanda titik tidak dipakai di belakang (a) alamat penerima dan pengirim surat serta (b) tanggal surat.
+
 Misalnya:
 
-- Yth. Direktur Taman Ismail Marzuki
-- Jalan Cikini Raya No. 73
-- Menteng
-- Jakarta 10330
-- Yth. Kepala Badan Pengembangan dan Pembinaan Bahasa
-- Jalan Daksinapati Barat IV
-- Rawamangun
-- Jakarta Timur
-- Indrawati, M.Hum.
-- Jalan Cempaka II No. 9
-- Jakarta Timur
+- Yth. Direktur Taman Ismail Marzuki  
+Jalan Cikini Raya No. 73  
+Menteng  
+Jakarta 10330
+- Yth. Kepala Badan Pengembangan dan Pembinaan Bahasa  
+Jalan Daksinapati Barat IV  
+Rawamangun  
+Jakarta Timur
+- Indrawati, M.Hum.  
+Jalan Cempaka II No. 9  
+Jakarta Timur
 - 21 April 2013
 - Jakarta, 15 Mei 2013 (tanpa kop surat)
 
 # III.B. Tanda Koma (,)
 
-**III.B.1.** Tanda koma dipakai di antara unsur-unsur dalam suatu pemerincian atau pembilangan.
+!!! important ""
+	**III.B.1.** Tanda koma dipakai di antara unsur-unsur dalam suatu pemerincian atau pembilangan.
 
 Misalnya:
 
@@ -128,7 +135,8 @@ Misalnya:
 - Buku, majalah, dan jurnal termasuk sumber kepustakaan.
 - Satu, dua, ... tiga!
 
-**III.B.2.** Tanda koma dipakai sebelum kata penghubung, seperti tetapi, melainkan, dan sedangkan, dalam kalimat majemuk (setara).
+!!! important ""
+	**III.B.2.** Tanda koma dipakai sebelum kata penghubung, seperti tetapi, melainkan, dan sedangkan, dalam kalimat majemuk (setara).
 
 Misalnya:
 
@@ -136,7 +144,8 @@ Misalnya:
 - Ini bukan milik saya, melainkan milik ayah saya.
 - Dia membaca cerita pendek, sedangkan adiknya melukis panorama.
 
-**III.B.3.** Tanda koma dipakai untuk memisahkan anak kalimat yang mendahului induk kalimatnya.
+!!! important ""
+	**III.B.3.** Tanda koma dipakai untuk memisahkan anak kalimat yang mendahului induk kalimatnya.
 
 Misalnya:
 
@@ -152,7 +161,8 @@ Misalnya:
 - Dia mempunyai banyak teman karena baik hati.
 - Kita harus banyak membaca buku agar memiliki wawasan yang luas.
 
-**III.B.4.** Tanda koma dipakai di belakang kata atau ungkapan penghubung antarkalimat, seperti oleh karena itu, jadi, dengan demikian, sehubungan dengan itu, dan meskipun demikian.
+!!! important ""
+	**III.B.4.** Tanda koma dipakai di belakang kata atau ungkapan penghubung antarkalimat, seperti oleh karena itu, jadi, dengan demikian, sehubungan dengan itu, dan meskipun demikian.
 
 Misalnya:
 
@@ -160,7 +170,8 @@ Misalnya:
 - Anak itu memang rajin membaca sejak kecil. Jadi, wajar kalau dia menjadi bintang pelajar
 - Orang tuanya kurang mampu. Meskipun demikian, anak-anaknya berhasil menjadi sarjana.
 
-**III.B.5.** Tanda koma dipakai sebelum dan/atau sesudah kata seru, seperti *o*, *ya*, *wah*, *aduh*, atau *hai*, dan kata yang dipakai sebagai sapaan, seperti *Bu*, *Dik*, atau *Nak*.
+!!! important ""
+	**III.B.5.** Tanda koma dipakai sebelum dan/atau sesudah kata seru, seperti *o*, *ya*, *wah*, *aduh*, atau *hai*, dan kata yang dipakai sebagai sapaan, seperti *Bu*, *Dik*, atau *Nak*.
 
 Misalnya:
 
@@ -171,7 +182,8 @@ Misalnya:
 - Siapa namamu, Dik?
 - Dia baik sekali, Bu.
 
-**III.B.6.** Tanda koma dipakai untuk memisahkan petikan langsung dari bagian lain dalam kalimat.
+!!! important ""
+	**III.B.6.** Tanda koma dipakai untuk memisahkan petikan langsung dari bagian lain dalam kalimat.
 
 Misalnya:
 
@@ -186,7 +198,8 @@ Misalnya:
 - "Masuk ke dalam kelas sekarang!" perintahnya.
 - "Wow, indahnya pantai ini!" seru wisatawan itu.
 
-**III.B.7.** Tanda koma dipakai di antara (a) nama dan alamat, (b) bagian-bagian alamat, (c) tempat dan tanggal, serta (d) nama tempat dan wilayah atau negeri yang ditulis berurutan.
+!!! important ""
+	**III.B.7.** Tanda koma dipakai di antara (a) nama dan alamat, (b) bagian-bagian alamat, (c) tempat dan tanggal, serta (d) nama tempat dan wilayah atau negeri yang ditulis berurutan.
 
 Misalnya:
 
@@ -195,7 +208,8 @@ Misalnya:
 - Surabaya, 10 Mei 1960
 - Tokyo, Jepang
 
-**III.B.8.** Tanda koma dipakai untuk memisahkan bagian nama yang dibalik susunannya dalam daftar pustaka.
+!!! important ""
+	**III.B.8.** Tanda koma dipakai untuk memisahkan bagian nama yang dibalik susunannya dalam daftar pustaka.
 
 Misalnya:
 
@@ -203,7 +217,8 @@ Misalnya:
 - Halim, Amran (Ed.) 1976. Politik Bahasa Nasional. Jilid 1. Jakarta: Pusat Bahasa.
 - Tulalessy, D. dkk. 2005. Pengembangan Potensi Wisata Bahari di Wilayah Indonesia Timur. Ambon: Mutiara Beta.
 
-**III.B.9.** Tanda koma dipakai di antara bagian-bagian dalam catatan kaki atau catatan akhir.
+!!! important ""
+	**III.B.9.** Tanda koma dipakai di antara bagian-bagian dalam catatan kaki atau catatan akhir.
 
 Misalnya:
 
@@ -211,7 +226,8 @@ Misalnya:
 - Hadikusuma Hilman, Ensiklopedi Hukum Adat dan Adat Budaya Indonesia (Bandung: Alumni, 1977), hlm. 12.
 - W.J.S. Poerwadarminta, Bahasa Indonesia untuk Karang-mengarang (Jogjakarta: UP Indonesia, 1967), hlm. 4.
 
-**III.B.10.** Tanda koma dipakai di antara nama orang dan singkatan gelar akademis yang mengikutinya untuk membedakannya dari singkatan nama diri, keluarga, atau marga.
+!!! important ""
+	**III.B.10.** Tanda koma dipakai di antara nama orang dan singkatan gelar akademis yang mengikutinya untuk membedakannya dari singkatan nama diri, keluarga, atau marga.
 
 Misalnya:
 
@@ -222,7 +238,8 @@ Misalnya:
 
 Catatan: Bandingkan Siti Khadijah, M.A. dengan Siti Khadijah M.A. (Siti Khadijah Mas Agung).
 
-**III.B.11.** Tanda koma dipakai sebelum angka desimal atau di antara rupiah dan sen yang dinyatakan dengan angka.
+!!! important ""
+	**III.B.11.** Tanda koma dipakai sebelum angka desimal atau di antara rupiah dan sen yang dinyatakan dengan angka.
 
 Misalnya:
 
@@ -231,7 +248,8 @@ Misalnya:
 - Rp500,50
 - Rp750,00
 
-**III.B.12.** Tanda koma dipakai untuk mengapit keterangan tambahan atau keterangan aposisi.
+!!! important ""
+	**III.B.12.** Tanda koma dipakai untuk mengapit keterangan tambahan atau keterangan aposisi.
 
 Misalnya:
 
@@ -242,9 +260,10 @@ Misalnya:
 
 Bandingkan dengan keterangan pewatas yang pemakaiannya tidak diapit tanda koma!
 
-Siswa yang lulus dengan nilai tinggi akan diterima di perguruan tinggi itu tanpa melalui tes.
+- Siswa yang lulus dengan nilai tinggi akan diterima di perguruan tinggi itu tanpa melalui tes.
 
-**III.B.13.** Tanda koma dapat dipakai di belakang keterangan yang terdapat pada awal kalimat untuk menghindari salah baca/salah pengertian.
+!!! important ""
+	**III.B.13.** Tanda koma dapat dipakai di belakang keterangan yang terdapat pada awal kalimat untuk menghindari salah baca/salah pengertian.
 
 Misalnya:
 
@@ -258,14 +277,16 @@ Bandingkan dengan:
 
 # III.C. Tanda Titik Koma (;)
 
-**III.C.1.** Tanda titik koma dapat dipakai sebagai pengganti kata penghubung untuk memisahkan kalimat setara yang satu dari kalimat setara yang lain di dalam kalimat majemuk.
+!!! important ""
+	**III.C.1.** Tanda titik koma dapat dipakai sebagai pengganti kata penghubung untuk memisahkan kalimat setara yang satu dari kalimat setara yang lain di dalam kalimat majemuk.
 
 Misalnya:
 
 - Hari sudah malam; anak-anak masih membaca buku.
 - Ayah menyelesaikan pekerjaan; Ibu menulis makalah; Adik membaca cerita pendek.
 
-**III.C.2.** Tanda titik koma dipakai pada akhir perincian yang berupa klausa.
+!!! important ""
+	**III.C.2.** Tanda titik koma dipakai pada akhir perincian yang berupa klausa.
 
 Misalnya:
 
@@ -275,7 +296,8 @@ Syarat penerimaan pegawai di lembaga ini adalah
 (3) berbadan sehat; dan  
 (4) bersedia ditempatkan di seluruh wilayah Negara Kesatuan Republik Indonesia.  
 
-**III.C.3.** Tanda titik koma dipakai untuk memisahkan bagian-bagian pemerincian dalam kalimat yang sudah menggunakan tanda koma.
+!!! important ""
+	**III.C.3.** Tanda titik koma dipakai untuk memisahkan bagian-bagian pemerincian dalam kalimat yang sudah menggunakan tanda koma.
 
 Misalnya:
 
@@ -287,45 +309,49 @@ Misalnya:
 
 # III.D. Tanda Titik Dua (:)
 
-**III.D.1.** Tanda titik dua dipakai pada akhir suatu pernyataan lengkap yang diikuti pemerincian atau penjelasan.
+!!! important ""
+	**III.D.1.** Tanda titik dua dipakai pada akhir suatu pernyataan lengkap yang diikuti pemerincian atau penjelasan.
 
 Misalnya:
 
 - Mereka memerlukan perabot rumah tangga: kursi, meja, dan lemari.
 - Hanya ada dua pilihan bagi para pejuang kemerdekaan: hidup atau mati.
 
-**III.D.2.** Tanda titik dua tidak dipakai jika perincian atau penjelasan itu merupakan pelengkap yang mengakhiri pernyataan.
+!!! important ""
+	**III.D.2.** Tanda titik dua tidak dipakai jika perincian atau penjelasan itu merupakan pelengkap yang mengakhiri pernyataan.
 
 Misalnya:
 
 - Kita memerlukan kursi, meja, dan lemari.
 - Tahap penelitian yang harus dilakukan meliputi  
-    a. persiapan,  
-    b. pengumpulan data,  
-    c. pengolahan data, dan  
-    d. pelaporan.  
+a. persiapan,  
+b. pengumpulan data,  
+c. pengolahan data, dan  
+d. pelaporan.  
 
-**III.D.3.** Tanda titik dua dipakai sesudah kata atau ungkapan yang memerlukan pemerian.
+!!! important ""
+	**III.D.3.** Tanda titik dua dipakai sesudah kata atau ungkapan yang memerlukan pemerian.
 
 Misalnya:
 
 - Ketua : Ahmad Wijaya  
 Sekretaris : Siti Aryani  
 Bendahara : Aulia Arimbi
-
 - Narasumber : Prof. Dr. Rahmat Effendi  
 Pemandu : Abdul Gani, M.Hum.  
 Pencatat : Sri Astuti Amelia, S.Pd.  
 
-**III.D.4.** Tanda titik dua dipakai dalam naskah drama sesudah kata yang menunjukkan pelaku dalam percakapan.
+!!! important ""
+	**III.D.4.** Tanda titik dua dipakai dalam naskah drama sesudah kata yang menunjukkan pelaku dalam percakapan.
 
 Misalnya:
 
-- Ibu : "Bawa koper ini, Nak!"
-- Amir : "Baik, Bu."
-- Ibu : "Jangan lupa, letakkan baik-baik!"
+- Ibu : "Bawa koper ini, Nak!"  
+Amir : "Baik, Bu."  
+Ibu : "Jangan lupa, letakkan baik-baik!"  
 
-**III.D.5.** Tanda titik dua dipakai di antara (a) jilid atau nomor dan halaman, (b) surah dan ayat dalam kitab suci, (c) judul dan anak judul suatu karangan, serta (d) nama kota dan penerbit dalam daftar pustaka.
+!!! important ""
+	**III.D.5.** Tanda titik dua dipakai di antara (a) jilid atau nomor dan halaman, (b) surah dan ayat dalam kitab suci, (c) judul dan anak judul suatu karangan, serta (d) nama kota dan penerbit dalam daftar pustaka.
 
 Misalnya:
 
@@ -337,7 +363,8 @@ Misalnya:
 
 # III.E. Tanda Hubung (-)
 
-**III.E.1.** Tanda hubung dipakai untuk menandai bagian kata yang terpenggal oleh pergantian baris.
+!!! important ""
+	**III.E.1.** Tanda hubung dipakai untuk menandai bagian kata yang terpenggal oleh pergantian baris.
 
 Misalnya:
 
@@ -350,7 +377,8 @@ ukur panas.
 - Parut jenis ini memudahkan kita me-<br>
 ngukur kelapa.
 
-**III.E.2.** Tanda hubung dipakai untuk menyambung unsur kata ulang.
+!!! important ""
+	**III.E.2.** Tanda hubung dipakai untuk menyambung unsur kata ulang.
 
 Misalnya:
 
@@ -359,14 +387,16 @@ Misalnya:
 - kemerah-merahan
 - mengorek-ngorek
 
-**III.E.3.** Tanda hubung dipakai untuk menyambung tanggal, bulan, dan tahun yang dinyatakan dengan angka atau menyambung huruf dalam kata yang dieja satu-satu.
+!!! important ""
+	**III.E.3.** Tanda hubung dipakai untuk menyambung tanggal, bulan, dan tahun yang dinyatakan dengan angka atau menyambung huruf dalam kata yang dieja satu-satu.
 
 Misalnya:
 
 - 11-11-2013
 - p-a-n-i-t-i-a
 
-**III.E.4.** Tanda hubung dapat dipakai untuk memperjelas hubungan bagian kata atau ungkapan.
+!!! important ""
+	**III.E.4.** Tanda hubung dapat dipakai untuk memperjelas hubungan bagian kata atau ungkapan.
 
 Misalnya:
 
@@ -384,14 +414,15 @@ Bandingkan dengan
 - 20 3/25 (dua-puluh tiga perdua-puluh-lima)
 - mesin-hitung tangan
 
-**III.E.5.** Tanda hubung dipakai untuk merangkai  
-a. se- dengan kata berikutnya yang dimulai dengan huruf kapital (se-Indonesia, se-Jawa Barat);  
-b. ke- dengan angka (peringkat ke-2);  
-c. angka dengan –an (tahun 1950-an);  
-d. kata atau imbuhan dengan singkatan yang berupa huruf kapital (hari-H, sinar-X, ber- KTP, di-SK-kan);
-e. kata dengan kata ganti Tuhan (ciptaan-Nya, atas rahmat-Mu);  
-f. huruf dan angka (D-3, S-1, S-2); dan  
-g. kata ganti -ku, -mu, dan -nya dengan singkatan yang berupa huruf kapital (KTP-mu, SIM-nya, STNK-ku).  
+!!! important ""
+	**III.E.5.** Tanda hubung dipakai untuk merangkai  
+	a. se- dengan kata berikutnya yang dimulai dengan huruf kapital (se-Indonesia, se-Jawa Barat);  
+	b. ke- dengan angka (peringkat ke-2);  
+	c. angka dengan –an (tahun 1950-an);  
+	d. kata atau imbuhan dengan singkatan yang berupa huruf kapital (hari-H, sinar-X, ber- KTP, di-SK-kan);
+	e. kata dengan kata ganti Tuhan (ciptaan-Nya, atas rahmat-Mu);  
+	f. huruf dan angka (D-3, S-1, S-2); dan  
+	g. kata ganti -ku, -mu, dan -nya dengan singkatan yang berupa huruf kapital (KTP-mu, SIM-nya, STNK-ku).  
 
 Catatan: Tanda hubung tidak dipakai di antara huruf dan angka jika angka tersebut melambangkan jumlah huruf.
 
@@ -401,7 +432,8 @@ Misalnya:
 - LP3I (Lembaga Pendidikan dan Pengembangan Profesi Indonesia)
 - P3K (pertolongan pertama pada kecelakaan)
 
-**III.E.6.** Tanda hubung dipakai untuk merangkai unsur bahasa Indonesia dengan unsur bahasa daerah atau bahasa asing.
+!!! important ""
+	**III.E.6.** Tanda hubung dipakai untuk merangkai unsur bahasa Indonesia dengan unsur bahasa daerah atau bahasa asing.
 
 Misalnya:
 
@@ -411,7 +443,8 @@ Misalnya:
 - me-recall
 - pen-tackle-an
 
-**III.E.7.** Tanda hubung digunakan untuk menandai bentuk terikat yang menjadi objek bahasan.
+!!! important ""
+	**III.E.7.** Tanda hubung digunakan untuk menandai bentuk terikat yang menjadi objek bahasan.
 
 Misalnya:
 
@@ -420,14 +453,16 @@ Misalnya:
 
 # III.F. Tanda Pisah (—)
 
-**III.F.1.** Tanda pisah dapat dipakai untuk membatasi penyisipan kata atau kalimat yang mem- beri penjelasan di luar bangun kalimat.
+!!! important ""
+	**III.F.1.** Tanda pisah dapat dipakai untuk membatasi penyisipan kata atau kalimat yang memberi penjelasan di luar bangun kalimat.
 
 Misalnya:
 
 - Kemerdekaan bangsa itu—saya yakin akan tercapai—diperjuangkan oleh bangsa itu sendiri.
 - Keberhasilan itu—kita sependapat—dapat dicapai jika kita mau berusaha keras.
 
-**III.F.2.** Tanda pisah dapat dipakai juga untuk menegaskan adanya keterangan aposisi atau keterangan yang lain.
+!!! important ""
+	**III.F.2.** Tanda pisah dapat dipakai juga untuk menegaskan adanya keterangan aposisi atau keterangan yang lain.
 
 Misalnya:
 
@@ -435,7 +470,8 @@ Misalnya:
 - Rangkaian temuan ini—evolusi, teori kenisbian, dan pembelahan atom—telah mengubah konsepsi kita tentang alam semesta.
 - Gerakan Pengutamaan Bahasa Indonesia—amanat Sumpah Pemuda—harus terus digelorakan.
 
-**III.F.3.** Tanda pisah dipakai di antara dua bilangan, tanggal, atau tempat yang berarti 'sampai dengan' atau 'sampai ke'.
+!!! important ""
+	**III.F.3.** Tanda pisah dipakai di antara dua bilangan, tanggal, atau tempat yang berarti 'sampai dengan' atau 'sampai ke'.
 
 Misalnya:
 
@@ -445,14 +481,16 @@ Misalnya:
 
 # III.G. Tanda Tanya (?)
 
-**III.G.1.** Tanda tanya dipakai pada akhir kalimat tanya.
+!!! important ""
+	**III.G.1.** Tanda tanya dipakai pada akhir kalimat tanya.
 
 Misalnya:
 
 - Kapan Hari Pendidikan Nasional diperingati?
 - Siapa pencipta lagu .Indonesia Raya.?
 
-**III.G.2.** Tanda tanya dipakai di dalam tanda kurung untuk menyatakan bagian kalimat yang disangsikan atau yang kurang dapat dibuktikan kebenarannya.
+!!! important ""
+	**III.G.2.** Tanda tanya dipakai di dalam tanda kurung untuk menyatakan bagian kalimat yang disangsikan atau yang kurang dapat dibuktikan kebenarannya.
 
 Misalnya:
 
@@ -461,7 +499,8 @@ Misalnya:
 
 # III.H. Tanda Seru (!)
 
-Tanda seru dipakai untuk mengakhiri ungkapan atau pernyataan yang berupa seruan atau perintah yang menggambarkan kesungguhan, ketidakpercayaan, atau emosi yang kuat.
+!!! important ""
+	Tanda seru dipakai untuk mengakhiri ungkapan atau pernyataan yang berupa seruan atau perintah yang menggambarkan kesungguhan, ketidakpercayaan, atau emosi yang kuat.
 
 Misalnya:
 
@@ -473,20 +512,22 @@ Misalnya:
 
 # III.I. Tanda Elipsis (...)
 
-**III.I.1.** Tanda elipsis dipakai untuk menunjukkan bahwa dalam suatu kalimat atau kutipan ada bagian yang dihilangkan.
+!!! important ""
+	**III.I.1.** Tanda elipsis dipakai untuk menunjukkan bahwa dalam suatu kalimat atau kutipan ada bagian yang dihilangkan.
 
 Misalnya:
 
 - Penyebab kemerosotan ... akan diteliti lebih lanjut.
-- Dalam Undang-Undang Dasar 1945 disebutkan bahwa bahasa negara ialah ….<br>
-..., lain lubuk lain ikannya.
+- Dalam Undang-Undang Dasar 1945 disebutkan bahwa bahasa negara ialah ....
+- ..., lain lubuk lain ikannya.
 
 Catatan:
 
-(1) Tanda elipsis itu didahului dan diikuti dengan spasi.
-(2) Tanda elipsis pada akhir kalimat diikuti oleh tanda titik (jumlah titik empat buah).
+(1) Tanda elipsis itu didahului dan diikuti dengan spasi.  
+(2) Tanda elipsis pada akhir kalimat diikuti oleh tanda titik (jumlah titik empat buah).  
 
-**III.I.2.** Tanda elipsis dipakai untuk menulis ujaran yang tidak selesai dalam dialog.
+!!! important ""
+	**III.I.2.** Tanda elipsis dipakai untuk menulis ujaran yang tidak selesai dalam dialog.
 
 Misalnya:
 
@@ -495,12 +536,13 @@ Misalnya:
 
 Catatan:
 
-(1) Tanda elipsis itu didahului dan diikuti dengan spasi.<br>
-(2) Tanda elipsis pada akhir kalimat diikuti oleh tanda titik (jumlah titik empat buah).
+(1) Tanda elipsis itu didahului dan diikuti dengan spasi.  
+(2) Tanda elipsis pada akhir kalimat diikuti oleh tanda titik (jumlah titik empat buah).  
 
 # III.J. Tanda Petik ("…")
 
-**III.J.1.** Tanda petik dipakai untuk mengapit petikan langsung yang berasal dari pembicaraan, naskah, atau bahan tertulis lain.
+!!! important ""
+	**III.J.1.** Tanda petik dipakai untuk mengapit petikan langsung yang berasal dari pembicaraan, naskah, atau bahan tertulis lain.
 
 Misalnya:
 
@@ -508,7 +550,8 @@ Misalnya:
 - "Kerjakan tugas ini sekarang!" perintah atasannya. "Besok akan dibahas dalam rapat."
 - Menurut Pasal 31 Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, "Setiap warga negara berhak memperoleh pendidikan."
 
-**III.J.2.** Tanda petik dipakai untuk mengapit judul sajak, lagu, film, sinetron, artikel, naskah, atau bab buku yang dipakai dalam kalimat.
+!!! important ""
+	**III.J.2.** Tanda petik dipakai untuk mengapit judul sajak, lagu, film, sinetron, artikel, naskah, atau bab buku yang dipakai dalam kalimat.
 
 Misalnya:
 
@@ -519,7 +562,8 @@ Misalnya:
 - Makalah "Pembentukan Insan Cerdas Kompetitif" menarik perhatian peserta seminar.
 - Perhatikan "Pemakaian Tanda Baca" dalam buku Pedoman Umum Ejaan Bahasa Indonesia yang Disempurnakan.
 
-**III.J.3.** Tanda petik dipakai untuk mengapit istilah ilmiah yang kurang dikenal atau kata yang mempunyai arti khusus.
+!!! important ""
+	**III.J.3.** Tanda petik dipakai untuk mengapit istilah ilmiah yang kurang dikenal atau kata yang mempunyai arti khusus.
 
 Misalnya:
 
@@ -528,7 +572,8 @@ Misalnya:
 
 # III.K. Tanda Petik Tunggal ('…')
 
-**III.K.1.** Tanda petik tunggal dipakai untuk mengapit petikan yang terdapat dalam petikan lain.
+!!! important ""
+	**III.K.1.** Tanda petik tunggal dipakai untuk mengapit petikan yang terdapat dalam petikan lain.
 
 Misalnya:
 
@@ -536,7 +581,8 @@ Misalnya:
 - "Kudengar teriak anakku, 'Ibu, Bapak pulang!', dan rasa letihku lenyap seketika,"ujar Pak Hamdan.
 - "Kita bangga karena lagu 'Indonesia Raya' berkumandang di arena olimpiade itu," kata Ketua KONI.
 
-**III.K.2.** Tanda petik tunggal dipakai untuk mengapit makna, terjemahan, atau penjelasan kata atau ungkapan.
+!!! important ""
+	**III.K.2.** Tanda petik tunggal dipakai untuk mengapit makna, terjemahan, atau penjelasan kata atau ungkapan.
 
 Misalnya:
 
@@ -552,7 +598,8 @@ Misalnya:
 
 # III.L. Tanda Kurung ((…))
 
-**III.L.1.** Tanda kurung dipakai untuk mengapit tambahan keterangan atau penjelasan.
+!!! important ""
+	**III.L.1.** Tanda kurung dipakai untuk mengapit tambahan keterangan atau penjelasan.
 
 Misalnya:
 
@@ -560,21 +607,24 @@ Misalnya:
 - Warga baru itu belum memiliki KTP (kartu tanda penduduk).
 - Lokakarya (workshop) itu diadakan di Manado.
 
-**III.L.2.** Tanda kurung dipakai untuk mengapit keterangan atau penjelasan yang bukan bagian utama kalimat.
+!!! important ""
+	**III.L.2.** Tanda kurung dipakai untuk mengapit keterangan atau penjelasan yang bukan bagian utama kalimat.
 
 Misalnya:
 
 - Sajak Tranggono yang berjudul "Ubud" (nama tempat yang terkenal di Bali) ditulis pada tahun 1962.
 - Keterangan itu (lihat Tabel 10) menunjukkan arus perkembangan baru pasar dalam negeri.
 
-**III.L.3.** Tanda kurung dipakai untuk mengapit huruf atau kata yang keberadaannya di dalam teks dapat dimunculkan atau dihilangkan.
+!!! important ""
+	**III.L.3.** Tanda kurung dipakai untuk mengapit huruf atau kata yang keberadaannya di dalam teks dapat dimunculkan atau dihilangkan.
 
 Misalnya:
 
 - Dia berangkat ke kantor selalu menaiki (bus) Transjakarta.
 - Pesepak bola kenamaan itu berasal dari (Kota) Padang.
 
-**III.L.4.** Tanda kurung dipakai untuk mengapit huruf atau angka yang digunakan sebagai penanda pemerincian.
+!!! important ""
+	**III.L.4.** Tanda kurung dipakai untuk mengapit huruf atau angka yang digunakan sebagai penanda pemerincian.
 
 Misalnya:
 
@@ -586,7 +636,8 @@ Misalnya:
 
 # III.M. Tanda Kurung Siku ([…])
 
-**III.M.1.** Tanda kurung siku dipakai untuk mengapit huruf, kata, atau kelompok kata sebagai koreksi atau tambahan atas kesalahan atau kekurangan di dalam naskah asli yang ditulis orang lain.
+!!! important ""
+	**III.M.1.** Tanda kurung siku dipakai untuk mengapit huruf, kata, atau kelompok kata sebagai koreksi atau tambahan atas kesalahan atau kekurangan di dalam naskah asli yang ditulis orang lain.
 
 Misalnya:
 
@@ -594,7 +645,8 @@ Misalnya:
 - Penggunaan bahasa dalam karya ilmiah harus sesuai [dengan] kaidah bahasa Indonesia.
 - Ulang tahun [Proklamasi Kemerdekaan] Republik Indonesia dirayakan secara khidmat.
 
-**III.M.2.** Tanda kurung siku dipakai untuk mengapit keterangan dalam kalimat penjelas yang terdapat dalam tanda kurung.
+!!! important ""
+	**III.M.2.** Tanda kurung siku dipakai untuk mengapit keterangan dalam kalimat penjelas yang terdapat dalam tanda kurung.
 
 Misalnya:
 
@@ -602,7 +654,8 @@ Misalnya:
 
 # III.N. Tanda Garis Miring (/)
 
-**III.N.1.** Tanda garis miring dipakai dalam nomor surat, nomor pada alamat, dan penandaan masa satu tahun yang terbagi dalam dua tahun takwim.
+!!! important ""
+	**III.N.1.** Tanda garis miring dipakai dalam nomor surat, nomor pada alamat, dan penandaan masa satu tahun yang terbagi dalam dua tahun takwim.
 
 Misalnya:
 
@@ -610,7 +663,8 @@ Misalnya:
 - Jalan Kramat III/10
 - tahun ajaran 2012/2013
 
-**III.N.2.** Tanda garis miring dipakai sebagai pengganti kata dan, atau, serta setiap.
+!!! important ""
+	**III.N.2.** Tanda garis miring dipakai sebagai pengganti kata dan, atau, serta setiap.
 
 Misalnya:
 
@@ -619,7 +673,8 @@ Misalnya:
 - buku dan/atau majalah 'buku dan majalah atau buku atau majalah'
 - harganya Rp1.500,00/lembar 'harganya Rp1.500,00 setiap lembar'
 
-**III.N.3.** Tanda garis miring dipakai untuk mengapit huruf, kata, atau kelompok kata sebagai koreksi atau pengurangan atas kesalahan atau kelebihan di dalam naskah asli yang ditulis orang lain.
+!!! important ""
+	**III.N.3.** Tanda garis miring dipakai untuk mengapit huruf, kata, atau kelompok kata sebagai koreksi atau pengurangan atas kesalahan atau kelebihan di dalam naskah asli yang ditulis orang lain.
 
 Misalnya:
 
@@ -629,11 +684,12 @@ Misalnya:
 
 # III.O. Tanda Penyingkat atau Apostrof (')
 
-Tanda penyingkat dipakai untuk menunjukkan penghilangan bagian kata atau bagian angka tahun dalam konteks tertentu.
+!!! important ""
+	Tanda penyingkat dipakai untuk menunjukkan penghilangan bagian kata atau bagian angka tahun dalam konteks tertentu.
 
 Misalnya:
 
 - Dia 'kan kusurati. ('kan = akan)
 - Mereka sudah datang, 'kan? ('kan = bukan)
 - Malam 'lah tiba. ('lah = telah)
-- 5-2-=13 (‘13 = 2013)
+- 5-2-'13 ('13 = 2013)
