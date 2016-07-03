@@ -11,41 +11,43 @@ Misalnya:
 
 Misalnya:
 
-I\. Kondisi Kebahasaan di Indonesia
-&nbsp;&nbsp;A\. Bahasa Indonesia
-&nbsp;&nbsp;&nbsp;&nbsp;1\. Kedudukan
-&nbsp;&nbsp;&nbsp;&nbsp;2\. Fungsi
-&nbsp;&nbsp;B\. Bahasa Daerah
-&nbsp;&nbsp;&nbsp;&nbsp;1\. Kedudukan
-&nbsp;&nbsp;&nbsp;&nbsp;2\. Fungsi
-&nbsp;&nbsp;C\. Bahasa Asing
-&nbsp;&nbsp;&nbsp;&nbsp;1\. Kedudukan
-&nbsp;&nbsp;&nbsp;&nbsp;2\. Fungsi
+I\. Kondisi Kebahasaan di Indonesia  
+&nbsp;&nbsp;A\. Bahasa Indonesia  
+&nbsp;&nbsp;&nbsp;&nbsp;1\. Kedudukan  
+&nbsp;&nbsp;&nbsp;&nbsp;2\. Fungsi  
+&nbsp;&nbsp;B\. Bahasa Daerah  
+&nbsp;&nbsp;&nbsp;&nbsp;1\. Kedudukan  
+&nbsp;&nbsp;&nbsp;&nbsp;2\. Fungsi  
+&nbsp;&nbsp;C\. Bahasa Asing  
+&nbsp;&nbsp;&nbsp;&nbsp;1\. Kedudukan  
+&nbsp;&nbsp;&nbsp;&nbsp;2\. Fungsi  
 
-1\. Patokan Umum
-1\.1 Isi Karangan
-1\.2 Ilustrasi
-1\.2.1 Gambar Tangan
-1\.2.2 Tabel
-1\.2.3 Grafik
-2\. Patokan Khusus
-...
+1\. Patokan Umum  
+1\.1 Isi Karangan  
+1\.2 Ilustrasi  
+1\.2.1 Gambar Tangan  
+1\.2.2 Tabel  
+1\.2.3 Grafik  
+2\. Patokan Khusus  
+...  
 
 Catatan:
 
 (1) Tanda titik tidak dipakai pada angka atau huruf yang sudah bertanda kurung dalam suatu perincian.
+
 Misalnya:
 
-Bahasa Indonesia berkedudukan sebagai
-1) bahasa nasional yang berfungsi, antara lain,
-a) lambang kebanggaan nasional,
-b) identitas nasional, dan
-c) alat pemersatu bangsa;
-2) bahasa negara ….
+Bahasa Indonesia berkedudukan sebagai  
+1) bahasa nasional yang berfungsi, antara lain,  
+a) lambang kebanggaan nasional,  
+b) identitas nasional, dan  
+c) alat pemersatu bangsa;  
+2) bahasa negara ....  
 
 (2) Tanda titik tidak dipakai pada akhir penomoran digital yang lebih dari satu angka (seperti pada Misalnya 2b).
 
 (3) Tanda titik tidak dipakai di belakang angka atau angka terakhir dalam penomoran deret digital yang lebih dari satu angka dalam judul tabel, bagan, grafik, atau gambar.
+
 Misalnya:
 
 - Tabel 1 Kondisi Kebahasaan di Indonesia
@@ -142,9 +144,7 @@ Misalnya:
 - Karena baik hati, dia mempunyai banyak teman.
 - Agar memiliki wawasan yang luas, kita harus banyak membaca buku.
 
-Catatan:
-
-Tanda koma tidak dipakai jika induk kalimat mendahului anak kalimat.
+Catatan: Tanda koma tidak dipakai jika induk kalimat mendahului anak kalimat.
 
 Misalnya:
 
@@ -160,7 +160,7 @@ Misalnya:
 - Anak itu memang rajin membaca sejak kecil. Jadi, wajar kalau dia menjadi bintang pelajar
 - Orang tuanya kurang mampu. Meskipun demikian, anak-anaknya berhasil menjadi sarjana.
 
-**III.B.5.** Tanda koma dipakai sebelum dan/atau sesudah kata seru, seperti o, ya, wah, aduh, atau hai, dan kata yang dipakai sebagai sapaan, seperti Bu, Dik, atau Nak.
+**III.B.5.** Tanda koma dipakai sebelum dan/atau sesudah kata seru, seperti *o*, *ya*, *wah*, *aduh*, atau *hai*, dan kata yang dipakai sebagai sapaan, seperti *Bu*, *Dik*, atau *Nak*.
 
 Misalnya:
 
@@ -178,9 +178,7 @@ Misalnya:
 - Kata nenek saya, "Kita harus berbagi dalam hidup ini."
 - "Kita harus berbagi dalam hidup ini," kata nenek saya, "karena manusia adalah makhluk sosial."
 
-Catatan:
-
-Tanda koma tidak dipakai untuk memisahkan petikan langsung yang berupa kalimat tanya, kalimat perintah, atau kalimat seru dari bagian lain yang mengikutinya.
+Catatan: Tanda koma tidak dipakai untuk memisahkan petikan langsung yang berupa kalimat tanya, kalimat perintah, atau kalimat seru dari bagian lain yang mengikutinya.
 
 Misalnya:
 
@@ -222,9 +220,7 @@ Misalnya:
 - Bambang Irawan, M.Hum.
 - Siti Aminah, S.H., M.H.
 
-Catatan:
-
-Bandingkan Siti Khadijah, M.A. dengan Siti Khadijah M.A. (Siti Khadijah Mas Agung).
+Catatan: Bandingkan Siti Khadijah, M.A. dengan Siti Khadijah M.A. (Siti Khadijah Mas Agung).
 
 **III.B.11.** Tanda koma dipakai sebelum angka desimal atau di antara rupiah dan sen yang dinyatakan dengan angka.
 
@@ -257,8 +253,8 @@ Misalnya:
 
 Bandingkan dengan:
 
-Dalam pengembangan bahasa kita dapat memanfaatkan bahasa daerah.
-Atas perhatian Saudara kami ucapkan terima kasih.
+- Dalam pengembangan bahasa kita dapat memanfaatkan bahasa daerah.
+- Atas perhatian Saudara kami ucapkan terima kasih.
 
 # III.C. Tanda Titik Koma (;)
 
@@ -273,21 +269,21 @@ Misalnya:
 
 Misalnya:
 
-Syarat penerimaan pegawai di lembaga ini adalah<br>
-(1) berkewarganegaraan Indonesia;<br>
-(2) berijazah sarjana S-1;<br>
-(3) berbadan sehat; dan<br>
-(4) bersedia ditempatkan di seluruh wilayah Negara Kesatuan Republik Indonesia.
+Syarat penerimaan pegawai di lembaga ini adalah  
+(1) berkewarganegaraan Indonesia;  
+(2) berijazah sarjana S-1;  
+(3) berbadan sehat; dan  
+(4) bersedia ditempatkan di seluruh wilayah Negara Kesatuan Republik Indonesia.  
 
 **III.C.3.** Tanda titik koma dipakai untuk memisahkan bagian-bagian pemerincian dalam kalimat yang sudah menggunakan tanda koma.
 
 Misalnya:
 
 - Ibu membeli buku, pensil, dan tinta; baju, celana, dan kaus; pisang, apel, dan jeruk.
-- Agenda rapat ini meliputi<br>
-    a. pemilihan ketua, sekretaris, dan bendahara;<br>
-    b. penyusunan anggaran dasar, anggaran rumah tangga, dan program kerja; dan<br>
-    c. pendataan anggota, dokumentasi, dan aset organisasi.
+- Agenda rapat ini meliputi  
+    a. pemilihan ketua, sekretaris, dan bendahara;  
+    b. penyusunan anggaran dasar, anggaran rumah tangga, dan program kerja; dan  
+    c. pendataan anggota, dokumentasi, dan aset organisasi.  
 
 # III.D. Tanda Titik Dua (:)
 
@@ -303,23 +299,23 @@ Misalnya:
 Misalnya:
 
 - Kita memerlukan kursi, meja, dan lemari.
-- Tahap penelitian yang harus dilakukan meliputi<br>
-    a. persiapan,<br>
-    b. pengumpulan data,<br>
-    c. pengolahan data, dan<br>
-    d. pelaporan.
+- Tahap penelitian yang harus dilakukan meliputi  
+    a. persiapan,  
+    b. pengumpulan data,  
+    c. pengolahan data, dan  
+    d. pelaporan.  
 
 **III.D.3.** Tanda titik dua dipakai sesudah kata atau ungkapan yang memerlukan pemerian.
 
 Misalnya:
 
-- Ketua : Ahmad Wijaya<br>
-Sekretaris : Siti Aryani<br>
+- Ketua : Ahmad Wijaya  
+Sekretaris : Siti Aryani  
 Bendahara : Aulia Arimbi
 
-- Narasumber : Prof. Dr. Rahmat Effendi<br>
-Pemandu : Abdul Gani, M.Hum.<br>
-Pencatat : Sri Astuti Amelia, S.Pd.>
+- Narasumber : Prof. Dr. Rahmat Effendi  
+Pemandu : Abdul Gani, M.Hum.  
+Pencatat : Sri Astuti Amelia, S.Pd.  
 
 **III.D.4.** Tanda titik dua dipakai dalam naskah drama sesudah kata yang menunjukkan pelaku dalam percakapan.
 
@@ -388,17 +384,16 @@ Bandingkan dengan
 - 20 3/25 (dua-puluh tiga perdua-puluh-lima)
 - mesin-hitung tangan
 
-**III.E.5.** Tanda hubung dipakai untuk merangkai
-a. se- dengan kata berikutnya yang dimulai dengan huruf kapital (se-Indonesia, se-Jawa Barat);
-b. ke- dengan angka (peringkat ke-2);
-c. angka dengan –an (tahun 1950-an);
+**III.E.5.** Tanda hubung dipakai untuk merangkai  
+a. se- dengan kata berikutnya yang dimulai dengan huruf kapital (se-Indonesia, se-Jawa Barat);  
+b. ke- dengan angka (peringkat ke-2);  
+c. angka dengan –an (tahun 1950-an);  
 d. kata atau imbuhan dengan singkatan yang berupa huruf kapital (hari-H, sinar-X, ber- KTP, di-SK-kan);
-e. kata dengan kata ganti Tuhan (ciptaan-Nya, atas rahmat-Mu);
-f. huruf dan angka (D-3, S-1, S-2); dan
-g. kata ganti -ku, -mu, dan -nya dengan singkatan yang berupa huruf kapital (KTP-mu, SIM-nya, STNK-ku).
+e. kata dengan kata ganti Tuhan (ciptaan-Nya, atas rahmat-Mu);  
+f. huruf dan angka (D-3, S-1, S-2); dan  
+g. kata ganti -ku, -mu, dan -nya dengan singkatan yang berupa huruf kapital (KTP-mu, SIM-nya, STNK-ku).  
 
-Catatan:
-Tanda hubung tidak dipakai di antara huruf dan angka jika angka tersebut melambangkan jumlah huruf.
+Catatan: Tanda hubung tidak dipakai di antara huruf dan angka jika angka tersebut melambangkan jumlah huruf.
 
 Misalnya:
 
@@ -584,10 +579,10 @@ Misalnya:
 Misalnya:
 
 - Faktor produksi menyangkut (a) bahan baku, (b) biaya produksi, dan (c) tenaga kerja.
-- Dia harus melengkapi berkas lamarannya dengan melampirkan<br>
-(1) akta kelahiran,<br>
-(2) ijazah terakhir, dan<br>
-(3) surat keterangan kesehatan.
+- Dia harus melengkapi berkas lamarannya dengan melampirkan  
+(1) akta kelahiran,  
+(2) ijazah terakhir, dan  
+(3) surat keterangan kesehatan.  
 
 # III.M. Tanda Kurung Siku ([…])
 

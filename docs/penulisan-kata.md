@@ -413,59 +413,57 @@ Ng. Rangga Warsita.
 
 # II.F. Kata Depan
 
-Kata depan, seperti di, ke, dan dari, ditulis terpisah dari kata yang mengikutinya.
+Kata depan, seperti *di*, *ke*, dan *dari*, ditulis terpisah dari kata yang mengikutinya.
 
 Misalnya:
 
-Di mana dia sekarang?
-Kain itu disimpan di dalam lemari.
-Dia ikut terjun ke tengah kancah perjuangan.
-Mari kita berangkat ke kantor.
-Saya pergi ke sana mencarinya.
-Ia berasal dari Pulau Penyengat.
-Cincin itu terbuat dari emas.
+- Di mana dia sekarang?
+- Kain itu disimpan di dalam lemari.
+- Dia ikut terjun ke tengah kancah perjuangan.
+- Mari kita berangkat ke kantor.
+- Saya pergi ke sana mencarinya.
+- Ia berasal dari Pulau Penyengat.
+- Cincin itu terbuat dari emas.
 
 # II.G. Partikel
 
-II.G.1. Partikel -lah, -kah, dan -tah ditulis serangkai dengan kata yang mendahuluinya.
+II.G.1. Partikel *-lah*, *-kah*, dan *-tah* ditulis serangkai dengan kata yang mendahuluinya.
 
 Misalnya:
 
-Bacalah buku itu baik-baik!
-Apakah yang tersirat dalam surat itu?
-Siapakah gerangan dia?
-Apatah gunanya bersedih hati?
+- Bacalah buku itu baik-baik!
+- Apakah yang tersirat dalam surat itu?
+- Siapakah gerangan dia?
+- Apatah gunanya bersedih hati?
 
-II.G.2. Partikel pun ditulis terpisah dari kata yang mendahuluinya.
-
-Misalnya:
-
-Apa pun permasalahan yang muncul, dia dapat mengatasinya dengan bijaksana.
-Jika kita hendak pulang tengah malam pun, kendaraan masih tersedia.
-Jangankan dua kali, satu kali pun engkau belum pernah berkunjung ke rumahku.
-
-Catatan:
-
-Partikel pun yang merupakan unsur kata penghubung ditulis serangkai.
+II.G.2. Partikel *pun* ditulis terpisah dari kata yang mendahuluinya.
 
 Misalnya:
 
-Meskipun sibuk, dia dapat menyelesaikan tugas tepat pada waktunya.
-Dia tetap bersemangat walaupun lelah.
-Adapun penyebab kemacetan itu belum diketahui.
-Bagaimanapun pekerjaan itu harus selesai minggu depan.
+- Apa pun permasalahan yang muncul, dia dapat mengatasinya dengan bijaksana.
+- Jika kita hendak pulang tengah malam pun, kendaraan masih tersedia.
+- Jangankan dua kali, satu kali pun engkau belum pernah berkunjung ke rumahku.
 
-II.G.3. Partikel per yang berarti ‘demi’, ‘tiap’, atau ‘mulai’ ditulis terpisah dari kata yang mengikutinya.
+Catatan: Partikel *pun* yang merupakan unsur kata penghubung ditulis serangkai.
 
 Misalnya:
 
-Mereka masuk ke dalam ruang rapat satu per satu.
-Harga kain itu Rp50.000,00 per meter.
-Karyawan itu mendapat kenaikan gaji per 1 Januari.
+- Meskipun sibuk, dia dapat menyelesaikan tugas tepat pada waktunya.
+- Dia tetap bersemangat walaupun lelah.
+- Adapun penyebab kemacetan itu belum diketahui.
+- Bagaimanapun pekerjaan itu harus selesai minggu depan.
+
+II.G.3. Partikel *per* yang berarti 'demi', 'tiap', atau 'mulai' ditulis terpisah dari kata yang mengikutinya.
+
+Misalnya:
+
+- Mereka masuk ke dalam ruang rapat satu per satu.
+- Harga kain itu Rp50.000,00 per meter.
+- Karyawan itu mendapat kenaikan gaji per 1 Januari.
 
 # II.H. Singkatan dan Akronim
 
-1. Singkatan nama orang, gelar, sapaan, jabatan, atau pangkat diikuti dengan tanda titik pada setiap unsur singkatan itu.
+II.H.1. Singkatan nama orang, gelar, sapaan, jabatan, atau pangkat diikuti dengan tanda titik pada setiap unsur singkatan itu.
 
 Misalnya:
 
@@ -483,7 +481,7 @@ S.K.M. sarjana kesehatan masyarakat
 Sdr. saudara
 Kol. Darmawati Kolonel Darmawati
 
-2. a. Singkatan yang terdiri atas huruf awal setiap kata nama lembaga pemerintah dan
+II.H.2. a. Singkatan yang terdiri atas huruf awal setiap kata nama lembaga pemerintah dan
 ketatanegaraan, lembaga pendidikan, badan atau organisasi, serta nama dokumen
 resmi ditulis dengan huruf kapital tanpa tanda titik.
 
@@ -507,7 +505,7 @@ KTP kartu tanda penduduk
 SIM surat izin mengemudi
 NIP nomor induk pegawai
 
-3. Singkatan yang terdiri atas tiga huruf atau lebih diikuti dengan tanda titik.
+II.H.3. Singkatan yang terdiri atas tiga huruf atau lebih diikuti dengan tanda titik.
 
 Misalnya:
 
@@ -521,7 +519,7 @@ yth. yang terhormat
 ttd. tertanda
 dkk. dan kawan-kawan
 
-4. Singkatan yang terdiri atas dua huruf yang lazim dipakai dalam surat-menyurat masing- masing diikuti oleh tanda titik.
+II.H.4. Singkatan yang terdiri atas dua huruf yang lazim dipakai dalam surat-menyurat masing- masing diikuti oleh tanda titik.
 
 Misalnya:
 
@@ -531,7 +529,7 @@ u.b. untuk beliau
 u.p. untuk perhatian
 s.d. sampai dengan
 
-5. Lambang kimia, singkatan satuan ukuran, takaran, timbangan, dan mata uang tidak diikuti tanda titik.
+II.H.5. Lambang kimia, singkatan satuan ukuran, takaran, timbangan, dan mata uang tidak diikuti tanda titik.
 
 Misalnya:
 
@@ -542,7 +540,7 @@ l liter
 kg kilogram
 Rp rupiah
 
-6. Akronim nama diri yang terdiri atas huruf awal setiap kata ditulis dengan huruf kapital tanpa tanda titik.
+II.H.6. Akronim nama diri yang terdiri atas huruf awal setiap kata ditulis dengan huruf kapital tanpa tanda titik.
 
 Misalnya:
 
@@ -552,7 +550,7 @@ LIPI Lembaga Ilmu Pengetahuan Indonesia
 LAN Lembaga Administrasi Negara
 PASI Persatuan Atletik Seluruh Indonesia
 
-7. Akronim nama diri yang berupa gabungan suku kata atau gabungan huruf dan suku kata dari deret kata ditulis dengan huruf awal kapital.
+II.H.7. Akronim nama diri yang berupa gabungan suku kata atau gabungan huruf dan suku kata dari deret kata ditulis dengan huruf awal kapital.
 
 Misalnya:
 
@@ -563,7 +561,7 @@ Kalteng Kalimantan Tengah
 Mabbim Majelis Bahasa Brunei Darussalam-Indonesia-Malaysia
 Suramadu Surabaya Madura
 
-8. Akronim bukan nama diri yang berupa gabungan huruf awal dan suku kata atau gabungan suku kata ditulis dengan huruf kecil.
+II.H.8. Akronim bukan nama diri yang berupa gabungan huruf awal dan suku kata atau gabungan suku kata ditulis dengan huruf kecil.
 
 Misalnya:
 
@@ -594,68 +592,66 @@ II.I.2. Bilangan pada awal kalimat ditulis dengan huruf.
 
 Misalnya:
 
-Lima puluh siswa teladan mendapat beasiswa dari pemerintah daerah.
-Tiga pemenang sayembara itu diundang ke Jakarta.
+- Lima puluh siswa teladan mendapat beasiswa dari pemerintah daerah.
+- Tiga pemenang sayembara itu diundang ke Jakarta.
 
-Catatan:
+Catatan: Penulisan berikut dihindari:
 
-Penulisan berikut dihindari.
-50 siswa teladan mendapat beasiswa dari pemerintah daerah.
-3 pemenang sayembara itu diundang ke Jakarta.
+- 50 siswa teladan mendapat beasiswa dari pemerintah daerah.
+- 3 pemenang sayembara itu diundang ke Jakarta.
 
 Apabila bilangan pada awal kalimat tidak dapat dinyatakan dengan satu atau dua kata, susunan kalimatnya diubah.
 
 Misalnya:
 
-Panitia mengundang 250 orang peserta.
-Di lemari itu tersimpan 25 naskah kuno.
+- Panitia mengundang 250 orang peserta.
+- Di lemari itu tersimpan 25 naskah kuno.
 
-Catatan:
+Catatan: Penulisan berikut dihindari:
 
-Penulisan berikut dihindari.
-250 orang peserta diundang panitia.
-25 naskah kuno tersimpan di lemari itu.
+- 250 orang peserta diundang panitia.
+- 25 naskah kuno tersimpan di lemari itu.
 
 II.I.3. Angka yang menunjukkan bilangan besar dapat ditulis sebagian dengan huruf supaya lebih mudah dibaca.
 
 Misalnya:
 
-Dia mendapatkan bantuan 250 juta rupiah untuk mengembangkan usahanya.
-Perusahaan itu baru saja mendapat pinjaman 550 miliar rupiah.
-Proyek pemberdayaan ekonomi rakyat itu memerlukan biaya Rp10 triliun.
+- Dia mendapatkan bantuan 250 juta rupiah untuk mengembangkan usahanya.
+- Perusahaan itu baru saja mendapat pinjaman 550 miliar rupiah.
+- Proyek pemberdayaan ekonomi rakyat itu memerlukan biaya Rp10 triliun.
 
 II.I.4. Angka dipakai untuk menyatakan (a) ukuran panjang, berat, luas, isi, dan waktu serta (b) nilai uang.
 
 Misalnya:
 
-0,5 sentimeter
-5 kilogram
-4 hektare
-10 liter
-2 tahun 6 bulan 5 hari
-1 jam 20 menit
-Rp5.000,00
-US$3,50
-£5,10
-¥100
+- 0,5 sentimeter
+- 5 kilogram
+- 4 hektare
+- 10 liter
+- 2 tahun 6 bulan 5 hari
+- 1 jam 20 menit
+- Rp5.000,00
+- US$3,50
+- £5,10
+- ¥100
 
 II.I.5. Angka dipakai untuk menomori alamat, seperti jalan, rumah, apartemen, atau kamar.
 
 Misalnya:
 
-Jalan Tanah Abang I No. 15 atau
-Jalan Tanah Abang I/15
-Jalan Wijaya No. 14
-Hotel Mahameru, Kamar 169
-Gedung Samudra, Lantai II, Ruang 201
+- Jalan Tanah Abang I No. 15 atau
+- Jalan Tanah Abang I/15
+- Jalan Wijaya No. 14
+- Hotel Mahameru, Kamar 169
+- Gedung Samudra, Lantai II, Ruang 201
 
 II.I.6. Angka dipakai untuk menomori bagian karangan atau ayat kitab suci.
 
 Misalnya:
 
-Bab X, Pasal 5, halaman 252
-Surah Yasin: 9
-Markus 16: 15—16
+- Bab X, Pasal 5, halaman 252
+- Surah Yasin: 9
+- Markus 16: 15—16
 
 II.I.7. Penulisan bilangan dengan huruf dilakukan sebagai berikut.
 
@@ -663,76 +659,69 @@ a. Bilangan Utuh
 
 Misalnya:
 
-dua belas (12)
-tiga puluh (30)
-lima ribu (5.000)
+- dua belas (12)
+- tiga puluh (30)
+- lima ribu (5.000)
 
 b. Bilangan Pecahan
 
 Misalnya:
 
-setengah atau seperdua (1/2)
-seperenam belas (1/16)
-tiga perempat (3/4)
-dua persepuluh (2/10)
-tiga dua-pertiga (3 2/3)
-satu persen (1%)
-satu permil (1o/oo)
+- setengah atau seperdua (1/2)
+- seperenam belas (1/16)
+- tiga perempat (3/4)
+- dua persepuluh (2/10)
+- tiga dua-pertiga (3 2/3)
+- satu persen (1%)
+- satu permil (1o/oo)
 
 II.I.8. Penulisan bilangan tingkat dapat dilakukan dengan cara berikut.
 
 Misalnya:
 
-abad XX
-abad ke-20
-abad kedua puluh
-Perang Dunia II
-Perang Dunia Ke-2
-Perang Dunia Kedua
+- abad XX
+- abad ke-20
+- abad kedua puluh
+- Perang Dunia II
+- Perang Dunia Ke-2
+- Perang Dunia Kedua
 
-II.I.9. Penulisan angka yang mendapat akhiran -an dilakukan dengan cara berikut.
-
-Misalnya:
-
-lima lembar uang 1.000-an (lima lembar uang seribuan)
-tahun 1950-an (tahun seribu sembilan ratus lima puluhan)
-uang 5.000-an (uang lima ribuan)
-
-II.I.10. Penulisan bilangan dengan angka dan huruf sekaligus dilakukan dalam peraturan
-perundang-undangan, akta, dan kuitansi.
+II.I.9. Penulisan angka yang mendapat akhiran *-an* dilakukan dengan cara berikut.
 
 Misalnya:
 
-Setiap orang yang menyebarkan atau mengedarkan rupiah tiruan, sebagaimana
-dimaksud dalam Pasal 23 ayat (2), dipidana dengan pidana kurungan paling lama 1
-(satu) tahun dan pidana denda paling banyak Rp200.000.000,00 (dua ratus juta
-rupiah).
-Telah diterima uang sebanyak Rp2.950.000,00 (dua juta sembilan ratus lima puluh
-ribu rupiah) untuk pembayaran satu unit televisi.
+- lima lembar uang 1.000-an (lima lembar uang seribuan)
+- tahun 1950-an (tahun seribu sembilan ratus lima puluhan)
+- uang 5.000-an (uang lima ribuan)
+
+II.I.10. Penulisan bilangan dengan angka dan huruf sekaligus dilakukan dalam peraturan perundang-undangan, akta, dan kuitansi.
+
+Misalnya:
+
+- Setiap orang yang menyebarkan atau mengedarkan rupiah tiruan, sebagaimana dimaksud dalam Pasal 23 ayat (2), dipidana dengan pidana kurungan paling lama 1 (satu) tahun dan pidana denda paling banyak Rp200.000.000,00 (dua ratus juta rupiah).
+- Telah diterima uang sebanyak Rp2.950.000,00 (dua juta sembilan ratus lima puluh ribu rupiah) untuk pembayaran satu unit televisi.
 
 II.I.11. Penulisan bilangan yang dilambangkan dengan angka dan diikuti huruf dilakukan
 seperti berikut.
 
 Misalnya:
 
-Saya lampirkan tanda terima uang sebesar Rp900.500,50 (sembilan ratus ribu lima
-ratus rupiah lima puluh sen).
-Bukti pembelian barang seharga Rp5.000.000,00 (lima juta rupiah) ke atas harus
-dilampirkan pada laporan pertanggungjawaban.
+- Saya lampirkan tanda terima uang sebesar Rp900.500,50 (sembilan ratus ribu lima ratus rupiah lima puluh sen).
+- Bukti pembelian barang seharga Rp5.000.000,00 (lima juta rupiah) ke atas harus dilampirkan pada laporan pertanggungjawaban.
 
 II.I.12. Bilangan yang digunakan sebagai unsur nama geografi ditulis dengan huruf.
 
 Misalnya:
 
-Kelapadua
-Kotonanampek
-Rajaampat
-Simpanglima
-Tigaraksa
+- Kelapadua
+- Kotonanampek
+- Rajaampat
+- Simpanglima
+- Tigaraksa
 
 # II.J. Kata Ganti
 
-Kata ganti ku- dan kau- ditulis serangkai dengan kata yang mengikutinya, sedangkan -ku, - mu, dan -nya ditulis serangkai dengan kata yang mendahuluinya.
+Kata ganti *ku-* dan *kau-* ditulis serangkai dengan kata yang mengikutinya, sedangkan *-ku*, *-mu*, dan *-nya* ditulis serangkai dengan kata yang mendahuluinya.
 
 Misalnya:
 
@@ -754,8 +743,7 @@ Misalnya:
 - Harimau itu marah sekali kepada sang Kancil.
 - Dalam cerita itu si Buta berhasil menolong kekasihnya.
 
-Catatan:
- Huruf awal sang ditulis dengan huruf kapital jika sang merupakan unsur nama Tuhan.
+Catatan: Huruf awal sang ditulis dengan huruf kapital jika sang merupakan unsur nama Tuhan.
 
 Misalnya:
 

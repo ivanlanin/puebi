@@ -174,28 +174,34 @@ sy | syarat | musyawarah | arasy
 
 Catatan:
 
-1. Huruf kapital tidak dipakai sebagai huruf pertama nama orang yang merupakan nama jenis atau satuan ukuran. Misalnya:
+(1) Huruf kapital tidak dipakai sebagai huruf pertama nama orang yang merupakan nama jenis atau satuan ukuran.
 
-	- ikan mujair
-	- mesin diesel
-	- 5 ampere
-	- 10 volt
+Misalnya:
 
-2. Huruf kapital tidak dipakai untuk menuliskan huruf pertama kata yang bermakna =anak dari‘, seperti bin, binti, boru, dan van, atau huruf pertama kata tugas. Misalnya:
+- ikan mujair
+- mesin diesel
+- 5 ampere
+- 10 volt
 
-	- Abdul Rahman bin Zaini
-	- Siti Fatimah binti Salim
-	- Indani boru Sitanggang
-	- Charles Adriaan van Ophuijsen
-	- Ayam Jantan dari Timur
-	- Mutiara dari Selatan
+(2) Huruf kapital tidak dipakai untuk menuliskan huruf pertama kata yang bermakna 'anak dari', seperti *bin*, *binti*, *boru*, dan *van*, atau huruf pertama kata tugas.
 
-**I.F.3.** Huruf kapital dipakai pada awal kalimat dalam petikan langsung. Misalnya:
+Misalnya:
 
-Adik bertanya, "Kapan kita pulang?"
-Orang itu menasihati anaknya, "Berhati-hatilah, Nak!"
-"Mereka berhasil meraih medali emas," katanya.
-"Besok pagi," kata dia, "mereka akan berangkat."
+- Abdul Rahman bin Zaini
+- Siti Fatimah binti Salim
+- Indani boru Sitanggang
+- Charles Adriaan van Ophuijsen
+- Ayam Jantan dari Timur
+- Mutiara dari Selatan
+
+**I.F.3.** Huruf kapital dipakai pada awal kalimat dalam petikan langsung.
+
+Misalnya:
+
+- Adik bertanya, "Kapan kita pulang?"
+- Orang itu menasihati anaknya, "Berhati-hatilah, Nak!"
+- "Mereka berhasil meraih medali emas," katanya.
+- "Besok pagi," kata dia, "mereka akan berangkat."
 
 **I.F.4.** Huruf kapital dipakai sebagai huruf pertama setiap kata nama agama, kitab suci, dan Tuhan, termasuk sebutan dan kata ganti untuk Tuhan
 
@@ -254,9 +260,7 @@ Misalnya:
 - suku Dani
 - bahasa Bali
 
-Catatan:
-
-Nama bangsa, suku bangsa, dan bahasa yang dipakai sebagai bentuk dasar kata turunan tidak ditulis dengan huruf awal kapital.
+Catatan: Nama bangsa, suku bangsa, dan bahasa yang dipakai sebagai bentuk dasar kata turunan tidak ditulis dengan huruf awal kapital.
 
 Misalnya:
 
@@ -281,9 +285,7 @@ Misalnya:
 - Perang Dunia II
 - Proklamasi Kemerdekaan Indonesia
 
-Catatan:
-
-Huruf pertama peristiwa sejarah yang tidak dipakai sebagai nama tidak ditulis dengan huruf kapital.
+Catatan: Huruf pertama peristiwa sejarah yang tidak dipakai sebagai nama tidak ditulis dengan huruf kapital.
 
 Misalnya:
 
@@ -294,17 +296,28 @@ Misalnya:
 
 Misalnya:
 
-- Jakarta Asia Tenggara
-- Pulau Miangas Amerika Serikat
-- Bukit Barisan Jawa Barat
-- Dataran Tinggi Dieng Danau Toba
-- Jalan Sulawesi Gunung Semeru
-- Ngarai Sianok Jazirah Arab
-- Selat Lombok Lembah Baliem
-- Sungai Musi Pegunungan Himalaya
-- Teluk Benggala Tanjung Harapan
-- Terusan Suez Kecamatan Cicadas
-- Gang Kelinci Kelurahan Rawamangun
+- Jakarta 
+- Asia Tenggara
+- Pulau Miangas 
+- Amerika Serikat
+- Bukit Barisan 
+- Jawa Barat
+- Dataran Tinggi 
+- Dieng Danau Toba
+- Jalan Sulawesi 
+- Gunung Semeru
+- Ngarai Sianok 
+- Jazirah Arab
+- Selat Lombok 
+- Lembah Baliem
+- Sungai Musi 
+- Pegunungan Himalaya
+- Teluk Benggala 
+- Tanjung Harapan
+- Terusan Suez 
+- Kecamatan Cicadas
+- Gang Kelinci 
+- Kelurahan Rawamangun
 
 Catatan:
 
@@ -337,7 +350,7 @@ Contoh berikut bukan nama jenis.
 - Selain film Hongkong, juga akan diputar film India, film Korea, dan film Jepang.
 - Murid-murid sekolah dasar itu menampilkan tarian Sumatra Selatan, tarian Kalimantan Timur, dan tarian Sulawesi Selatan.
 
-**I.F.10.** Huruf kapital dipakai sebagai huruf pertama semua kata (termasuk semua unsur bentuk ulang sempurna) dalam nama negara, lembaga, badan, organisasi, atau do- kumen, kecuali kata tugas, seperti di, ke, dari, dan, yang, dan untuk.
+**I.F.10.** Huruf kapital dipakai sebagai huruf pertama semua kata (termasuk semua unsur bentuk ulang sempurna) dalam nama negara, lembaga, badan, organisasi, atau dokumen, kecuali kata tugas, seperti *di*, *ke*, *dari*, *dan*, *yang*, dan *untuk*.
 
 Misalnya:
 
@@ -349,7 +362,7 @@ Misalnya:
 - Perserikatan Bangsa-Bangsa
 - Kitab Undang-Undang Hukum Pidana
 
-**I.F.11.** Huruf kapital dipakai sebagai huruf pertama setiap kata (termasuk unsur kata ulang sempurna) di dalam judul buku, karangan, artikel, dan makalah serta nama majalah dan surat kabar, kecuali kata tugas, seperti di, ke, dari, dan, yang, dan untuk, yang tidak terletak pada posisi awal.
+**I.F.11.** Huruf kapital dipakai sebagai huruf pertama setiap kata (termasuk unsur kata ulang sempurna) di dalam judul buku, karangan, artikel, dan makalah serta nama majalah dan surat kabar, kecuali kata tugas, seperti *di*, *ke*, *dari*, *dan*, *yang*, dan *untuk*, yang tidak terletak pada posisi awal.
 
 Misalnya:
 
@@ -418,8 +431,7 @@ Misalnya:
 - Saya sudah membaca buku Salah Asuhan karangan Abdoel Moeis.
 - Majalah Poedjangga Baroe menggelorakan semangat kebangsaan.
 - Berita itu muncul dalam surat kabar Cakrawala.
-- Pusat Bahasa. 2011. Kamus Besar Bahasa Indonesia Pusat Bahasa. Edisi Keempat
-- (Cetakan Kedua). Jakarta: Gramedia Pustaka Utama.
+- Pusat Bahasa. 2011. Kamus Besar Bahasa Indonesia Pusat Bahasa. Edisi Keempat (Cetakan Kedua). Jakarta: Gramedia Pustaka Utama.
 
 I.G.2. Huruf miring dipakai untuk menegaskan atau mengkhususkan huruf, bagian kata, kata, atau kelompok kata dalam kalimat.
 
@@ -441,9 +453,9 @@ Misalnya:
 
 Catatan:
 
-(1) Nama diri, seperti nama orang, lembaga, atau organisasi, dalam bahasa asing atau bahasa daerah tidak ditulis dengan huruf miring.
-(2) Dalam naskah tulisan tangan atau mesin tik (bukan komputer), bagian yang akan dicetak miring ditandai dengan garis bawah.
-(3) Kalimat atau teks berbahasa asing atau berbahasa daerah yang dikutip secara langsung dalam teks berbahasa Indonesia ditulis dengan huruf miring.
+(1) Nama diri, seperti nama orang, lembaga, atau organisasi, dalam bahasa asing atau bahasa daerah tidak ditulis dengan huruf miring.  
+(2) Dalam naskah tulisan tangan atau mesin tik (bukan komputer), bagian yang akan dicetak miring ditandai dengan garis bawah.  
+(3) Kalimat atau teks berbahasa asing atau berbahasa daerah yang dikutip secara langsung dalam teks berbahasa Indonesia ditulis dengan huruf miring.  
 
 # I.H. Huruf Tebal
 
@@ -458,18 +470,11 @@ I.H.2. Huruf tebal dapat dipakai untuk menegaskan bagian- bagian karangan, seper
 
 Misalnya:
 
-1\.1 Latar Belakang dan Masalah
-
-Kondisi kebahasaan di Indonesia yang diwarnai oleh satu bahasa standar dan ratusan bahasa daerah—ditambah beberapa bahasa asing, terutama bahasa Inggris— membutuhkan penanganan yang tepat dalam perencanaan bahasa. Agar lebih jelas, latar belakang dan masalah akan diuraikan secara terpisah seperti tampak pada paparan berikut.
-
-1\.1\.1 Latar Belakang
-
-Masyarakat Indonesia yang heterogen menyebabkan munculnya sikap yang beragam terhadap penggunaan bahasa yang ada di Indonesia, yaitu (1) sangat bangga terhadap bahasa asing, (2) sangat bangga terhadap bahasa daerah, dan (3) sangat bangga terhadap bahasa Indonesia.
-
-1\.1\.2 Masalah
-
-Penelitian ini hanya membatasi masalah pada sikap bahasa masyarakat Kalimantan terhadap ketiga bahasa yang ada di Indonesia. Sikap masyarakat tersebut akan digunakan sebagai formulasi kebijakan perencanaan bahasa yang diambil.
-
-1\.2 Tujuan
-
-Penelitian ini bertujuan untuk mengetahui dan mengukur sikap bahasa masyarakat Kalimantan, khususnya yang tinggal di kota besar terhadap bahasa Indonesia, bahasa daerah, dan bahasa asing.
+1\.1 Latar Belakang dan Masalah  
+Kondisi kebahasaan di Indonesia yang diwarnai oleh satu bahasa standar dan ratusan bahasa daerah—ditambah beberapa bahasa asing, terutama bahasa Inggris— membutuhkan penanganan yang tepat dalam perencanaan bahasa. Agar lebih jelas, latar belakang dan masalah akan diuraikan secara terpisah seperti tampak pada paparan berikut.  
+1\.1\.1 Latar Belakang  
+Masyarakat Indonesia yang heterogen menyebabkan munculnya sikap yang beragam terhadap penggunaan bahasa yang ada di Indonesia, yaitu (1) sangat bangga terhadap bahasa asing, (2) sangat bangga terhadap bahasa daerah, dan (3) sangat bangga terhadap bahasa Indonesia.  
+1\.1\.2 Masalah  
+Penelitian ini hanya membatasi masalah pada sikap bahasa masyarakat Kalimantan terhadap ketiga bahasa yang ada di Indonesia. Sikap masyarakat tersebut akan digunakan sebagai formulasi kebijakan perencanaan bahasa yang diambil.  
+1\.2 Tujuan  
+Penelitian ini bertujuan untuk mengetahui dan mengukur sikap bahasa masyarakat Kalimantan, khususnya yang tinggal di kota besar terhadap bahasa Indonesia, bahasa daerah, dan bahasa asing.  
