@@ -3,8 +3,9 @@
 **III.A.1.** Tanda titik dipakai pada akhir kalimat pernyataan.
 
 Misalnya:
-Mereka duduk di sana.
-Dia akan datang pada pertemuan itu.
+
+- Mereka duduk di sana.
+- Dia akan datang pada pertemuan itu.
 
 **III.A.2.** Tanda titik dipakai di belakang angka atau huruf dalam suatu bagan, ikhtisar, atau daftar.
 
