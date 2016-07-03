@@ -3,6 +3,7 @@
 **III.A.1.** Tanda titik dipakai pada akhir kalimat pernyataan.
 
 Misalnya:
+
 Mereka duduk di sana.
 Dia akan datang pada pertemuan itu.
 
@@ -33,7 +34,9 @@ I\. Kondisi Kebahasaan di Indonesia
 Catatan:
 
 (1) Tanda titik tidak dipakai pada angka atau huruf yang sudah bertanda kurung dalam suatu perincian.  
-Misalnya:  
+
+Misalnya:
+  
 Bahasa Indonesia berkedudukan sebagai  
 1) bahasa nasional yang berfungsi, antara lain,  
 a) lambang kebanggaan nasional,  
@@ -44,7 +47,9 @@ c) alat pemersatu bangsa;
 (2) Tanda titik tidak dipakai pada akhir penomoran digital yang lebih dari satu angka (seperti pada Misalnya 2b).
 
 (3) Tanda titik tidak dipakai di belakang angka atau angka terakhir dalam penomoran deret digital yang lebih dari satu angka dalam judul tabel, bagan, grafik, atau gambar.  
-Misalnya:  
+
+Misalnya:
+  
 Tabel 1 Kondisi Kebahasaan di Indonesia  
 Tabel 1.1 Kondisi Bahasa Daerah di Indonesia  
 Bagan 2 Struktur Organisasi  
@@ -82,20 +87,26 @@ Misalnya:
 Catatan:
 
 (1) Tanda titik tidak dipakai untuk memisahkan bilangan ribuan atau kelipatannya yang tidak menunjukkan jumlah.  
-Misalnya:  
+
+Misalnya:
+  
 Dia lahir pada tahun 1956 di Bandung.  
 Kata sila terdapat dalam Kamus Besar Bahasa Indonesia Pusat Bahasa halaman 1305.  
 Nomor rekening panitia seminar adalah 0015645678.  
 
 (2) Tanda titik tidak dipakai pada akhir judul yang merupakan kepala karangan, ilustrasi, atau tabel.  
-Misalnya:  
+
+Misalnya:
+  
 Acara Kunjungan Menteri Pendidikan dan Kebudayaan  
 Bentuk dan Kedaulatan (Bab I UUD 1945)  
 Gambar 3 Alat Ucap Manusia  
 Tabel 5 Sikap Bahasa Generasi Muda Berdasarkan Pendidikan  
 
 (3) Tanda titik tidak dipakai di belakang (a) alamat penerima dan pengirim surat serta (b) tanggal surat.  
-Misalnya:  
+
+Misalnya:
+  
 Yth. Direktur Taman Ismail Marzuki  
 Jalan Cikini Raya No. 73  
 Menteng  
@@ -115,6 +126,7 @@ Jakarta, 15 Mei 2013 (tanpa kop surat)
 **III.B.1.** Tanda koma dipakai di antara unsur-unsur dalam suatu pemerincian atau pembilangan.
 
 Misalnya:
+
 Telepon seluler, komputer, atau internet bukan barang asing lagi.
 Buku, majalah, dan jurnal termasuk sumber kepustakaan.
 Satu, dua, ... tiga!
@@ -122,6 +134,7 @@ Satu, dua, ... tiga!
 **III.B.2.** Tanda koma dipakai sebelum kata penghubung, seperti tetapi, melainkan, dan sedangkan, dalam kalimat majemuk (setara).
 
 Misalnya:
+
 Saya ingin membeli kamera, tetapi uang saya belum cukup.
 Ini bukan milik saya, melainkan milik ayah saya.
 Dia membaca cerita pendek, sedangkan adiknya melukis panorama.
@@ -129,6 +142,7 @@ Dia membaca cerita pendek, sedangkan adiknya melukis panorama.
 **III.B.3.** Tanda koma dipakai untuk memisahkan anak kalimat yang mendahului induk kalimatnya.
 
 Misalnya:
+
 Kalau diundang, saya akan datang.
 Karena baik hati, dia mempunyai banyak teman.
 Agar memiliki wawasan yang luas, kita harus banyak membaca buku.
@@ -138,6 +152,7 @@ Catatan:
 Tanda koma tidak dipakai jika induk kalimat mendahului anak kalimat.
 
 Misalnya:
+
 Saya akan datang kalau diundang.
 Dia mempunyai banyak teman karena baik hati.
 Kita harus banyak membaca buku agar memiliki wawasan yang luas.
@@ -145,6 +160,7 @@ Kita harus banyak membaca buku agar memiliki wawasan yang luas.
 **III.B.4.** Tanda koma dipakai di belakang kata atau ungkapan penghubung antarkalimat, seperti oleh karena itu, jadi, dengan demikian, sehubungan dengan itu, dan meskipun demikian.
 
 Misalnya:
+
 Mahasiswa itu rajin dan pandai. Oleh karena itu, dia memperoleh beasiswa belajar di luar negeri.
 Anak itu memang rajin membaca sejak kecil. Jadi, wajar kalau dia menjadi bintang pelajar
 Orang tuanya kurang mampu. Meskipun demikian, anak-anaknya berhasil menjadi sarjana.
@@ -152,6 +168,7 @@ Orang tuanya kurang mampu. Meskipun demikian, anak-anaknya berhasil menjadi sarj
 **III.B.5.** Tanda koma dipakai sebelum dan/atau sesudah kata seru, seperti o, ya, wah, aduh, atau hai, dan kata yang dipakai sebagai sapaan, seperti Bu, Dik, atau Nak.
 
 Misalnya:
+
 O, begitu?
 Wah, bukan main!
 Hati-hati, ya, jalannya licin!
@@ -282,6 +299,7 @@ c. pendataan anggota, dokumentasi, dan aset organisasi.
 **III.D.1.** Tanda titik dua dipakai pada akhir suatu pernyataan lengkap yang diikuti pemerincian atau penjelasan.
 
 Misalnya:
+
 Mereka memerlukan perabot rumah tangga: kursi, meja, dan lemari.
 Hanya ada dua pilihan bagi para pejuang kemerdekaan: hidup atau mati.
 
@@ -330,7 +348,8 @@ Pedoman Umum Pembentukan Istilah. Jakarta: Pusat Bahasa.
 
 **III.E.1.** Tanda hubung dipakai untuk menandai bagian kata yang terpenggal oleh pergantian baris.
 
-Misalnya:  
+Misalnya:
+  
 Di samping cara lama, diterapkan juga ca-  
 ra baru ….  
 Nelayan pesisir itu berhasil membudidayakan rum-  
@@ -384,9 +403,11 @@ f. huruf dan angka (D-3, S-1, S-2); dan
 g. kata ganti -ku, -mu, dan -nya dengan singkatan yang berupa huruf kapital (KTP-mu, SIM-nya, STNK-ku).
 
 Catatan:
+
 Tanda hubung tidak dipakai di antara huruf dan angka jika angka tersebut melambangkan jumlah huruf.
 
 Misalnya:
+
 BNP2TKI (Badan Nasional Penempatan dan Perlindungan Tenaga Kerja Indonesia)
 LP3I (Lembaga Pendidikan dan Pengembangan Profesi Indonesia)
 P3K (pertolongan pertama pada kecelakaan)
@@ -394,6 +415,7 @@ P3K (pertolongan pertama pada kecelakaan)
 **III.E.6.** Tanda hubung dipakai untuk merangkai unsur bahasa Indonesia dengan unsur bahasa daerah atau bahasa asing.
 
 Misalnya:
+
 di-sowan-i (bahasa Jawa, =didatangi‘)
 ber-pariban (bahasa Batak, =bersaudara sepupu‘)
 di-back up
@@ -511,6 +533,7 @@ Perhatikan "Pemakaian Tanda Baca" dalam buku Pedoman Umum Ejaan Bahasa Indonesia
 **III.J.3.** Tanda petik dipakai untuk mengapit istilah ilmiah yang kurang dikenal atau kata yang mempunyai arti khusus.
 
 Misalnya:
+
 "Tetikus" komputer ini sudah tidak berfungsi.
 Dilarang memberikan "amplop" kepada petugas!
 
