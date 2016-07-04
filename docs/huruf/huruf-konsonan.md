@@ -1,29 +1,29 @@
-Huruf yang melambangkan konsonan dalam bahasa Indonesia terdiri atas 21 huruf, yaitu b, c, d, f, g, h, j, k, l, m, n, p, q, r, s, t, v, w, x, y, dan z.
+Huruf yang melambangkan konsonan dalam bahasa Indonesia terdiri atas 21 huruf, yaitu *b*, *c*, *d*, *f*, *g*, *h*, *j*, *k*, *l*, *m*, *n*, *p*, *q*, *r*, *s*, *t*, *v*, *w*, *x*, *y*, dan *z*.
 
 Huruf Konsonan | Posisi Awal | Posisi Tengah | Posisi Akhir
 - | - | - | -
-b | bahasa | sebut | adab
-c | cakap | kaca | -
-d | dua | ada | abad
-f | fakir | kafan | maaf
-g | guna | tiga | gudeg
-h | hari | saham | tuah
-j | jalan | manja | mikraj
-k | kami | paksa | politik
-l | lekas | alas | akal
-m | maka | kami | diam
-n | nama | tanah | daun
-p | pasang | apa | siap
-q* | qariah | iqra | -
-r | raih | bara | putar
-s | sampai | asli | tangkas
-t | tali | mata | rapat
-v | variasi | lava | molotov
-w | wanita | hawa | takraw
-x* | xenon | - | -
-y | yakin | payung | -
-z | zeni | lazim | juz
+b | *b*ahasa | se*b*ut | ada*b*
+c | *c*akap | ka*c*a | -
+d | *d*ua | a*d*a | aba*d*
+f | *f*akir | ka*f*an | maa*f*
+g | *g*una | ti*g*a | gude*g*
+h | *h*ari | sa*h*am | tua*h*
+j | *j*alan | man*j*a | mikra*j*
+k | *k*ami | pa*k*sa | politi*k*
+l | *l*ekas | a*l*as | aka*l*
+m | *m*aka | ka*m*i | dia*m*
+n | *n*ama | ta*n*ah | dau*n*
+p | *p*asang | a*p*a | sia*p*
+q* | *q*ariah | i*q*ra | -
+r | *r*aih | ba*r*a | puta*r*
+s | *s*ampai | a*s*li | tangka*s*
+t | *t*ali | ma*t*a | rapa*t*
+v | *v*ariasi | la*v*a | moloto*v*
+w | *w*anita | ha*w*a | takra*w*
+x* | *x*enon | - | -
+y | *y*akin | pa*y*ung | -
+z | *z*eni | la*z*im | ju*z*
 
 Keterangan:
 
-Huruf q dan x khusus digunakan untuk nama diri dan keperluan ilmu. Huruf x pada posisi awal kata diucapkan [s].
+\* Huruf *q* dan *x* khusus digunakan untuk nama diri dan keperluan ilmu. Huruf *x* pada posisi awal kata diucapkan [s].

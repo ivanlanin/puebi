@@ -9,7 +9,7 @@ Pada tanggal 30 November 2015, Permendiknas 46/2009 tentang Pedoman Umum Ejaan B
 	- [Huruf Vokal](huruf/huruf-vokal.md)
 	- [Huruf Konsonan](huruf/huruf-konsonan.md)
 	- [Huruf Diftong](huruf/huruf-diftong.md)
-	- [Gabungan Konsonan](huruf/gabungan-konsonan.md)
+	- [Gabungan Huruf Konsonan](huruf/gabungan-huruf-konsonan.md)
 	- [Huruf Kapital](huruf/huruf-kapital.md)
 	- [Huruf Miring](huruf/huruf-miring.md)
 	- [Huruf Tebal](huruf/huruf-tebal.md)
