@@ -7,7 +7,7 @@ Misalnya:
 - Kata *et* dalam ungkapan *ora **et** labora* berarti 'dan'.
 
 !!! important ""
-	**I.H.2.** Huruf tebal dapat dipakai untuk menegaskan bagian- bagian karangan, seperti judul buku, bab, atau subbab.
+	**I.H.2.** Huruf tebal dapat dipakai untuk menegaskan bagian-bagian karangan, seperti judul buku, bab, atau subbab.
 
 Misalnya:
 
