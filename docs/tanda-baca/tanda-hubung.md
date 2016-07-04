@@ -51,15 +51,15 @@ Bandingkan dengan
 
 !!! important ""
 	**III.E.5.** Tanda hubung dipakai untuk merangkai  
-	a. se- dengan kata berikutnya yang dimulai dengan huruf kapital (se-Indonesia, se-Jawa Barat);  
-	b. ke- dengan angka (peringkat ke-2);  
-	c. angka dengan –an (tahun 1950-an);  
-	d. kata atau imbuhan dengan singkatan yang berupa huruf kapital (hari-H, sinar-X, ber- KTP, di-SK-kan);
-	e. kata dengan kata ganti Tuhan (ciptaan-Nya, atas rahmat-Mu);  
+	a. *se-* dengan kata berikutnya yang dimulai dengan huruf kapital (*se-*Indonesia, *se-*Jawa Barat);  
+	b. *ke-* dengan angka (peringkat *ke-*2);  
+	c. angka dengan *–an* (tahun 1950*-an*);  
+	d. kata atau imbuhan dengan singkatan yang berupa huruf kapital (hari-*H*, sinar-*X*, ber-*KTP*, di-*SK*-kan);
+	e. kata dengan kata ganti Tuhan (ciptaan-*Nya*, atas rahmat-*Mu*);  
 	f. huruf dan angka (D-3, S-1, S-2); dan  
-	g. kata ganti -ku, -mu, dan -nya dengan singkatan yang berupa huruf kapital (KTP-mu, SIM-nya, STNK-ku).  
+	g. kata ganti *-ku*, *-mu*, dan *-nya* dengan singkatan yang berupa huruf kapital (KTP-*mu*, SIM-*nya*, STNK-*ku*).  
 
-Catatan: Tanda hubung tidak dipakai di antara huruf dan angka jika angka tersebut melambangkan jumlah huruf.
+Catatan: Tanda hubung *tidak* dipakai di antara huruf dan angka jika angka tersebut melambangkan jumlah huruf.
 
 Misalnya:
 
@@ -72,16 +72,16 @@ Misalnya:
 
 Misalnya:
 
-- di-sowan-i (bahasa Jawa, =didatangi‘)
-- ber-pariban (bahasa Batak, =bersaudara sepupu‘)
-- di-back up
-- me-recall
-- pen-tackle-an
+- di-*sowan*-i (bahasa Jawa, 'didatangi')
+- ber-*pariban* (bahasa Batak, 'bersaudara sepupu')
+- di-*back up*
+- me-*recall*
+- pen-*tackle*-an
 
 !!! important ""
 	**III.E.7.** Tanda hubung digunakan untuk menandai bentuk terikat yang menjadi objek bahasan.
 
 Misalnya:
 
-- Kata pasca- berasal dari bahasa Sanskerta.
-- Akhiran -isasi pada kata betonisasi sebaiknya diubah menjadi pembetonan.
+- Kata *pasca-* berasal dari bahasa Sanskerta.
+- Akhiran *-isasi* pada kata *betonisasi* sebaiknya diubah menjadi *pembetonan*.

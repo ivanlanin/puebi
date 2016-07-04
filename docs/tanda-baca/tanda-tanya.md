@@ -4,7 +4,7 @@
 Misalnya:
 
 - Kapan Hari Pendidikan Nasional diperingati?
-- Siapa pencipta lagu .Indonesia Raya.?
+- Siapa pencipta lagu "Indonesia Raya"?
 
 !!! important ""
 	**III.G.2.** Tanda tanya dipakai di dalam tanda kurung untuk menyatakan bagian kalimat yang disangsikan atau yang kurang dapat dibuktikan kebenarannya.

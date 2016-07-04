@@ -9,8 +9,9 @@ Misalnya:
 
 Catatan:
 
-(1) Tanda elipsis itu didahului dan diikuti dengan spasi.  
-(2) Tanda elipsis pada akhir kalimat diikuti oleh tanda titik (jumlah titik empat buah).  
+(1) Tanda elipsis itu didahului dan diikuti dengan spasi.
+
+(2) Tanda elipsis pada akhir kalimat diikuti oleh tanda titik (jumlah titik empat buah).
 
 !!! important ""
 	**III.I.2.** Tanda elipsis dipakai untuk menulis ujaran yang tidak selesai dalam dialog.
@@ -22,5 +23,6 @@ Misalnya:
 
 Catatan:
 
-(1) Tanda elipsis itu didahului dan diikuti dengan spasi.  
-(2) Tanda elipsis pada akhir kalimat diikuti oleh tanda titik (jumlah titik empat buah).  
+(1) Tanda elipsis itu didahului dan diikuti dengan spasi.
+
+(2) Tanda elipsis pada akhir kalimat diikuti oleh tanda titik (jumlah titik empat buah).

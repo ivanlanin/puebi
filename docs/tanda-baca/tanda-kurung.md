@@ -5,7 +5,7 @@ Misalnya:
 
 - Dia memperpanjang surat izin mengemudi (SIM).
 - Warga baru itu belum memiliki KTP (kartu tanda penduduk).
-- Lokakarya (workshop) itu diadakan di Manado.
+- Lokakarya (*workshop*) itu diadakan di Manado.
 
 !!! important ""
 	**III.L.2.** Tanda kurung dipakai untuk mengapit keterangan atau penjelasan yang bukan bagian utama kalimat.

@@ -3,17 +3,17 @@
 
 Misalnya:
 
-- Kemerdekaan bangsa itu—saya yakin akan tercapai—diperjuangkan oleh bangsa itu sendiri.
-- Keberhasilan itu—kita sependapat—dapat dicapai jika kita mau berusaha keras.
+- Kemerdekaan bangsa itu—*saya yakin akan tercapai*—diperjuangkan oleh bangsa itu sendiri.
+- Keberhasilan itu—*kita sependapat*—dapat dicapai jika kita mau berusaha keras.
 
 !!! important ""
 	**III.F.2.** Tanda pisah dapat dipakai juga untuk menegaskan adanya keterangan aposisi atau keterangan yang lain.
 
 Misalnya:
 
-- Soekarno-Hatta—Proklamator Kemerdekaan RI—diabadikan menjadi nama bandar udara internasional.
-- Rangkaian temuan ini—evolusi, teori kenisbian, dan pembelahan atom—telah mengubah konsepsi kita tentang alam semesta.
-- Gerakan Pengutamaan Bahasa Indonesia—amanat Sumpah Pemuda—harus terus digelorakan.
+- Soekarno-Hatta—*Proklamator Kemerdekaan RI*—diabadikan menjadi nama bandar udara internasional.
+- Rangkaian temuan ini—*evolusi, teori kenisbian, dan pembelahan atom*—telah mengubah konsepsi kita tentang alam semesta.
+- Gerakan Pengutamaan Bahasa Indonesia—*amanat Sumpah Pemuda*—harus terus digelorakan.
 
 !!! important ""
 	**III.F.3.** Tanda pisah dipakai di antara dua bilangan, tanggal, atau tempat yang berarti 'sampai dengan' atau 'sampai ke'.

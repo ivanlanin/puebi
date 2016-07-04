@@ -15,9 +15,9 @@ Misalnya:
 - Sajak "Pahlawanku" terdapat pada halaman 125 buku itu.
 - Marilah kita menyanyikan lagu "Maju Tak Gentar"!
 - Film "Ainun dan Habibie" merupakan kisah nyata yang diangkat dari sebuah novel.
-- Saya sedang membaca "Peningkatan Mutu Daya Ungkap Bahasa Indonesia" dalam buku Bahasa Indonesia Menuju Masyarakat Madani.
+- Saya sedang membaca "Peningkatan Mutu Daya Ungkap Bahasa Indonesia" dalam buku *Bahasa Indonesia Menuju Masyarakat Madani*.
 - Makalah "Pembentukan Insan Cerdas Kompetitif" menarik perhatian peserta seminar.
-- Perhatikan "Pemakaian Tanda Baca" dalam buku Pedoman Umum Ejaan Bahasa Indonesia yang Disempurnakan.
+- Perhatikan "Pemakaian Tanda Baca" dalam buku *Pedoman Umum Ejaan Bahasa Indonesia yang Disempurnakan*.
 
 !!! important ""
 	**III.J.3.** Tanda petik dipakai untuk mengapit istilah ilmiah yang kurang dikenal atau kata yang mempunyai arti khusus.

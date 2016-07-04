@@ -7,7 +7,7 @@ Misalnya:
 - Hanya ada dua pilihan bagi para pejuang kemerdekaan: hidup atau mati.
 
 !!! important ""
-	**III.D.2.** Tanda titik dua tidak dipakai jika perincian atau penjelasan itu merupakan pelengkap yang mengakhiri pernyataan.
+	**III.D.2.** Tanda titik dua *tidak* dipakai jika perincian atau penjelasan itu merupakan pelengkap yang mengakhiri pernyataan.
 
 Misalnya:
 
@@ -44,8 +44,8 @@ Ibu : "Jangan lupa, letakkan baik-baik!"
 
 Misalnya:
 
-- Horison, XLIII, No. 8/2008: 8
+- *Horison*, XLIII, No. 8/2008: 8
 - Surah Albaqarah: 2—5
 - Matius 2: 1—3
-- Dari Pemburu ke Terapeutik: Antologi Cerpen Nusantara
-- Pedoman Umum Pembentukan Istilah. Jakarta: Pusat Bahasa.
+- *Dari Pemburu ke Terapeutik: Antologi Cerpen Nusantara*
+- *Pedoman Umum Pembentukan Istilah*. Jakarta: Pusat Bahasa.
