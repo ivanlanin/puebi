@@ -1,5 +1,5 @@
-!!! important "Kaidah I.G.1."
-	Huruf miring dipakai untuk menuliskan judul buku, nama majalah, atau nama surat kabar yang dikutip dalam tulisan, termasuk dalam daftar pustaka.
+!!! important ""
+	**I.G.1.** Huruf miring dipakai untuk menuliskan judul buku, nama majalah, atau nama surat kabar yang dikutip dalam tulisan, termasuk dalam daftar pustaka.
 
 Misalnya:
 
@@ -8,18 +8,18 @@ Misalnya:
 - Berita itu muncul dalam surat kabar *Cakrawala*.
 - Pusat Bahasa. 2011. *Kamus Besar Bahasa Indonesia Pusat Bahasa*. Edisi Keempat (Cetakan Kedua). Jakarta: Gramedia Pustaka Utama.
 
-!!! important "Kaidah I.G.2."
-	Huruf miring dipakai untuk menegaskan atau mengkhususkan huruf, bagian kata, kata, atau kelompok kata dalam kalimat.
+!!! important ""
+	**I.G.2.** Huruf miring dipakai untuk menegaskan atau mengkhususkan huruf, bagian kata, kata, atau kelompok kata dalam kalimat.
 
 Misalnya:
 
-- Huruf terakhir kata *abad* adalah *d*.
+- Huruf terakhir kata abad adalah *d*.
 - Dia tidak *di*antar, tetapi *meng*antar.
 - Dalam bab ini *tidak* dibahas pemakaian tanda baca.
 - Buatlah kalimat dengan menggunakan ungkapan *lepas tangan*.
 
-!!! important "Kaidah I.G.3."
-	Huruf miring dipakai untuk menuliskan kata atau ungkapan dalam bahasa daerah atau bahasa asing.
+!!! important ""
+	**I.G.3.** Huruf miring dipakai untuk menuliskan kata atau ungkapan dalam bahasa daerah atau bahasa asing.
 
 Misalnya:
 

@@ -1,4 +1,4 @@
-!!! important "Kaidah II.A"
+!!! important ""
 	Kata dasar ditulis sebagai satu kesatuan.
 
 Misalnya:

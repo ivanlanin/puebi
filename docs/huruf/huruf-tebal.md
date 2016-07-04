@@ -1,13 +1,13 @@
-!!! important "Kaidah I.H.1."
-	Huruf tebal dipakai untuk menegaskan bagian tulisan yang sudah ditulis miring.
+!!! important ""
+	**I.H.1.** Huruf tebal dipakai untuk menegaskan bagian tulisan yang sudah ditulis miring.
 
 Misalnya:
 
 - Huruf *dh*, seperti pada kata *Rama**dh**an*, tidak terdapat dalam Ejaan Bahasa Indonesia yang Disempurnakan.
 - Kata *et* dalam ungkapan *ora **et** labora* berarti 'dan'.
 
-!!! important "Kaidah I.H.2."
-	Huruf tebal dapat dipakai untuk menegaskan bagian- bagian karangan, seperti judul buku, bab, atau subbab.
+!!! important ""
+	**I.H.2.** Huruf tebal dapat dipakai untuk menegaskan bagian- bagian karangan, seperti judul buku, bab, atau subbab.
 
 Misalnya:
 
