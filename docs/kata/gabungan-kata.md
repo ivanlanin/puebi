@@ -19,30 +19,33 @@ Misalnya:
 
 Misalnya:
 
-- anak-istri pejabat anak istri-pejabat
-- ibu-bapak kami ibu bapak-kami
-- buku-sejarah baru buku sejarah-baru
+- *anak-istri* pejabat (anak dan istri dari pejabat)
+- anak *istri-pejabat* (anak dari istri pejabat)
+- *ibu-bapak* kami (ibu dan bapak kami)
+- ibu *bapak-kami* (ibu dari bapak kami)
+- *buku-sejarah* baru (buku sejarah yang baru)
+- buku *sejarah-baru* (buku tentang sejarah baru)
 
 !!! important ""
 	**II.D.3.** Gabungan kata yang penulisannya terpisah tetap ditulis terpisah jika mendapat awalan atau akhiran.
 
 Misalnya:
 
-- bertepuk tangan
-- menganak sungai
-- garis bawahi
-- sebar luaskan
+- *ber*tepuk tangan
+- *meng*anak sungai
+- garis bawah*i*
+- sebar luas*kan*
 
 !!! important ""
 	**II.D.4.** Gabungan kata yang mendapat awalan dan akhiran sekaligus ditulis serangkai.
 
 Misalnya:
 
-- dilipatgandakan
-- menggarisbawahi
-- menyebarluaskan
-- penghancurleburan
-- pertanggungjawaban
+- *di*lipatganda*kan*
+- *meng*garisbawah*i*
+- *meny*ebarluas*kan*
+- *peng*hancurlebur*an*
+- *per*tanggungjawab*an*
 
 !!! important ""
 	**II.D.5.** Gabungan kata yang sudah padu ditulis serangkai.

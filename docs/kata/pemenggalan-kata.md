@@ -1,8 +1,7 @@
 !!! important ""
 	**II.E.1.** Pemenggalan kata pada kata dasar dilakukan sebagai berikut.
 
-a. Jika di tengah kata terdapat huruf vokal yang berurutan, pemenggalannya dilakukan
-di antara kedua huruf vokal itu.
+a. Jika di tengah kata terdapat [huruf vokal](../huruf/huruf-vokal) yang berurutan, pemenggalannya dilakukan di antara kedua huruf vokal itu.
 
 Misalnya:
 
@@ -11,7 +10,7 @@ Misalnya:
 - ni-at
 - sa-at
 
-b. Huruf diftong ai, au, ei, dan oi tidak dipenggal.
+b. [Huruf diftong](../huruf/huruf-diftong) *ai*, *au*, *ei*, dan *oi* tidak dipenggal.
 
 Misalnya:
 
@@ -21,7 +20,7 @@ Misalnya:
 - sur-vei
 - am-boi
 
-c. Jika di tengah kata dasar terdapat huruf konsonan (termasuk gabungan huruf konsonan) di antara dua huruf vokal, pemenggalannya dilakukan sebelum huruf konsonan itu.
+c. Jika di tengah kata dasar terdapat [huruf konsonan](../huruf/huruf-konsonan) (termasuk [gabungan huruf konsonan](../huruf/gabungan-huruf-konsonan)) di antara dua huruf vokal, pemenggalannya dilakukan sebelum huruf konsonan itu.
 
 Misalnya:
 
@@ -67,29 +66,29 @@ Misalnya:
 - sang-gup
 
 !!! important ""
-	**II.E.2.** Pemenggalan kata turunan sedapat-dapatnya dilakukan di antara bentuk dasar dan unsur pembentuknya.
+	**II.E.2.** Pemenggalan [kata turunan](../kata/kata-berimbuhan) sedapat-dapatnya dilakukan di antara bentuk dasar dan unsur pembentuknya.
 
 Misalnya:
 
-- ber-jalan
-- mem-pertanggungjawabkan
-- mem-bantu
-- memper-tanggungjawabkan
-- di-ambil
-- mempertanggung-jawabkan
-- ter-bawa
-- mempertanggungjawab-kan
-- per-buat
-- me-rasakan
-- makan-an
-- merasa-kan
-- letak-kan
-- per-buatan
-- pergi-lah
-- perbuat-an
-- apa-kah
-- ke-kuatan
-- kekuat-an
+- *ber*-jalan
+- *mem*-pertanggungjawab*kan*
+- *mem*-bantu
+- *memper*-tanggungjawab*kan*
+- *di*-ambil
+- *memper*tanggung-jawab*kan*
+- *ter*-bawa
+- *memper*tanggungjawab-*kan*
+- *per*-buat
+- *me*-rasakan
+- makan-*an*
+- *me*rasa-*kan*
+- letak-*kan*
+- *per*-buat*an*
+- pergi-*lah*
+- *per*buat-*an*
+- apa-*kah*
+- *ke*-kuat*an*
+- *ke*kuat-*an*
 
 Catatan:
 
@@ -97,15 +96,15 @@ Catatan:
 
 Misalnya:
 
-- me-nu-tup
-- me-ma-kai
-- me-nya-pu
-- me-nge-cat
-- pe-mi-kir
-- pe-no-long
-- pe-nga-rang
-- pe-nge-tik
-- pe-nye-but
+- *me*-*nu*-tup
+- *me*-*ma*-kai
+- *me*-*nya*-pu
+- *me*-*nge*-cat
+- *pe*-*mi*-kir
+- *pe*-*no*-long
+- *pe*-*nga*-rang
+- *pe*-*nge*-tik
+- *pe*-*nye*-but
 
 (2) Pemenggalan kata bersisipan dilakukan seperti pada kata dasar.
 
@@ -117,13 +116,12 @@ Misalnya:
 - si-nam-bung
 - te-lun-juk
 
-(3) Pemenggalan kata yang menyebabkan munculnya satu huruf di awal atau akhir
-baris tidak dilakukan.
+(3) Pemenggalan kata yang menyebabkan munculnya satu huruf di awal atau akhir baris *tidak* dilakukan.
 
 Misalnya:
 
 - Beberapa pendapat mengenai masalah itu  
-telah disampaikan ….
+telah disampaikan ....
 - Walaupun cuma-cuma, mereka tidak mau  
 mengambil makanan itu.
 
@@ -132,36 +130,16 @@ mengambil makanan itu.
 
 Misalnya:
 
-biografi
-bio-grafi
-bi-o-gra-fi
-biodata
-bio-data
-bi-o-da-ta
-fotografi
-foto-grafi
-fo-to-gra-fi
-fotokopi
-foto-kopi
-fo-to-ko-pi
-introspeksi
-intro-speksi
-in-tro-spek-si
-introjeksi
-intro-jeksi
-in-tro-jek-si
-kilogram
-kilo-gram
-ki-lo-gram
-kilometer
-kilo-meter
-ki-lo-me-ter
-pascapanen
-pasca-panen
-pas-ca-pa-nen
-pascasarjana
-pasca-sarjana
-pas-ca-sar-ja-na
+- biografi, bio-grafi, bi-o-gra-fi
+- biodata, bio-data, bi-o-da-ta
+- fotografi, foto-grafi, fo-to-gra-fi
+- fotokopi, foto-kopi, fo-to-ko-pi
+- introspeksi, intro-speksi, in-tro-spek-si
+- introjeksi, intro-jeksi, in-tro-jek-si
+- kilogram, kilo-gram, ki-lo-gram
+- kilometer, kilo-meter, ki-lo-me-ter
+- pascapanen, pasca-panen, pas-ca-pa-nen
+- pascasarjana, pasca-sarjana, pas-ca-sar-ja-na
 
 !!! important ""
 	**II.E.4.** Nama orang yang terdiri atas dua unsur atau lebih pada akhir baris dipenggal di antara unsur-unsurnya.

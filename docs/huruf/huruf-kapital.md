@@ -215,7 +215,7 @@ Contoh berikut *bukan* nama jenis.
 - Murid-murid sekolah dasar itu menampilkan tarian *S*umatra *S*elatan, tarian *K*alimantan *T*imur, dan tarian *S*ulawesi *S*elatan.
 
 !!! important ""
-	**I.F.10.** Huruf kapital dipakai sebagai huruf pertama semua kata (termasuk semua unsur bentuk ulang sempurna) dalam nama negara, lembaga, badan, organisasi, atau dokumen, *kecuali* kata tugas, seperti *di*, *ke*, *dari*, *dan*, *yang*, dan *untuk*.
+	**I.F.10.** Huruf kapital dipakai sebagai huruf pertama semua kata (termasuk semua unsur [bentuk ulang](../kata/bentuk-ulang) sempurna) dalam nama negara, lembaga, badan, organisasi, atau dokumen, *kecuali* kata tugas, seperti *di*, *ke*, *dari*, *dan*, *yang*, dan *untuk*.
 
 Misalnya:
 
@@ -227,7 +227,7 @@ Misalnya:
 - *K*itab *U*ndang-Undang *H*ukum *P*idana
 
 !!! important ""
-	**I.F.11.** Huruf kapital dipakai sebagai huruf pertama setiap kata (termasuk unsur kata ulang sempurna) di dalam judul buku, karangan, artikel, dan makalah serta nama majalah dan surat kabar, *kecuali* kata tugas, seperti *di*, *ke*, *dari*, *dan*, *yang*, dan *untuk*, yang tidak terletak pada posisi awal.
+	**I.F.11.** Huruf kapital dipakai sebagai huruf pertama setiap kata (termasuk unsur [kata ulang](../kata/bentuk-ulang) sempurna) di dalam judul buku, karangan, artikel, dan makalah serta nama majalah dan surat kabar, *kecuali* kata tugas, seperti *di*, *ke*, *dari*, *dan*, *yang*, dan *untuk*, yang tidak terletak pada posisi awal.
 
 Misalnya:
 

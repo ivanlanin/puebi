@@ -3,7 +3,7 @@
 
 Misalnya:
 
-- Rumah itu telah kujual.
-- Majalah ini boleh kaubaca.
-- Bukuku, bukumu, dan bukunya tersimpan di perpustakaan.
-- Rumahnya sedang diperbaiki.
+- Rumah itu telah *ku*jual.
+- Majalah ini boleh *kau*baca.
+- Buku*ku*, buku*mu*, dan buku*nya* tersimpan di perpustakaan.
+- Rumah*nya* sedang diperbaiki.

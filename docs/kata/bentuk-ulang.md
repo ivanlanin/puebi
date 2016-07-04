@@ -24,7 +24,7 @@ Misalnya:
 - serba-serbi
 - tunggang-langgang
 
-Catatan: Bentuk ulang gabungan kata ditulis dengan mengulang unsur pertama.
+Catatan: Bentuk ulang [gabungan kata](gabungan-kata) ditulis dengan mengulang unsur pertama.
 
 Misalnya:
 
@@ -32,3 +32,9 @@ Misalnya:
 - kapal barang → kapal-kapal barang
 - rak buku → rak-rak buku
 - kereta api cepat → kereta-kereta api cepat
+
+!!! note "Catatan"
+	Bila bentuk ulang diberi [huruf kapital](../huruf/huruf-kapital), misalnya pada nama diri (nama lembaga, dokumen, dll.) atau judul (buku, majalah, dll.), bentuk ulang sempurna diberi huruf kapital pada huruf pertama tiap unsurnya, sedangkan bentuk ulang lain hanya diberi huruf kapital pada huruf pertama unsur pertamanya. Misalnya:
+	
+	- Ia menyajikan makalah "Penerapan *A*sas-*A*sas Hukum Perdata".
+	- Slogan "*T*erus-*m*enerus *R*amah-*t*amah" dikampanyekan gubernur baru itu.

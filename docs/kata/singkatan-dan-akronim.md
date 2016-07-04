@@ -30,8 +30,7 @@ Misalnya:
 - KUHP Kitab Undang-Undang Hukum Pidana
 
 !!! important ""
-	**II.H.2.b.** Singkatan yang terdiri atas huruf awal setiap kata yang bukan nama diri ditulis
-dengan huruf kapital tanpa tanda titik.
+	**II.H.2.b.** Singkatan yang terdiri atas huruf awal setiap kata yang bukan nama diri ditulis dengan huruf kapital tanpa tanda titik.
 
 Misalnya:
 
@@ -58,7 +57,7 @@ Misalnya:
 - dkk. dan kawan-kawan
 
 !!! important ""
-	**II.H.4.** Singkatan yang terdiri atas dua huruf yang lazim dipakai dalam surat-menyurat masing- masing diikuti oleh tanda titik.
+	**II.H.4.** Singkatan yang terdiri atas dua huruf yang lazim dipakai dalam surat-menyurat masing-masing diikuti oleh tanda titik.
 
 Misalnya:
 
