@@ -20,5 +20,6 @@ Penelitian ini hanya membatasi masalah pada sikap bahasa masyarakat Kalimantan t
 - **1\.2 Tujuan**  
 Penelitian ini bertujuan untuk mengetahui dan mengukur sikap bahasa masyarakat Kalimantan, khususnya yang tinggal di kota besar terhadap bahasa Indonesia, bahasa daerah, dan bahasa asing.  
 
-!!! warning "Tambahan"
+!!! note "Catatan"
 	Huruf tebal *tidak* dipakai untuk menegaskan atau mengkhususkan huruf, bagian kata, kata, atau kelompok kata dalam kalimat. Untuk tujuan ini, gunakan [huruf miring](huruf-miring.md).
+
