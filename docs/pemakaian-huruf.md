@@ -1,3 +1,14 @@
+# Pemakaian Huruf
+
+1. [Huruf Abjad](#ia-huruf-abjad)
+2. [Huruf Vokal](#ib-huruf-vokal)
+3. [Huruf Konsonan](#ic-huruf-konsonan)
+4. [Huruf Diftong](#id-huruf-diftong)
+5. [Gabungan Huruf Konsonan](#ie-gabungan-huruf-konsonan)
+6. [Huruf Kapital](#if-huruf-kapital)
+7. [Huruf Miring](#ig-huruf-miring)
+8. [Huruf Tebal](#ih-huruf-tebal)
+
 # I.A. Huruf Abjad
 
 Abjad yang dipakai dalam ejaan bahasa Indonesia terdiri atas 26 huruf berikut.
