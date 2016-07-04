@@ -160,11 +160,16 @@ Misalnya:
 
 Misalnya:
 
-- duta besar model linear
-- kambing hitam persegi panjang
-- orang tua rumah sakit jiwa
-- simpang empat meja tulis
-- mata acara cendera mata
+- duta besar 
+- model linear
+- kambing hitam 
+- persegi panjang
+- orang tua 
+- rumah sakit jiwa
+- simpang empat 
+- meja tulis
+- mata acara 
+- cendera mata
 
 !!! important ""
 	**II.D.2.** Gabungan kata yang dapat menimbulkan salah pengertian ditulis dengan membubuhkan tanda hubung (-) di antara unsur-unsurnya.
@@ -244,90 +249,90 @@ di antara kedua huruf vokal itu.
 
 Misalnya:
 
-bu-ah
-ma-in
-ni-at
-sa-at
+- bu-ah
+- ma-in
+- ni-at
+- sa-at
 
 b. Huruf diftong ai, au, ei, dan oi tidak dipenggal.
 
 Misalnya:
 
-pan-dai
-au-la
-sau-da-ra
-sur-vei
-am-boi
+- pan-dai
+- au-la
+- sau-da-ra
+- sur-vei
+- am-boi
 
 c. Jika di tengah kata dasar terdapat huruf konsonan (termasuk gabungan huruf konsonan) di antara dua huruf vokal, pemenggalannya dilakukan sebelum huruf konsonan itu.
 
 Misalnya:
 
-ba-pak
-la-wan
-de-ngan
-ke-nyang
-mu-ta-khir
-mu-sya-wa-rah
+- ba-pak
+- la-wan
+- de-ngan
+- ke-nyang
+- mu-ta-khir
+- mu-sya-wa-rah
 
 d. Jika di tengah kata dasar terdapat dua huruf konsonan yang berurutan, pemenggalannya dilakukan di antara kedua huruf konsonan itu.
 
 Misalnya:
 
-Ap-ril
-cap-lok
-makh-luk
-man-di
-sang-gup
-som-bong
-swas-ta
+- Ap-ril
+- cap-lok
+- makh-luk
+- man-di
+- sang-gup
+- som-bong
+- swas-ta
 
 e. Jika di tengah kata dasar terdapat tiga huruf konsonan atau lebih yang masing- masing melambangkan satu bunyi, pemenggalannya dilakukan di antara huruf konsonan yang pertama dan huruf konsonan yang kedua.
 
 Misalnya:
 
-ul-tra
-in-fra
-ben-trok
-in-stru-men
+- ul-tra
+- in-fra
+- ben-trok
+- in-stru-men
 
 Catatan: Gabungan huruf konsonan yang melambangkan satu bunyi tidak dipenggal.
 
 Misalnya:
 
-bang-krut
-bang-sa
-ba-nyak
-ikh-las
-kong-res
-makh-luk
-masy-hur
-sang-gup
+- bang-krut
+- bang-sa
+- ba-nyak
+- ikh-las
+- kong-res
+- makh-luk
+- masy-hur
+- sang-gup
 
 !!! important ""
 	**II.E.2.** Pemenggalan kata turunan sedapat-dapatnya dilakukan di antara bentuk dasar dan unsur pembentuknya.
 
 Misalnya:
 
-ber-jalan
-mem-pertanggungjawabkan
-mem-bantu
-memper-tanggungjawabkan
-di-ambil
-mempertanggung-jawabkan
-ter-bawa
-mempertanggungjawab-kan
-per-buat
-me-rasakan
-makan-an
-merasa-kan
-letak-kan
-per-buatan
-pergi-lah
-perbuat-an
-apa-kah
-ke-kuatan
-kekuat-an
+- ber-jalan
+- mem-pertanggungjawabkan
+- mem-bantu
+- memper-tanggungjawabkan
+- di-ambil
+- mempertanggung-jawabkan
+- ter-bawa
+- mempertanggungjawab-kan
+- per-buat
+- me-rasakan
+- makan-an
+- merasa-kan
+- letak-kan
+- per-buatan
+- pergi-lah
+- perbuat-an
+- apa-kah
+- ke-kuatan
+- kekuat-an
 
 Catatan:
 
@@ -335,34 +340,34 @@ Catatan:
 
 Misalnya:
 
-me-nu-tup
-me-ma-kai
-me-nya-pu
-me-nge-cat
-pe-mi-kir
-pe-no-long
-pe-nga-rang
-pe-nge-tik
-pe-nye-but
+- me-nu-tup
+- me-ma-kai
+- me-nya-pu
+- me-nge-cat
+- pe-mi-kir
+- pe-no-long
+- pe-nga-rang
+- pe-nge-tik
+- pe-nye-but
 
 (2) Pemenggalan kata bersisipan dilakukan seperti pada kata dasar.
 
 Misalnya:
 
-ge-lem-bung
-ge-mu-ruh
-ge-ri-gi
-si-nam-bung
-te-lun-juk
+- ge-lem-bung
+- ge-mu-ruh
+- ge-ri-gi
+- si-nam-bung
+- te-lun-juk
 
 (3) Pemenggalan kata yang menyebabkan munculnya satu huruf di awal atau akhir
 baris tidak dilakukan.
 
 Misalnya:
 
-Beberapa pendapat mengenai masalah itu
+- Beberapa pendapat mengenai masalah itu  
 telah disampaikan ….
-Walaupun cuma-cuma, mereka tidak mau
+- Walaupun cuma-cuma, mereka tidak mau  
 mengambil makanan itu.
 
 !!! important ""
@@ -406,9 +411,9 @@ pas-ca-sar-ja-na
 
 Misalnya:
 
-Lagu .Indonesia Raya. digubah oleh Wage Rudolf
+- Lagu "Indonesia Raya" digubah oleh Wage Rudolf  
 Supratman.
-Buku Layar Terkembang dikarang oleh Sutan Takdir
+- Buku *Layar Terkembang* dikarang oleh Sutan Takdir  
 Alisjahbana.
 
 !!! important ""
@@ -421,9 +426,9 @@ Pujangga terakhir Keraton Surakarta bergelar R.Ng. Rangga Warsita.
 
 Catatan: Penulisan berikut dihindari.
 
-- Ia bekerja di DLL-
+- Ia bekerja di DLL-  
 AJR.
-- Pujangga terakhir Keraton Surakarta bergelar R.
+- Pujangga terakhir Keraton Surakarta bergelar R.  
 Ng. Rangga Warsita.
 
 # II.F. Kata Depan
@@ -487,115 +492,117 @@ Misalnya:
 
 Misalnya:
 
-A.H. Nasution Abdul Haris Nasution
-H. Hamid Haji Hamid
-Suman Hs. Suman Hasibuan
-W.R. Supratman Wage Rudolf Supratman
-M.B.A. master of business administration
-M.Hum. magister humaniora
-M.Si. magister sains
-S.E. sarjana ekonomi
-S.Sos. sarjana sosial
-S.Kom. sarjana komunikasi
-S.K.M. sarjana kesehatan masyarakat
-Sdr. saudara
-Kol. Darmawati Kolonel Darmawati
+- A.H. Nasution = Abdul Haris Nasution
+- H. Hamid = Haji Hamid
+- Suman Hs. = Suman Hasibuan
+- W.R. Supratman = Wage Rudolf Supratman
+- M.B.A. = master of business administration
+- M.Hum. = magister humaniora
+- M.Si. = magister sains
+- S.E. = sarjana ekonomi
+- S.Sos. = sarjana sosial
+- S.Kom. = sarjana komunikasi
+- S.K.M. = sarjana kesehatan masyarakat
+- Sdr. = saudara
+- Kol. Darmawati = Kolonel Darmawati
 
 !!! important ""
-	**II.H.2.** a. Singkatan yang terdiri atas huruf awal setiap kata nama lembaga pemerintah dan ketatanegaraan, lembaga pendidikan, badan atau organisasi, serta nama dokumen resmi ditulis dengan huruf kapital tanpa tanda titik.
+	**II.H.2.a.** Singkatan yang terdiri atas huruf awal setiap kata nama lembaga pemerintah dan ketatanegaraan, lembaga pendidikan, badan atau organisasi, serta nama dokumen resmi ditulis dengan huruf kapital tanpa tanda titik.
 
 Misalnya:
 
-NKRI Negara Kesatuan Republik Indonesia
-UI Universitas Indonesia
-PBB Perserikatan Bangsa-Bangsa
-WHO World Health Organization
-PGRI Persatuan Guru Republik Indonesia
-KUHP Kitab Undang-Undang Hukum Pidana
-b. Singkatan yang terdiri atas huruf awal setiap kata yang bukan nama diri ditulis
+- NKRI Negara Kesatuan Republik Indonesia
+- UI Universitas Indonesia
+- PBB Perserikatan Bangsa-Bangsa
+- WHO World Health Organization
+- PGRI Persatuan Guru Republik Indonesia
+- KUHP Kitab Undang-Undang Hukum Pidana
+
+!!! important ""
+	**II.H.2.b.** Singkatan yang terdiri atas huruf awal setiap kata yang bukan nama diri ditulis
 dengan huruf kapital tanpa tanda titik.
 
 Misalnya:
 
-PT perseroan terbatas
-MAN madrasah aliah negeri
-SD sekolah dasar
-KTP kartu tanda penduduk
-SIM surat izin mengemudi
-NIP nomor induk pegawai
+- PT perseroan terbatas
+- MAN madrasah aliah negeri
+- SD sekolah dasar
+- KTP kartu tanda penduduk
+- SIM surat izin mengemudi
+- NIP nomor induk pegawai
 
 !!! important ""
-		**II.H.3.** Singkatan yang terdiri atas tiga huruf atau lebih diikuti dengan tanda titik.
+	**II.H.3.** Singkatan yang terdiri atas tiga huruf atau lebih diikuti dengan tanda titik.
 
 Misalnya:
 
-hlm. halaman
-dll. dan lain-lain
-dsb. dan sebagainya
-dst. dan seterusnya
-sda. sama dengan di atas
-ybs. yang bersangkutan
-yth. yang terhormat
-ttd. tertanda
-dkk. dan kawan-kawan
+- hlm. halaman
+- dll. dan lain-lain
+- dsb. dan sebagainya
+- dst. dan seterusnya
+- sda. sama dengan di atas
+- ybs. yang bersangkutan
+- yth. yang terhormat
+- ttd. tertanda
+- dkk. dan kawan-kawan
 
 !!! important ""
 	**II.H.4.** Singkatan yang terdiri atas dua huruf yang lazim dipakai dalam surat-menyurat masing- masing diikuti oleh tanda titik.
 
 Misalnya:
 
-a.n. atas nama
-d.a. dengan alamat
-u.b. untuk beliau
-u.p. untuk perhatian
-s.d. sampai dengan
+- a.n. atas nama
+- d.a. dengan alamat
+- u.b. untuk beliau
+- u.p. untuk perhatian
+- s.d. sampai dengan
 
 !!! important ""
 	**II.H.5.** Lambang kimia, singkatan satuan ukuran, takaran, timbangan, dan mata uang tidak diikuti tanda titik.
 
 Misalnya:
 
-Cu kuprum
-cm sentimeter
-kVA kilovolt-ampere
-l liter
-kg kilogram
-Rp rupiah
+- Cu kuprum
+- cm sentimeter
+- kVA kilovolt-ampere
+- l liter
+- kg kilogram
+- Rp rupiah
 
 !!! important ""
 	**II.H.6.** Akronim nama diri yang terdiri atas huruf awal setiap kata ditulis dengan huruf kapital tanpa tanda titik.
 
 Misalnya:
 
-BIG Badan Informasi Geospasial
-BIN Badan Intelijen Negara
-LIPI Lembaga Ilmu Pengetahuan Indonesia
-LAN Lembaga Administrasi Negara
-PASI Persatuan Atletik Seluruh Indonesia
+- BIG Badan Informasi Geospasial
+- BIN Badan Intelijen Negara
+- LIPI Lembaga Ilmu Pengetahuan Indonesia
+- LAN Lembaga Administrasi Negara
+- PASI Persatuan Atletik Seluruh Indonesia
 
 !!! important ""
 	**II.H.7.** Akronim nama diri yang berupa gabungan suku kata atau gabungan huruf dan suku kata dari deret kata ditulis dengan huruf awal kapital.
 
 Misalnya:
 
-Bulog Badan Urusan Logistik
-Bappenas Badan Perencanaan Pembangunan Nasional
-Kowani Kongres Wanita Indonesia
-Kalteng Kalimantan Tengah
-Mabbim Majelis Bahasa Brunei Darussalam-Indonesia-Malaysia
-Suramadu Surabaya Madura
+- Bulog Badan Urusan Logistik
+- Bappenas Badan Perencanaan Pembangunan Nasional
+- Kowani Kongres Wanita Indonesia
+- Kalteng Kalimantan Tengah
+- Mabbim Majelis Bahasa Brunei Darussalam-Indonesia-Malaysia
+- Suramadu Surabaya Madura
 
 !!! important ""
 	**II.H.8.** Akronim bukan nama diri yang berupa gabungan huruf awal dan suku kata atau gabungan suku kata ditulis dengan huruf kecil.
 
 Misalnya:
 
-iptek ilmu pengetahuan dan teknologi
-pemilu pemilihan umum
-puskesmas pusat kesehatan masyarakat
-rapim rapat pimpinan
-rudal peluru kendali
-tilang bukti pelanggaran
+- iptek ilmu pengetahuan dan teknologi
+- pemilu pemilihan umum
+- puskesmas pusat kesehatan masyarakat
+- rapim rapat pimpinan
+- rudal peluru kendali
+- tilang bukti pelanggaran
 
 # II.I. Angka dan Bilangan
 
