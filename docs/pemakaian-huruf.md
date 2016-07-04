@@ -439,61 +439,63 @@ Misalnya:
 # I.G. Huruf Miring
 
 !!! important ""
-	I.G.1. Huruf miring dipakai untuk menuliskan judul buku, nama majalah, atau nama surat kabar yang dikutip dalam tulisan, termasuk dalam daftar pustaka.
+	**I.G.1.** Huruf miring dipakai untuk menuliskan judul buku, nama majalah, atau nama surat kabar yang dikutip dalam tulisan, termasuk dalam daftar pustaka.
 
 Misalnya:
 
-- Saya sudah membaca buku Salah Asuhan karangan Abdoel Moeis.
-- Majalah Poedjangga Baroe menggelorakan semangat kebangsaan.
-- Berita itu muncul dalam surat kabar Cakrawala.
-- Pusat Bahasa. 2011. Kamus Besar Bahasa Indonesia Pusat Bahasa. Edisi Keempat (Cetakan Kedua). Jakarta: Gramedia Pustaka Utama.
+- Saya sudah membaca buku *Salah Asuhan* karangan Abdoel Moeis.
+- Majalah *Poedjangga Baroe* menggelorakan semangat kebangsaan.
+- Berita itu muncul dalam surat kabar *Cakrawala*.
+- Pusat Bahasa. 2011. *Kamus Besar Bahasa Indonesia Pusat Bahasa*. Edisi Keempat (Cetakan Kedua). Jakarta: Gramedia Pustaka Utama.
 
 !!! important ""
-	I.G.2. Huruf miring dipakai untuk menegaskan atau mengkhususkan huruf, bagian kata, kata, atau kelompok kata dalam kalimat.
+	**I.G.2.** Huruf miring dipakai untuk menegaskan atau mengkhususkan huruf, bagian kata, kata, atau kelompok kata dalam kalimat.
 
 Misalnya:
 
-- Huruf terakhir kata abad adalah d.
-- Dia tidak diantar, tetapi mengantar.
-- Dalam bab ini tidak dibahas pemakaian tanda baca.
-- Buatlah kalimat dengan menggunakan ungkapan lepas tangan.
+- Huruf terakhir kata abad adalah *d*.
+- Dia tidak *di*antar, tetapi *meng*antar.
+- Dalam bab ini *tidak* dibahas pemakaian tanda baca.
+- Buatlah kalimat dengan menggunakan ungkapan *lepas tangan*.
 
 !!! important ""
-	I.G.3. Huruf miring dipakai untuk menuliskan kata atau ungkapan dalam bahasa daerah atau bahasa asing.
+	**I.G.3.** Huruf miring dipakai untuk menuliskan kata atau ungkapan dalam bahasa daerah atau bahasa asing.
 
 Misalnya:
 
-- Upacara peusijuek (tepung tawar) menarik perhatian wisatawan asing yang berkunjung ke Aceh.
-- Nama ilmiah buah manggis ialah Garcinia mangostana.
-- Weltanschauung bermakna 'pandangan dunia'.
-- Ungkapan bhinneka tunggal ika dijadikan semboyan negara Indonesia.
+- Upacara *peusijuek* (tepung tawar) menarik perhatian wisatawan asing yang berkunjung ke Aceh.
+- Nama ilmiah buah manggis ialah *Garcinia mangostana*.
+- *Weltanschauung* bermakna 'pandangan dunia'.
+- Ungkapan *bhinneka tunggal ika* dijadikan semboyan negara Indonesia.
 
 Catatan:
 
-(1) Nama diri, seperti nama orang, lembaga, atau organisasi, dalam bahasa asing atau bahasa daerah tidak ditulis dengan huruf miring.  
-(2) Dalam naskah tulisan tangan atau mesin tik (bukan komputer), bagian yang akan dicetak miring ditandai dengan garis bawah.  
-(3) Kalimat atau teks berbahasa asing atau berbahasa daerah yang dikutip secara langsung dalam teks berbahasa Indonesia ditulis dengan huruf miring.  
+(1) Nama diri, seperti nama orang, lembaga, atau organisasi, dalam bahasa asing atau bahasa daerah tidak ditulis dengan huruf miring.
+
+(2) Dalam naskah tulisan tangan atau mesin tik (bukan komputer), bagian yang akan dicetak miring ditandai dengan garis bawah.
+
+(3) Kalimat atau teks berbahasa asing atau berbahasa daerah yang dikutip secara langsung dalam teks berbahasa Indonesia ditulis dengan huruf miring.
 
 # I.H. Huruf Tebal
 
 !!! important ""
-	I.H.1. Huruf tebal dipakai untuk menegaskan bagian tulisan yang sudah ditulis miring.
+	**I.H.1.** Huruf tebal dipakai untuk menegaskan bagian tulisan yang sudah ditulis miring.
 
 Misalnya:
 
-- Huruf dh, seperti pada kata Ramadhan, tidak terdapat dalam Ejaan Bahasa Indonesia yang Disempurnakan.
-- Kata et dalam ungkapan ora et labora berarti 'dan'.
+- Huruf *dh*, seperti pada kata *Rama**dh**an*, tidak terdapat dalam Ejaan Bahasa Indonesia yang Disempurnakan.
+- Kata *et* dalam ungkapan *ora **et** labora* berarti 'dan'.
 
 !!! important ""
-	I.H.2. Huruf tebal dapat dipakai untuk menegaskan bagian- bagian karangan, seperti judul buku, bab, atau subbab.
+	**I.H.2.** Huruf tebal dapat dipakai untuk menegaskan bagian- bagian karangan, seperti judul buku, bab, atau subbab.
 
 Misalnya:
 
-1\.1 Latar Belakang dan Masalah  
+**1\.1 Latar Belakang dan Masalah**  
 Kondisi kebahasaan di Indonesia yang diwarnai oleh satu bahasa standar dan ratusan bahasa daerah—ditambah beberapa bahasa asing, terutama bahasa Inggris— membutuhkan penanganan yang tepat dalam perencanaan bahasa. Agar lebih jelas, latar belakang dan masalah akan diuraikan secara terpisah seperti tampak pada paparan berikut.  
-1\.1\.1 Latar Belakang  
+**1\.1\.1 Latar Belakang**  
 Masyarakat Indonesia yang heterogen menyebabkan munculnya sikap yang beragam terhadap penggunaan bahasa yang ada di Indonesia, yaitu (1) sangat bangga terhadap bahasa asing, (2) sangat bangga terhadap bahasa daerah, dan (3) sangat bangga terhadap bahasa Indonesia.  
-1\.1\.2 Masalah  
+**1\.1\.2 Masalah**  
 Penelitian ini hanya membatasi masalah pada sikap bahasa masyarakat Kalimantan terhadap ketiga bahasa yang ada di Indonesia. Sikap masyarakat tersebut akan digunakan sebagai formulasi kebijakan perencanaan bahasa yang diambil.  
-1\.2 Tujuan  
+**1\.2 Tujuan**  
 Penelitian ini bertujuan untuk mengetahui dan mengukur sikap bahasa masyarakat Kalimantan, khususnya yang tinggal di kota besar terhadap bahasa Indonesia, bahasa daerah, dan bahasa asing.  

@@ -1,13 +1,15 @@
 site_name: PUEBI – Pedoman Umum Ejaan Bahasa Indonesia
 pages:
   - 'Beranda': 'index.md'
-  - 'I. Pemakaian Huruf': 'pemakaian-huruf.md'
-  - 'II. Penulisan Kata': 'penulisan-kata.md'
-  - 'III. Pemakaian Tanda Baca': 'pemakaian-tanda-baca.md'
-  - 'IV. Penulisan Unsur Serapan': 'penulisan-unsur-serapan.md'
+  - 'Pemakaian Huruf': 'pemakaian-huruf.md'
+  - 'Penulisan Kata': 'penulisan-kata.md'
+  - 'Pemakaian Tanda Baca': 'pemakaian-tanda-baca.md'
+  - 'Penulisan Unsur Serapan': 'penulisan-unsur-serapan.md'
 theme: 'readthedocs'
 repo_name: 'GitHub'
 repo_url: 'https://github.com/ivanlanin/puebi'
 google_analytics: ['UA-80210173-1', 'auto']
 markdown_extensions:
   - admonition
+  - toc:
+      permalink: true
