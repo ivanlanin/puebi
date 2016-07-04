@@ -13,7 +13,7 @@ Misalnya:
 
 Misalnya:
 
-- Huruf terakhir kata abad adalah *d*.
+- Huruf terakhir kata *abad* adalah *d*.
 - Dia tidak *di*antar, tetapi *meng*antar.
 - Dalam bab ini *tidak* dibahas pemakaian tanda baca.
 - Buatlah kalimat dengan menggunakan ungkapan *lepas tangan*.
@@ -30,7 +30,7 @@ Misalnya:
 
 Catatan:
 
-(1) Nama diri, seperti nama orang, lembaga, atau organisasi, dalam bahasa asing atau bahasa daerah tidak ditulis dengan huruf miring.
+(1) Nama diri, seperti nama orang, lembaga, atau organisasi, dalam bahasa asing atau bahasa daerah *tidak* ditulis dengan huruf miring.
 
 (2) Dalam naskah tulisan tangan atau mesin tik (bukan komputer), bagian yang akan dicetak miring ditandai dengan garis bawah.
 
