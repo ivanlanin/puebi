@@ -1,0 +1,8 @@
+1. [Huruf Abjad](huruf-abjad.md)
+2. [Huruf Vokal](huruf-vokal.md)
+3. [Huruf Konsonan](huruf-konsonan.md)
+4. [Huruf Diftong](huruf-diftong.md)
+5. [Gabungan Konsonan](gabungan-konsonan.md)
+6. [Huruf Kapital](huruf-kapital.md)
+7. [Huruf Miring](huruf-miring.md)
+8. [Huruf Tebal](huruf-tebal.md)
