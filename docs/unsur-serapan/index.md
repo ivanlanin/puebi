@@ -5,8 +5,8 @@ Dalam perkembangannya bahasa Indonesia menyerap unsur dari berbagai bahasa, baik
 bahasa daerah, seperti bahasa Jawa, Sunda, dan Bali, maupun dari bahasa asing, seperti bahasa
 Sanskerta, Arab, Portugis, Belanda, Cina, dan Inggris. Berdasarkan taraf integrasinya, unsur
 serapan dalam bahasa Indonesia dapat dibagi menjadi dua kelompok besar. Pertama, unsur
-asing yang belum sepenuhnya terserap ke dalam bahasa Indonesia, seperti force majeur, de facto,
-de jure, dan l’exploitation de l'homme par l'homme. Unsur-unsur itu dipakai dalam konteks
+asing yang belum sepenuhnya terserap ke dalam bahasa Indonesia, seperti *force majeur*, *de facto*,
+*de jure*, dan *l’exploitation de l'homme par l'homme*. Unsur-unsur itu dipakai dalam konteks
 bahasa Indonesia, tetapi cara pengucapan dan penulisannya masih mengikuti cara asing. Kedua,
 unsur asing yang penulisan dan pengucapannya disesuaikan dengan kaidah bahasa Indonesia.
 Dalam hal ini, penyerapan diusahakan agar ejaannya diubah seperlunya sehingga bentuk
@@ -14,21 +14,20 @@ Indonesianya masih dapat dibandingkan dengan bentuk asalnya.
 
 Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
 
-a (Arab, bunyi pendek atau bunyi panjang) menjadi a (bukan o)
-mazhab (
-).. ..
-mazhab
-qadr ( ... ) kadar
-.a.abat (
-(... ..
-sahabat
-haqiqat ( ..... ) hakikat
-‘umrah ( .... ) umrah
-ga’ib ( .... ) gaib
-iqamah ( ..... ) ikamah
-khatib ( .... ) khatib
-ri.a’ ( .... ) rida
-.alim ( .... ) zalim
+*a* (Arab, bunyi pendek atau bunyi panjang) menjadi *a* (bukan *o*)
+
+| | | |
+|-------------------|----------------|---------------|
+| *m**a**zhab*      | ( مذ هب )      | m*a*zhab      |
+| *q**a**dr*        | ( قدر )        | k*a*dar       |
+| *s**a**habat*     | ( صحا بة )     | s*a*habat     |
+| *h**a**qiq**a**t  | ( حقيقة )      | h*a*kikat     |
+| *‘umr**a**h*      | ( عمرة )       | umr*a*h       |
+| *g**a**’ib*       | ( غائب )       | g*a*ib        |
+| *iq**a**mah*      | ( إقامة )      | ik*a*mah      |
+| *kh**a**tib*      | ( خاطب )       | kh*a*tib      |
+| *riy**a**’*       | ( رضاء )       | rid*a*        |
+| *z**a**lim*       | ( ظالم )       | z*a*lim       |
 
 ‘ain ( . Arab) pada awal suku kata menjadi a, i, u
 ‘aja’ib ( ..... ) ajaib
