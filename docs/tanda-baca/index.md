@@ -8,7 +8,7 @@
 8. [Tanda Seru (!)](tanda-seru.md)
 9. [Tanda Elipsis (…)](tanda-elipsis.md)
 10. [Tanda Petik ("…")](tanda-petik.md)
-11. [Tanda Petik Tunggal (''…'')](tanda-petik-tunggal.md)
+11. [Tanda Petik Tunggal ('…')](tanda-petik-tunggal.md)
 12. [Tanda Kurung ((…))](tanda-kurung.md)
 13. [Tanda Kurung Siku ([…])](tanda-kurung-siku.md)
 14. [Tanda Garis Miring (/)](tanda-garis-miring.md)

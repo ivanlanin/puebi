@@ -34,7 +34,7 @@ PUEBI Daring adalah versi web ramah gawai dari *Pedoman Umum Ejaan Bahasa Indone
 	- [Tanda Seru (!)](tanda-baca/tanda-seru.md)
 	- [Tanda Elipsis (…)](tanda-baca/tanda-elipsis.md)
 	- [Tanda Petik ("…")](tanda-baca/tanda-petik.md)
-	- [Tanda Petik Tunggal (''…'')](tanda-baca/tanda-petik-tunggal.md)
+	- [Tanda Petik Tunggal ('…')](tanda-baca/tanda-petik-tunggal.md)
 	- [Tanda Kurung ((…))](tanda-baca/tanda-kurung.md)
 	- [Tanda Kurung Siku ([…])](tanda-baca/tanda-kurung-siku.md)
 	- [Tanda Garis Miring (/)](tanda-baca/tanda-garis-miring.md)
