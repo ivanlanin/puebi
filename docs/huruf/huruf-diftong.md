@@ -8,4 +8,4 @@ ei* | *ei*gendom | g*ei*ser | surv*ei*
 oi | - | b*oi*kot | amb*oi*
 
 !!! note "Catatan"
-	Diftong *ei* baru ditambahkan pada PUEBI 2015. Pedoman EYD sebelumnya hanya mencantumkan diftong *ai*, *au*, dan *oi*.
+	PUEBI 2015 menambahkan diftong *ei*. Pedoman ejaan sebelumnya hanya mencantumkan tiga diftong: *ai*, *au*, dan *oi*.

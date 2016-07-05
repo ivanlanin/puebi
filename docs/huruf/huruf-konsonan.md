@@ -29,4 +29,5 @@ Keterangan:
 \* Huruf *q* dan *x* khusus digunakan untuk nama diri dan keperluan ilmu. Huruf *x* pada posisi awal kata diucapkan [s].
 
 !!! note "Catatan"
-	Empat konsonan (*c*, *q*, *x*, dan *y*) tidak digunakan di posisi akhir kata dasar bahasa Indonesia. Konsonan *y* bisa terletak di akhir, tetapi dalam bentuk gabungan huruf konsonan *sy*, misalnya pada *arasy*.
+	1. PUEBI 2015 menghilangkan keterangan "Huruf *k* melambangkan bunyi hamzah" dengan contoh "ra*k*yat" dan "bapa*k*".
+	2. Empat konsonan (*c*, *q*, *x*, dan *y*) tidak digunakan di posisi akhir kata dasar bahasa Indonesia. Konsonan *y* bisa terletak di akhir, tetapi dalam bentuk gabungan huruf konsonan *sy*, misalnya pada *arasy*.

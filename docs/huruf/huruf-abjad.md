@@ -28,3 +28,6 @@ W | w | we | wé
 X | x | eks | èks
 Y | y | ye | yé
 Z | z | zet | zèt
+
+!!! note "Catatan"
+	PUEBI 2015 menambahkan kolom "Pengucapan" yang dilengkapi [diakritik](huruf-vokal).

@@ -29,3 +29,6 @@ c. Diakritik (ê) dilafalkan [ə]. Misalnya:
 - Pertandingan itu berakhir *seri* (sêri).
 - Upacara itu dihadiri pejabat *teras* (têras) Bank Indonesia.
 - *Kecap* (kêcap) dulu makanan itu.
+
+!!! note "Catatan"
+	PUEBI 2015 menambahkan informasi pelafalan diakritik é (taling tertutup), è (taling terbuka), dan ê (pepet). Pedoman ejaan sebelumnya hanya mencantumkan tanda aksen (′).
