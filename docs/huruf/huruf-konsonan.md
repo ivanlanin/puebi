@@ -27,3 +27,6 @@ z | *z*eni | la*z*im | ju*z*
 Keterangan:
 
 \* Huruf *q* dan *x* khusus digunakan untuk nama diri dan keperluan ilmu. Huruf *x* pada posisi awal kata diucapkan [s].
+
+!!! note "Catatan"
+	Empat konsonan (*c*, *q*, *x*, dan *y*) tidak digunakan di posisi akhir kata dasar bahasa Indonesia. Konsonan *y* bisa terletak di akhir, tetapi dalam bentuk gabungan huruf konsonan *sy*, misalnya pada *arasy*.

@@ -1,3 +1,6 @@
+!!! warning "Peringatan"
+	Bagian ini belum selesai diolah. Anda dapat membantu melalui GitHub.
+
 Dalam perkembangannya bahasa Indonesia menyerap unsur dari berbagai bahasa, baik dari
 bahasa daerah, seperti bahasa Jawa, Sunda, dan Bali, maupun dari bahasa asing, seperti bahasa
 Sanskerta, Arab, Portugis, Belanda, Cina, dan Inggris. Berdasarkan taraf integrasinya, unsur
