@@ -42,6 +42,9 @@ Misalnya:
 - Ayam Jantan *d*ari Timur
 - Mutiara *d*ari Selatan
 
+!!! note "Catatan"
+	PUEBI 2015 menambahkan (1) penjelasan "termasuk julukan" pada I.F.2., misalnya *Jendral Kancil* dan *Dewa Pedang*; serta (2) penjelasan "yang bermakna 'anak dari'" pada catatan kedua. Kedua tambahan ini tampaknya bertujuan untuk memperjelas pedoman sebelumnya.
+
 !!! important ""
 	**I.F.3.** Huruf kapital dipakai pada awal kalimat dalam petikan langsung.
 
@@ -214,6 +217,9 @@ Contoh berikut *bukan* nama jenis.
 - Selain film H**ongkong, juga akan diputar film *I*ndia, film *K*orea, dan film *J*epang.
 - Murid-murid sekolah dasar itu menampilkan tarian *S*umatra *S*elatan, tarian *K*alimantan *T*imur, dan tarian *S*ulawesi *S*elatan.
 
+!!! note "Catatan"
+	PUEBI 2015 menambahkan cara pembedaan unsur nama geografi yang menjadi bagian nama diri (*proper name*) dan nama jenis (*common name*).
+
 !!! important ""
 	**I.F.10.** Huruf kapital dipakai sebagai huruf pertama semua kata (termasuk semua unsur [bentuk ulang](../kata/bentuk-ulang) sempurna) dalam nama negara, lembaga, badan, organisasi, atau dokumen, *kecuali* kata tugas, seperti *di*, *ke*, *dari*, *dan*, *yang*, dan *untuk*.
 
@@ -262,6 +268,9 @@ Misalnya:
 - *N*y. = nyonya
 - *S*dr. = saudara
 
+!!! note "Catatan"
+	PUEBI 2015 menambahkan contoh gelar lokal *Daeng* dan *Datuk*.
+
 !!! important ""
 	**I.F.13.** Huruf kapital dipakai sebagai huruf pertama kata penunjuk hubungan kekerabatan, seperti *bapak*, *ibu*, *kakak*, *adik*, dan *paman*, serta kata atau ungkapan lain yang dipakai dalam penyapaan atau pengacuan.
 
@@ -272,6 +281,9 @@ Misalnya:
 - Surat *S*audara telah kami terima dengan baik.
 - "Hai, *K*utu *B*uku, sedang membaca apa?"
 - "*B*u, saya sudah melaporkan hal ini kepada *B*apak."
+
+!!! note "Catatan"
+	PUEBI 2015 menambahkan penjelasan penulisan kata atau ungkapan lain yang digunakan sebagai penyapaan ditulis dengan huruf kapital, misalnya *Kutu Buku*.
 
 Catatan:
 
