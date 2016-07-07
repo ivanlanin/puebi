@@ -35,3 +35,7 @@ Catatan:
 (2) Dalam naskah tulisan tangan atau mesin tik (bukan komputer), bagian yang akan dicetak miring ditandai dengan garis bawah.
 
 (3) Kalimat atau teks berbahasa asing atau berbahasa daerah yang dikutip secara langsung dalam teks berbahasa Indonesia ditulis dengan huruf miring.
+
+!!! note "Catatan"
+	1. PUEBI 2015 menggunakan frasa *bahasa daerah atau bahasa asing*, sedangkan pedoman ejaan sebelumnya memakai frasa *bukan bahasa Indonesia*.
+	2. PUEBI 2015 menambahkan catatan bahwa nama diri dalam bahasa asing atau bahasa daerah *tidak* ditulis dengan huruf miring.

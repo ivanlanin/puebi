@@ -6,6 +6,10 @@ Misalnya:
 - Huruf *dh*, seperti pada kata *Rama**dh**an*, tidak terdapat dalam Ejaan Bahasa Indonesia yang Disempurnakan.
 - Kata *et* dalam ungkapan *ora **et** labora* berarti 'dan'.
 
+!!! note "Catatan"
+	1. PUEBI 2015 menambahkan klausul ini.
+	2. Huruf tebal *tidak* dipakai untuk menegaskan atau mengkhususkan huruf, bagian kata, kata, atau kelompok kata dalam kalimat. Untuk tujuan ini, gunakan [huruf miring](huruf-miring.md).
+
 !!! important ""
 	**I.H.2.** Huruf tebal dapat dipakai untuk menegaskan bagian-bagian karangan, seperti judul buku, bab, atau subbab.
 
@@ -18,8 +22,4 @@ Masyarakat Indonesia yang heterogen menyebabkan munculnya sikap yang beragam ter
 - **1\.1\.2 Masalah**  
 Penelitian ini hanya membatasi masalah pada sikap bahasa masyarakat Kalimantan terhadap ketiga bahasa yang ada di Indonesia. Sikap masyarakat tersebut akan digunakan sebagai formulasi kebijakan perencanaan bahasa yang diambil.  
 - **1\.2 Tujuan**  
-Penelitian ini bertujuan untuk mengetahui dan mengukur sikap bahasa masyarakat Kalimantan, khususnya yang tinggal di kota besar terhadap bahasa Indonesia, bahasa daerah, dan bahasa asing.  
-
-!!! note "Catatan"
-	Huruf tebal *tidak* dipakai untuk menegaskan atau mengkhususkan huruf, bagian kata, kata, atau kelompok kata dalam kalimat. Untuk tujuan ini, gunakan [huruf miring](huruf-miring.md).
-
+Penelitian ini bertujuan untuk mengetahui dan mengukur sikap bahasa masyarakat Kalimantan, khususnya yang tinggal di kota besar terhadap bahasa Indonesia, bahasa daerah, dan bahasa asing.
