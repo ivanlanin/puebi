@@ -12,7 +12,7 @@ Misalnya:
 - M.Si. = magister sains
 - S.E. = sarjana ekonomi
 - S.Sos. = sarjana sosial
-- S.Kom. = sarjana komunikasi
+- S.Kom. = sarjana komputer
 - S.K.M. = sarjana kesehatan masyarakat
 - Sdr. = saudara
 - Kol. Darmawati = Kolonel Darmawati
