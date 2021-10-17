@@ -31,4 +31,4 @@ c. Diakritik (ê) dilafalkan [ə]. Misalnya:
 - *Kecap* (kêcap) dulu makanan itu.
 
 !!! note "Catatan"
-	PUEBI 2015 menambahkan informasi pelafalan diakritik *é* (taling tertutup), *è *(taling terbuka), dan *ê* (pepet). Pedoman ejaan sebelumnya hanya mencantumkan tanda aksen (′).
+	PUEBI 2015 menambahkan informasi pelafalan diakritik *é* (taling terbuka), *è *(taling tertutup), dan *ê* (pepet). Pedoman ejaan sebelumnya hanya mencantumkan tanda aksen (′).
