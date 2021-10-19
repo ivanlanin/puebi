@@ -1,3 +1,5 @@
+# G. Huruf Miring
+
 !!! important ""
 	**I.G.1.** Huruf miring dipakai untuk menuliskan judul buku, nama majalah, atau nama surat kabar yang dikutip dalam tulisan, termasuk dalam daftar pustaka.
 

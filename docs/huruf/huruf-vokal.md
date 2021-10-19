@@ -1,3 +1,5 @@
+# B. Huruf Vokal
+
 Huruf yang melambangkan vokal dalam bahasa Indonesia terdiri atas lima huruf, yaitu *a*, *e*, *i*, *o*, dan *u*.
 
 Huruf Vokal | Posisi Awal | Posisi Tengah | Posisi Akhir

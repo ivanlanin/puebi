@@ -1,3 +1,5 @@
+# D. Huruf Diftong
+
 Di dalam bahasa Indonesia terdapat empat diftong yang dilambangkan dengan gabungan huruf vokal *ai*, *au*, *ei*, dan *oi*.
 
 Huruf Diftong | Posisi Awal | Posisi Tengah | Posisi Akhir

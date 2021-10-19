@@ -1,5 +1,9 @@
+# F. Huruf Kapital
+
 !!! important ""
-	**I.F.1.** Huruf kapital dipakai sebagai huruf pertama awal kalimat. Misalnya:
+	**I.F.1.** Huruf kapital dipakai sebagai huruf pertama awal kalimat.
+
+Misalnya:
 
 - *A*pa maksudnya?
 - *D*ia membaca buku.
@@ -7,7 +11,9 @@
 - *P*ekerjaan itu akan selesai dalam satu jam.
 
 !!! important ""
-	**I.F.2.** Huruf kapital dipakai sebagai huruf pertama unsur nama orang, termasuk julukan. Misalnya:
+	**I.F.2.** Huruf kapital dipakai sebagai huruf pertama unsur nama orang, termasuk julukan.
+
+Misalnya:
 
 - *A*mir *H*amzah
 - *D*ewi *S*artika
@@ -163,27 +169,27 @@ Misalnya:
 
 Misalnya:
 
-- *J*akarta 
+- *J*akarta
 - *A*sia *T*enggara
-- *P*ulau *M*iangas 
+- *P*ulau *M*iangas
 - *A*merika *S*erikat
-- *B*ukit *B*arisan 
+- *B*ukit *B*arisan
 - *J*awa *B*arat
-- *D*ataran *T*inggi 
+- *D*ataran *T*inggi
 - *D*ieng *D*anau *T*oba
-- *J*alan *S*ulawesi 
+- *J*alan *S*ulawesi
 - *G*unung *S*emeru
-- *N*garai *S*ianok 
+- *N*garai *S*ianok
 - *J*azirah *A*rab
-- *S*elat *L*ombok 
+- *S*elat *L*ombok
 - *L*embah *B*aliem
-- *S*ungai *M*usi 
+- *S*ungai *M*usi
 - *P*egunungan *H*imalaya
-- *T*eluk *B*enggala 
+- *T*eluk *B*enggala
 - *T*anjung *H*arapan
-- *T*erusan *S*uez 
+- *T*erusan *S*uez
 - *K*ecamatan *C*icadas
-- *G*ang *K*elinci 
+- *G*ang *K*elinci
 - *K*elurahan *R*awamangun
 
 Catatan:

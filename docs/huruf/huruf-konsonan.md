@@ -1,3 +1,5 @@
+# C. Huruf Konsonan
+
 Huruf yang melambangkan konsonan dalam bahasa Indonesia terdiri atas 21 huruf, yaitu *b*, *c*, *d*, *f*, *g*, *h*, *j*, *k*, *l*, *m*, *n*, *p*, *q*, *r*, *s*, *t*, *v*, *w*, *x*, *y*, dan *z*.
 
 Huruf Konsonan | Posisi Awal | Posisi Tengah | Posisi Akhir
