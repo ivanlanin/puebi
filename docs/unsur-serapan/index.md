@@ -1,3 +1,5 @@
+# IV. Penulisan Unsur Serapan
+
 Dalam perkembangannya bahasa Indonesia menyerap unsur dari berbagai bahasa, baik dari bahasa daerah, seperti bahasa Jawa, Sunda, dan Bali, maupun dari bahasa asing, seperti bahasa Sanskerta, Arab, Portugis, Belanda, Cina, dan Inggris. Berdasarkan taraf integrasinya, unsur serapan dalam bahasa Indonesia dapat dibagi menjadi dua kelompok besar.
 
 Pertama, unsur asing yang belum sepenuhnya terserap ke dalam bahasa Indonesia, seperti *force majeur*, *de facto*, *de jure*, dan *l'exploitation de l'homme par l'homme*. Unsur-unsur itu dipakai dalam konteks bahasa Indonesia, tetapi cara pengucapan dan penulisannya masih mengikuti cara asing.
@@ -1044,4 +1046,3 @@ Selain kaidah penulisan unsur serapan di atas, berikut ini dis-ertakan daftar is
 | dunyā**wī** |  (دنيوية) |  dunia*wi* |
 | kimiyā**wī** |  (كيمياوي) |  kimia*wi* |
 | lugawi**yyah** |  (لغوية) |  luga*wiah* |
-  

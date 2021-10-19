@@ -1,3 +1,5 @@
+# Pedoman Umum Ejaan Bahasa Indonesia (PUEBI)
+
 PUEBI Daring adalah versi web ramah gawai dari *Pedoman Umum Ejaan Bahasa Indonesia* (PUEBI) Permendikbud 50/2015. Isi [PUEBI Daring](http://ivanlanin.github.io/puebi) diperkaya dengan beberapa catatan tambahan yang belum dinyatakan atau dinyatakan secara implisit pada dokumen asli [Permendikbud 50/2015](https://upload.wikimedia.org/wikipedia/commons/3/33/Peraturan_Menteri_Pendidikan_dan_Kebudayaan_Nomor_50_Tahun_2015_tentang_Pedoman_Umum_Ejaan_Bahasa_Indonesia.pdf).
 
 Pada 28 Juli 2021, Badan Bahasa mengeluarkan [Keputusan Kepala Badan Bahasa 321/2021](https://badanbahasa.kemdikbud.go.id/lamanbahasa/sites/default/files/Salinan%20RKKB%20PUEBI.pdf) tentang Pedoman Umum Ejaan Bahasa Indonesia yang menggantikan Permendikbud 50/2015. Isi kedua dokumen itu kurang lebih sama sehingga isi PUEBI Daring ini masih belum perlu diubah.
