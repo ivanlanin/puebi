@@ -1,3 +1,5 @@
+# G. Partikel
+
 !!! important ""
 	**II.G.1.** Partikel *-lah*, *-kah*, dan *-tah* ditulis serangkai dengan kata yang mendahuluinya.
 

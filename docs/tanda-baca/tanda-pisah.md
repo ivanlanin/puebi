@@ -1,3 +1,5 @@
+# F. Tanda Pisah (—)
+
 !!! important ""
 	**III.F.1.** Tanda pisah dapat dipakai untuk membatasi penyisipan kata atau kalimat yang memberi penjelasan di luar bangun kalimat.
 

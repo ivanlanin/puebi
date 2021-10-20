@@ -1,3 +1,5 @@
+# J. Kata Ganti
+
 !!! important ""
 	Kata ganti *ku-* dan *kau-* ditulis serangkai dengan kata yang mengikutinya, sedangkan *-ku*, *-mu*, dan *-nya* ditulis serangkai dengan kata yang mendahuluinya.
 

@@ -1,3 +1,5 @@
+# A. Tanda Titik (.)
+
 !!! important ""
 	**III.A.1.** Tanda titik dipakai pada akhir kalimat pernyataan.
 

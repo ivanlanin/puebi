@@ -1,3 +1,5 @@
+# D. Gabungan Kata
+
 !!! important ""
 	**II.D.1.** Unsur gabungan kata yang lazim disebut kata majemuk, termasuk istilah khusus, ditulis terpisah.
 

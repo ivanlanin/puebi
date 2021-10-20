@@ -1,3 +1,5 @@
+# C. Bentuk Ulang
+
 !!! important ""
 	Bentuk ulang ditulis dengan menggunakan tanda hubung (-) di antara unsur-unsurnya.
 

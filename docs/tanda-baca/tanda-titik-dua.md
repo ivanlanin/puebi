@@ -1,3 +1,5 @@
+# D. Tanda Titik Dua (:)
+
 !!! important ""
 	**III.D.1.** Tanda titik dua dipakai pada akhir suatu pernyataan lengkap yang diikuti pemerincian atau penjelasan.
 

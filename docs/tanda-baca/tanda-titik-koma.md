@@ -1,3 +1,5 @@
+# C. Tanda Titik Koma (;)
+
 !!! important ""
 	**III.C.1.** Tanda titik koma dapat dipakai sebagai pengganti kata penghubung untuk memisahkan kalimat setara yang satu dari kalimat setara yang lain di dalam kalimat majemuk.
 

@@ -1,3 +1,5 @@
+# E. Pemenggalan Kata
+
 !!! important ""
 	**II.E.1.** Pemenggalan kata pada kata dasar dilakukan sebagai berikut.
 
