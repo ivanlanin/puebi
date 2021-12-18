@@ -1,7 +1,7 @@
 # G. Huruf Miring
 
 !!! important ""
-	**I.G.1.** Huruf miring dipakai untuk menuliskan judul buku, nama majalah, atau nama surat kabar yang dikutip dalam tulisan, termasuk dalam daftar pustaka.
+	**I.G.1** Huruf miring dipakai untuk menuliskan judul buku, nama majalah, atau nama surat kabar yang dikutip dalam tulisan, termasuk dalam daftar pustaka.
 
 Misalnya:
 
@@ -11,7 +11,7 @@ Misalnya:
 - Pusat Bahasa. 2011. *Kamus Besar Bahasa Indonesia Pusat Bahasa*. Edisi Keempat (Cetakan Kedua). Jakarta: Gramedia Pustaka Utama.
 
 !!! important ""
-	**I.G.2.** Huruf miring dipakai untuk menegaskan atau mengkhususkan huruf, bagian kata, kata, atau kelompok kata dalam kalimat.
+	**I.G.2** Huruf miring dipakai untuk menegaskan atau mengkhususkan huruf, bagian kata, kata, atau kelompok kata dalam kalimat.
 
 Misalnya:
 
@@ -21,7 +21,7 @@ Misalnya:
 - Buatlah kalimat dengan menggunakan ungkapan *lepas tangan*.
 
 !!! important ""
-	**I.G.3.** Huruf miring dipakai untuk menuliskan kata atau ungkapan dalam bahasa daerah atau bahasa asing.
+	**I.G.3** Huruf miring dipakai untuk menuliskan kata atau ungkapan dalam bahasa daerah atau bahasa asing.
 
 Misalnya:
 

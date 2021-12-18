@@ -1,7 +1,7 @@
 # F. Huruf Kapital
 
 !!! important ""
-	**I.F.1.** Huruf kapital dipakai sebagai huruf pertama awal kalimat.
+	**I.F.1** Huruf kapital dipakai sebagai huruf pertama awal kalimat.
 
 Misalnya:
 
@@ -11,7 +11,7 @@ Misalnya:
 - *P*ekerjaan itu akan selesai dalam satu jam.
 
 !!! important ""
-	**I.F.2.** Huruf kapital dipakai sebagai huruf pertama unsur nama orang, termasuk julukan.
+	**I.F.2** Huruf kapital dipakai sebagai huruf pertama unsur nama orang, termasuk julukan.
 
 Misalnya:
 
@@ -52,7 +52,7 @@ Misalnya:
 	PUEBI 2015 menambahkan (1) penjelasan "termasuk julukan" pada I.F.2., misalnya *Jendral Kancil* dan *Dewa Pedang*; serta (2) penjelasan "yang bermakna 'anak dari'" pada catatan kedua. Kedua tambahan ini tampaknya bertujuan untuk memperjelas pedoman sebelumnya.
 
 !!! important ""
-	**I.F.3.** Huruf kapital dipakai pada awal kalimat dalam petikan langsung.
+	**I.F.3** Huruf kapital dipakai pada awal kalimat dalam petikan langsung.
 
 Misalnya:
 
@@ -62,7 +62,7 @@ Misalnya:
 - "*B*esok pagi," katanya, "mereka akan berangkat."
 
 !!! important ""
-	**I.F.4.** Huruf kapital dipakai sebagai huruf pertama setiap kata nama agama, kitab suci, dan Tuhan, termasuk sebutan dan kata ganti untuk Tuhan
+	**I.F.4** Huruf kapital dipakai sebagai huruf pertama setiap kata nama agama, kitab suci, dan Tuhan, termasuk sebutan dan kata ganti untuk Tuhan.
 
 Misalnya:
 
@@ -78,7 +78,7 @@ Misalnya:
 - Ya, *T*uhan, bimbinglah hamba-*M*u ke jalan yang *E*ngkau beri rahmat.
 
 !!! important ""
-	**I.F.5.a.** Huruf kapital dipakai sebagai huruf pertama unsur nama gelar kehormatan, keturunan, keagamaan, atau akademik yang diikuti nama orang, termasuk gelar akademik yang mengikuti nama orang.
+	**I.F.5.a** Huruf kapital dipakai sebagai huruf pertama unsur nama gelar kehormatan, keturunan, keagamaan, atau akademik yang diikuti nama orang, termasuk gelar akademik yang mengikuti nama orang.
 
 Misalnya:
 
@@ -93,7 +93,7 @@ Misalnya:
 - Irwansyah, *M*agister *H*umaniora
 
 !!! important ""
-	**I.F.5.b.** Huruf kapital dipakai sebagai huruf pertama unsur nama gelar kehormatan, keturunan, keagamaan, profesi, serta nama jabatan dan kepangkatan yang dipakai sebagai sapaan.
+	**I.F.5.b** Huruf kapital dipakai sebagai huruf pertama unsur nama gelar kehormatan, keturunan, keagamaan, profesi, serta nama jabatan dan kepangkatan yang dipakai sebagai sapaan.
 
 Misalnya:
 
@@ -105,7 +105,7 @@ Misalnya:
 - Mohon izin, *J*enderal.
 
 !!! important ""
-	**I.F.6.** Huruf kapital dipakai sebagai huruf pertama unsur nama jabatan dan pangkat yang diikuti nama orang atau yang dipakai sebagai pengganti nama orang tertentu, nama instansi, atau nama tempat.
+	**I.F.6** Huruf kapital dipakai sebagai huruf pertama unsur nama jabatan dan pangkat yang diikuti nama orang atau yang dipakai sebagai pengganti nama orang tertentu, nama instansi, atau nama tempat.
 
 Misalnya:
 
@@ -118,7 +118,7 @@ Misalnya:
 - *G*ubernur Papua Barat
 
 !!! important ""
-	**I.F.7.** Huruf kapital dipakai sebagai huruf pertama nama bangsa, suku bangsa, dan bahasa.
+	**I.F.7** Huruf kapital dipakai sebagai huruf pertama nama bangsa, suku bangsa, dan bahasa.
 
 Misalnya:
 
@@ -135,7 +135,7 @@ Misalnya:
 - ke*j*awa-*j*awaan
 
 !!! important ""
-	**I.F.8.a.** Huruf kapital dipakai sebagai huruf pertama nama tahun, bulan, hari, dan hari besar atau hari raya.
+	**I.F.8.a** Huruf kapital dipakai sebagai huruf pertama nama tahun, bulan, hari, dan hari besar atau hari raya.
 
 Misalnya:
 
@@ -149,7 +149,7 @@ Misalnya:
 - hari *N*atal
 
 !!! important ""
-	**I.F.8.b.** Huruf kapital dipakai sebagai huruf pertama unsur nama peristiwa sejarah.
+	**I.F.8.b** Huruf kapital dipakai sebagai huruf pertama unsur nama peristiwa sejarah.
 
 Misalnya:
 
@@ -165,7 +165,7 @@ Misalnya:
 - Perlombaan senjata membawa risiko pecahnya *perang dunia*.
 
 !!! important ""
-	**I.F.9.** Huruf kapital dipakai sebagai huruf pertama nama geografi.
+	**I.F.9** Huruf kapital dipakai sebagai huruf pertama nama geografi.
 
 Misalnya:
 
@@ -227,7 +227,7 @@ Contoh berikut *bukan* nama jenis.
 	PUEBI 2015 menambahkan cara pembedaan unsur nama geografi yang menjadi bagian nama diri (*proper name*) dan nama jenis (*common name*).
 
 !!! important ""
-	**I.F.10.** Huruf kapital dipakai sebagai huruf pertama semua kata (termasuk semua unsur [bentuk ulang](../kata/bentuk-ulang) sempurna) dalam nama negara, lembaga, badan, organisasi, atau dokumen, *kecuali* kata tugas, seperti *di*, *ke*, *dari*, *dan*, *yang*, dan *untuk*.
+	**I.F.10** Huruf kapital dipakai sebagai huruf pertama semua kata (termasuk semua unsur [bentuk ulang](../../kata/bentuk-ulang) sempurna) dalam nama negara, lembaga, badan, organisasi, atau dokumen, *kecuali* kata tugas, seperti *di*, *ke*, *dari*, *dan*, *yang*, dan *untuk*.
 
 Misalnya:
 
@@ -239,7 +239,7 @@ Misalnya:
 - *K*itab *U*ndang-Undang *H*ukum *P*idana
 
 !!! important ""
-	**I.F.11.** Huruf kapital dipakai sebagai huruf pertama setiap kata (termasuk unsur [kata ulang](../kata/bentuk-ulang) sempurna) di dalam judul buku, karangan, artikel, dan makalah serta nama majalah dan surat kabar, *kecuali* kata tugas, seperti *di*, *ke*, *dari*, *dan*, *yang*, dan *untuk*, yang tidak terletak pada posisi awal.
+	**I.F.11** Huruf kapital dipakai sebagai huruf pertama setiap kata (termasuk unsur [kata ulang](../../kata/bentuk-ulang) sempurna) di dalam judul buku, karangan, artikel, dan makalah serta nama majalah dan surat kabar, *kecuali* kata tugas, seperti *di*, *ke*, *dari*, *dan*, *yang*, dan *untuk*, yang tidak terletak pada posisi awal.
 
 Misalnya:
 
@@ -249,7 +249,7 @@ Misalnya:
 - Ia menyajikan makalah "*P*enerapan *A*sas-*A*sas *H*ukum *P*erdata".
 
 !!! important ""
-	**I.F.12.** Huruf kapital dipakai sebagai huruf pertama unsur singkatan nama gelar, pangkat, atau sapaan.
+	**I.F.12** Huruf kapital dipakai sebagai huruf pertama unsur singkatan nama gelar, pangkat, atau sapaan.
 
 Misalnya:
 
@@ -278,7 +278,7 @@ Misalnya:
 	PUEBI 2015 menambahkan contoh gelar lokal *Daeng* dan *Datuk*.
 
 !!! important ""
-	**I.F.13.** Huruf kapital dipakai sebagai huruf pertama kata penunjuk hubungan kekerabatan, seperti *bapak*, *ibu*, *kakak*, *adik*, dan *paman*, serta kata atau ungkapan lain yang dipakai dalam penyapaan atau pengacuan.
+	**I.F.13** Huruf kapital dipakai sebagai huruf pertama kata penunjuk hubungan kekerabatan, seperti *bapak*, *ibu*, *kakak*, *adik*, dan *paman*, serta kata atau ungkapan lain yang dipakai dalam penyapaan atau pengacuan.
 
 Misalnya:
 

@@ -16,7 +16,7 @@ Misalnya:
 - Kendaraan yang dipesan untuk angkutan umum terdiri atas *50* bus, *100* minibus, dan *250* sedan.
 
 !!! important ""
-	**II.I.2.** Bilangan pada awal kalimat ditulis dengan huruf.
+	**II.I.2.a.** Bilangan pada awal kalimat ditulis dengan huruf.
 
 Misalnya:
 
@@ -28,7 +28,8 @@ Catatan: Penulisan berikut *dihindari*:
 - *50* siswa teladan mendapat beasiswa dari pemerintah daerah.
 - *3* pemenang sayembara itu diundang ke Jakarta.
 
-Apabila bilangan pada awal kalimat tidak dapat dinyatakan dengan satu atau dua kata, susunan kalimatnya diubah.
+!!! important ""
+	**II.I.2.b.** Apabila bilangan pada awal kalimat tidak dapat dinyatakan dengan satu atau dua kata, susunan kalimatnya diubah.
 
 Misalnya:
 
