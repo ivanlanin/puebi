@@ -85,4 +85,4 @@ Misalnya:
 - sukacita
 - sukarela
 - syahbandar
-- wiraswata
+- wiraswasta
