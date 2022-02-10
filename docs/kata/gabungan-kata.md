@@ -1,7 +1,7 @@
 # D. Gabungan Kata
 
 !!! important ""
-	**II.D.1.** Unsur gabungan kata yang lazim disebut kata majemuk, termasuk istilah khusus, ditulis terpisah.
+	**II.D.1** Unsur gabungan kata yang lazim disebut kata majemuk, termasuk istilah khusus, ditulis terpisah.
 
 Misalnya:
 
@@ -17,7 +17,7 @@ Misalnya:
 - cendera mata
 
 !!! important ""
-	**II.D.2.** Gabungan kata yang dapat menimbulkan salah pengertian ditulis dengan membubuhkan tanda hubung (-) di antara unsur-unsurnya.
+	**II.D.2** Gabungan kata yang dapat menimbulkan salah pengertian ditulis dengan membubuhkan tanda hubung (-) di antara unsur-unsurnya.
 
 Misalnya:
 
@@ -29,7 +29,7 @@ Misalnya:
 - buku *sejarah-baru* (buku tentang sejarah baru)
 
 !!! important ""
-	**II.D.3.** Gabungan kata yang penulisannya terpisah tetap ditulis terpisah jika mendapat awalan atau akhiran.
+	**II.D.3** Gabungan kata yang penulisannya terpisah tetap ditulis terpisah jika mendapat awalan atau akhiran.
 
 Misalnya:
 
@@ -39,7 +39,7 @@ Misalnya:
 - sebar luas*kan*
 
 !!! important ""
-	**II.D.4.** Gabungan kata yang mendapat awalan dan akhiran sekaligus ditulis serangkai.
+	**II.D.4** Gabungan kata yang mendapat awalan dan akhiran sekaligus ditulis serangkai.
 
 Misalnya:
 
@@ -50,7 +50,7 @@ Misalnya:
 - *per*tanggungjawab*an*
 
 !!! important ""
-	**II.D.5.** Gabungan kata yang sudah padu ditulis serangkai.
+	**II.D.5** Gabungan kata yang sudah padu ditulis serangkai.
 
 Misalnya:
 

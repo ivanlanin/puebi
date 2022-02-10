@@ -1,7 +1,7 @@
 # E. Tanda Hubung (-)
 
 !!! important ""
-	**III.E.1.** Tanda hubung dipakai untuk menandai bagian kata yang terpenggal oleh pergantian baris.
+	**III.E.1** Tanda hubung dipakai untuk menandai bagian kata yang terpenggal oleh pergantian baris.
 
 Misalnya:
 
@@ -15,7 +15,7 @@ ukur panas.
 ngukur kelapa.
 
 !!! important ""
-	**III.E.2.** Tanda hubung dipakai untuk menyambung unsur kata ulang.
+	**III.E.2** Tanda hubung dipakai untuk menyambung unsur kata ulang.
 
 Misalnya:
 
@@ -25,7 +25,7 @@ Misalnya:
 - mengorek-ngorek
 
 !!! important ""
-	**III.E.3.** Tanda hubung dipakai untuk menyambung tanggal, bulan, dan tahun yang dinyatakan dengan angka atau menyambung huruf dalam kata yang dieja satu-satu.
+	**III.E.3** Tanda hubung dipakai untuk menyambung tanggal, bulan, dan tahun yang dinyatakan dengan angka atau menyambung huruf dalam kata yang dieja satu-satu.
 
 Misalnya:
 
@@ -33,7 +33,7 @@ Misalnya:
 - p-a-n-i-t-i-a
 
 !!! important ""
-	**III.E.4.** Tanda hubung dapat dipakai untuk memperjelas hubungan bagian kata atau ungkapan.
+	**III.E.4** Tanda hubung dapat dipakai untuk memperjelas hubungan bagian kata atau ungkapan.
 
 Misalnya:
 
@@ -52,7 +52,7 @@ Bandingkan dengan
 - mesin-hitung tangan
 
 !!! important ""
-	**III.E.5.** Tanda hubung dipakai untuk merangkai  
+	**III.E.5** Tanda hubung dipakai untuk merangkai  
 	a. *se-* dengan kata berikutnya yang dimulai dengan huruf kapital (*se-*Indonesia, *se-*Jawa Barat);  
 	b. *ke-* dengan angka (peringkat *ke-*2);  
 	c. angka dengan *–an* (tahun 1950*-an*);  
@@ -70,7 +70,7 @@ Misalnya:
 - P3K (pertolongan pertama pada kecelakaan)
 
 !!! important ""
-	**III.E.6.** Tanda hubung dipakai untuk merangkai unsur bahasa Indonesia dengan unsur bahasa daerah atau bahasa asing.
+	**III.E.6** Tanda hubung dipakai untuk merangkai unsur bahasa Indonesia dengan unsur bahasa daerah atau bahasa asing.
 
 Misalnya:
 
@@ -81,7 +81,7 @@ Misalnya:
 - pen-*tackle*-an
 
 !!! important ""
-	**III.E.7.** Tanda hubung digunakan untuk menandai bentuk terikat yang menjadi objek bahasan.
+	**III.E.7** Tanda hubung digunakan untuk menandai bentuk terikat yang menjadi objek bahasan.
 
 Misalnya:
 

@@ -1,7 +1,7 @@
 # G. Partikel
 
 !!! important ""
-	**II.G.1.** Partikel *-lah*, *-kah*, dan *-tah* ditulis serangkai dengan kata yang mendahuluinya.
+	**II.G.1** Partikel *-lah*, *-kah*, dan *-tah* ditulis serangkai dengan kata yang mendahuluinya.
 
 Misalnya:
 
@@ -11,7 +11,7 @@ Misalnya:
 - Apa*tah* gunanya bersedih hati?
 
 !!! important ""
-	**II.G.2.** Partikel *pun* ditulis terpisah dari kata yang mendahuluinya.
+	**II.G.2** Partikel *pun* ditulis terpisah dari kata yang mendahuluinya.
 
 Misalnya:
 
@@ -29,7 +29,7 @@ Misalnya:
 - *Bagaimanapun* pekerjaan itu harus selesai minggu depan.
 
 !!! important ""
-	**II.G.3.** Partikel *per* yang berarti 'demi', 'tiap', atau 'mulai' ditulis terpisah dari kata yang mengikutinya.
+	**II.G.3** Partikel *per* yang berarti 'demi', 'tiap', atau 'mulai' ditulis terpisah dari kata yang mengikutinya.
 
 Misalnya:
 

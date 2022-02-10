@@ -1,7 +1,7 @@
 # L. Tanda Kurung ((…))
 
 !!! important ""
-	**III.L.1.** Tanda kurung dipakai untuk mengapit tambahan keterangan atau penjelasan.
+	**III.L.1** Tanda kurung dipakai untuk mengapit tambahan keterangan atau penjelasan.
 
 Misalnya:
 
@@ -10,7 +10,7 @@ Misalnya:
 - Lokakarya (*workshop*) itu diadakan di Manado.
 
 !!! important ""
-	**III.L.2.** Tanda kurung dipakai untuk mengapit keterangan atau penjelasan yang bukan bagian utama kalimat.
+	**III.L.2** Tanda kurung dipakai untuk mengapit keterangan atau penjelasan yang bukan bagian utama kalimat.
 
 Misalnya:
 
@@ -18,7 +18,7 @@ Misalnya:
 - Keterangan itu (lihat Tabel 10) menunjukkan arus perkembangan baru pasar dalam negeri.
 
 !!! important ""
-	**III.L.3.** Tanda kurung dipakai untuk mengapit huruf atau kata yang keberadaannya di dalam teks dapat dimunculkan atau dihilangkan.
+	**III.L.3** Tanda kurung dipakai untuk mengapit huruf atau kata yang keberadaannya di dalam teks dapat dimunculkan atau dihilangkan.
 
 Misalnya:
 
@@ -26,7 +26,7 @@ Misalnya:
 - Pesepak bola kenamaan itu berasal dari (Kota) Padang.
 
 !!! important ""
-	**III.L.4.** Tanda kurung dipakai untuk mengapit huruf atau angka yang digunakan sebagai penanda pemerincian.
+	**III.L.4** Tanda kurung dipakai untuk mengapit huruf atau angka yang digunakan sebagai penanda pemerincian.
 
 Misalnya:
 

@@ -1,7 +1,7 @@
 # D. Tanda Titik Dua (:)
 
 !!! important ""
-	**III.D.1.** Tanda titik dua dipakai pada akhir suatu pernyataan lengkap yang diikuti pemerincian atau penjelasan.
+	**III.D.1** Tanda titik dua dipakai pada akhir suatu pernyataan lengkap yang diikuti pemerincian atau penjelasan.
 
 Misalnya:
 
@@ -9,7 +9,7 @@ Misalnya:
 - Hanya ada dua pilihan bagi para pejuang kemerdekaan: hidup atau mati.
 
 !!! important ""
-	**III.D.2.** Tanda titik dua *tidak* dipakai jika perincian atau penjelasan itu merupakan pelengkap yang mengakhiri pernyataan.
+	**III.D.2** Tanda titik dua *tidak* dipakai jika perincian atau penjelasan itu merupakan pelengkap yang mengakhiri pernyataan.
 
 Misalnya:
 
@@ -21,7 +21,7 @@ c. pengolahan data, dan
 d. pelaporan.  
 
 !!! important ""
-	**III.D.3.** Tanda titik dua dipakai sesudah kata atau ungkapan yang memerlukan pemerian.
+	**III.D.3** Tanda titik dua dipakai sesudah kata atau ungkapan yang memerlukan pemerian.
 
 Misalnya:
 
@@ -33,7 +33,7 @@ Pemandu : Abdul Gani, M.Hum.
 Pencatat : Sri Astuti Amelia, S.Pd.  
 
 !!! important ""
-	**III.D.4.** Tanda titik dua dipakai dalam naskah drama sesudah kata yang menunjukkan pelaku dalam percakapan.
+	**III.D.4** Tanda titik dua dipakai dalam naskah drama sesudah kata yang menunjukkan pelaku dalam percakapan.
 
 Misalnya:
 
@@ -42,7 +42,7 @@ Amir : "Baik, Bu."
 Ibu : "Jangan lupa, letakkan baik-baik!"  
 
 !!! important ""
-	**III.D.5.** Tanda titik dua dipakai di antara (a) jilid atau nomor dan halaman, (b) surah dan ayat dalam kitab suci, (c) judul dan anak judul suatu karangan, serta (d) nama kota dan penerbit dalam daftar pustaka.
+	**III.D.5** Tanda titik dua dipakai di antara (a) jilid atau nomor dan halaman, (b) surah dan ayat dalam kitab suci, (c) judul dan anak judul suatu karangan, serta (d) nama kota dan penerbit dalam daftar pustaka.
 
 Misalnya:
 

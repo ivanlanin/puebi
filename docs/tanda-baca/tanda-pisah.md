@@ -1,7 +1,7 @@
 # F. Tanda Pisah (—)
 
 !!! important ""
-	**III.F.1.** Tanda pisah dapat dipakai untuk membatasi penyisipan kata atau kalimat yang memberi penjelasan di luar bangun kalimat.
+	**III.F.1** Tanda pisah dapat dipakai untuk membatasi penyisipan kata atau kalimat yang memberi penjelasan di luar bangun kalimat.
 
 Misalnya:
 
@@ -9,7 +9,7 @@ Misalnya:
 - Keberhasilan itu—*kita sependapat*—dapat dicapai jika kita mau berusaha keras.
 
 !!! important ""
-	**III.F.2.** Tanda pisah dapat dipakai juga untuk menegaskan adanya keterangan aposisi atau keterangan yang lain.
+	**III.F.2** Tanda pisah dapat dipakai juga untuk menegaskan adanya keterangan aposisi atau keterangan yang lain.
 
 Misalnya:
 
@@ -18,7 +18,7 @@ Misalnya:
 - Gerakan Pengutamaan Bahasa Indonesia—*amanat Sumpah Pemuda*—harus terus digelorakan.
 
 !!! important ""
-	**III.F.3.** Tanda pisah dipakai di antara dua bilangan, tanggal, atau tempat yang berarti 'sampai dengan' atau 'sampai ke'.
+	**III.F.3** Tanda pisah dipakai di antara dua bilangan, tanggal, atau tempat yang berarti 'sampai dengan' atau 'sampai ke'.
 
 Misalnya:
 

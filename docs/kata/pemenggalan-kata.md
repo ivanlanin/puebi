@@ -1,7 +1,7 @@
 # E. Pemenggalan Kata
 
 !!! important ""
-	**II.E.1.** Pemenggalan kata pada kata dasar dilakukan sebagai berikut.
+	**II.E.1** Pemenggalan kata pada kata dasar dilakukan sebagai berikut.
 
 a. Jika di tengah kata terdapat [huruf vokal](../huruf/huruf-vokal) yang berurutan, pemenggalannya dilakukan di antara kedua huruf vokal itu.
 
@@ -68,7 +68,7 @@ Misalnya:
 - sang-gup
 
 !!! important ""
-	**II.E.2.** Pemenggalan [kata turunan](../kata/kata-berimbuhan) sedapat-dapatnya dilakukan di antara bentuk dasar dan unsur pembentuknya.
+	**II.E.2** Pemenggalan [kata turunan](../kata/kata-berimbuhan) sedapat-dapatnya dilakukan di antara bentuk dasar dan unsur pembentuknya.
 
 Misalnya:
 
@@ -128,7 +128,7 @@ telah disampaikan ....
 mengambil makanan itu.
 
 !!! important ""
-	**II.E.3.** Jika sebuah kata terdiri atas dua unsur atau lebih dan salah satu unsurnya itu dapat bergabung dengan unsur lain, pemenggalannya dilakukan di antara unsur-unsur itu. Tiap unsur gabungan itu dipenggal seperti pada kata dasar.
+	**II.E.3** Jika sebuah kata terdiri atas dua unsur atau lebih dan salah satu unsurnya itu dapat bergabung dengan unsur lain, pemenggalannya dilakukan di antara unsur-unsur itu. Tiap unsur gabungan itu dipenggal seperti pada kata dasar.
 
 Misalnya:
 
@@ -144,7 +144,7 @@ Misalnya:
 - pascasarjana, pasca-sarjana, pas-ca-sar-ja-na
 
 !!! important ""
-	**II.E.4.** Nama orang yang terdiri atas dua unsur atau lebih pada akhir baris dipenggal di antara unsur-unsurnya.
+	**II.E.4** Nama orang yang terdiri atas dua unsur atau lebih pada akhir baris dipenggal di antara unsur-unsurnya.
 
 Misalnya:
 
@@ -154,7 +154,7 @@ Supratman.
 Alisjahbana.
 
 !!! important ""
-	**II.E.5.** Singkatan nama diri dan gelar yang terdiri atas dua huruf atau lebih tidak dipenggal.
+	**II.E.5** Singkatan nama diri dan gelar yang terdiri atas dua huruf atau lebih tidak dipenggal.
 
 Misalnya:
 

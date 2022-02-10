@@ -1,7 +1,7 @@
 # M. Tanda Kurung Siku ([…])
 
 !!! important ""
-	**III.M.1.** Tanda kurung siku dipakai untuk mengapit huruf, kata, atau kelompok kata sebagai koreksi atau tambahan atas kesalahan atau kekurangan di dalam naskah asli yang ditulis orang lain.
+	**III.M.1** Tanda kurung siku dipakai untuk mengapit huruf, kata, atau kelompok kata sebagai koreksi atau tambahan atas kesalahan atau kekurangan di dalam naskah asli yang ditulis orang lain.
 
 Misalnya:
 
@@ -10,7 +10,7 @@ Misalnya:
 - Ulang tahun [Proklamasi Kemerdekaan] Republik Indonesia dirayakan secara khidmat.
 
 !!! important ""
-	**III.M.2.** Tanda kurung siku dipakai untuk mengapit keterangan dalam kalimat penjelas yang terdapat dalam tanda kurung.
+	**III.M.2** Tanda kurung siku dipakai untuk mengapit keterangan dalam kalimat penjelas yang terdapat dalam tanda kurung.
 
 Misalnya:
 

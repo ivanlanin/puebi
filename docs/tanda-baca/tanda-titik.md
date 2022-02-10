@@ -1,7 +1,7 @@
 # A. Tanda Titik (.)
 
 !!! important ""
-	**III.A.1.** Tanda titik dipakai pada akhir kalimat pernyataan.
+	**III.A.1** Tanda titik dipakai pada akhir kalimat pernyataan.
 
 Misalnya:
 
@@ -9,7 +9,7 @@ Misalnya:
 - Dia akan datang pada pertemuan itu.
 
 !!! important ""
-	**III.A.2.** Tanda titik dipakai di belakang angka atau huruf dalam suatu bagan, ikhtisar, atau daftar.
+	**III.A.2** Tanda titik dipakai di belakang angka atau huruf dalam suatu bagan, ikhtisar, atau daftar.
 
 Misalnya:
 
@@ -61,7 +61,7 @@ Misalnya:
 - Gambar 1.1 Ruang Rapat
 
 !!! important ""
-	**III.A.3.** Tanda titik dipakai untuk memisahkan angka jam, menit, dan detik yang menunjukkan waktu atau jangka waktu.
+	**III.A.3** Tanda titik dipakai untuk memisahkan angka jam, menit, dan detik yang menunjukkan waktu atau jangka waktu.
 
 Misalnya:
 
@@ -71,7 +71,7 @@ Misalnya:
 - 00.00.30 jam (30 detik)
 
 !!! important ""
-	**III.A.4.** Tanda titik dipakai dalam daftar pustaka di antara nama penulis, tahun, judul tulisan (yang tidak berakhir dengan tanda tanya atau tanda seru), dan tempat terbit.
+	**III.A.4** Tanda titik dipakai dalam daftar pustaka di antara nama penulis, tahun, judul tulisan (yang tidak berakhir dengan tanda tanya atau tanda seru), dan tempat terbit.
 
 Misalnya:
 
@@ -79,7 +79,7 @@ Misalnya:
 - Moeliono, Anton M. 1989. *Kembara Bahasa*. Jakarta: Gramedia.
 
 !!! important ""
-	**III.A.5.** Tanda titik dipakai untuk memisahkan [bilangan](../kata/angka-dan-bilangan) ribuan atau kelipatannya yang menunjukkan jumlah.
+	**III.A.5** Tanda titik dipakai untuk memisahkan [bilangan](../kata/angka-dan-bilangan) ribuan atau kelipatannya yang menunjukkan jumlah.
 
 Misalnya:
 

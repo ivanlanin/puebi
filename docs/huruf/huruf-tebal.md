@@ -1,7 +1,7 @@
 # H. Huruf Tebal
 
 !!! important ""
-	**I.H.1.** Huruf tebal dipakai untuk menegaskan bagian tulisan yang sudah ditulis miring.
+	**I.H.1** Huruf tebal dipakai untuk menegaskan bagian tulisan yang sudah ditulis miring.
 
 Misalnya:
 
@@ -13,7 +13,7 @@ Misalnya:
 	2. Huruf tebal *tidak* dipakai untuk menegaskan atau mengkhususkan huruf, bagian kata, kata, atau kelompok kata dalam kalimat. Untuk tujuan ini, gunakan [huruf miring](huruf-miring.md).
 
 !!! important ""
-	**I.H.2.** Huruf tebal dapat dipakai untuk menegaskan bagian-bagian karangan, seperti judul buku, bab, atau subbab.
+	**I.H.2** Huruf tebal dapat dipakai untuk menegaskan bagian-bagian karangan, seperti judul buku, bab, atau subbab.
 
 Misalnya:
 

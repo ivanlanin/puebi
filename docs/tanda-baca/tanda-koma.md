@@ -1,7 +1,7 @@
 # B. Tanda Koma (,)
 
 !!! important ""
-	**III.B.1.** Tanda koma dipakai di antara unsur-unsur dalam suatu pemerincian atau pembilangan.
+	**III.B.1** Tanda koma dipakai di antara unsur-unsur dalam suatu pemerincian atau pembilangan.
 
 Misalnya:
 
@@ -10,7 +10,7 @@ Misalnya:
 - Satu, dua, ... tiga!
 
 !!! important ""
-	**III.B.2.** Tanda koma dipakai sebelum kata penghubung, seperti *tetapi*, *melainkan*, dan *sedangkan*, dalam kalimat majemuk (setara).
+	**III.B.2** Tanda koma dipakai sebelum kata penghubung, seperti *tetapi*, *melainkan*, dan *sedangkan*, dalam kalimat majemuk (setara).
 
 Misalnya:
 
@@ -19,7 +19,7 @@ Misalnya:
 - Dia membaca cerita pendek, *sedangkan* adiknya melukis panorama.
 
 !!! important ""
-	**III.B.3.** Tanda koma dipakai untuk memisahkan anak kalimat yang mendahului induk kalimatnya.
+	**III.B.3** Tanda koma dipakai untuk memisahkan anak kalimat yang mendahului induk kalimatnya.
 
 Misalnya:
 
@@ -36,7 +36,7 @@ Misalnya:
 - Kita harus banyak membaca buku *agar memiliki wawasan yang luas*.
 
 !!! important ""
-	**III.B.4.** Tanda koma dipakai di belakang kata atau ungkapan penghubung antarkalimat, seperti oleh karena itu, jadi, dengan demikian, sehubungan dengan itu, dan meskipun demikian.
+	**III.B.4** Tanda koma dipakai di belakang kata atau ungkapan penghubung antarkalimat, seperti oleh karena itu, jadi, dengan demikian, sehubungan dengan itu, dan meskipun demikian.
 
 Misalnya:
 
@@ -45,7 +45,7 @@ Misalnya:
 - Orang tuanya kurang mampu. *Meskipun demikian*, anak-anaknya berhasil menjadi sarjana.
 
 !!! important ""
-	**III.B.5.** Tanda koma dipakai sebelum dan/atau sesudah kata seru, seperti *o*, *ya*, *wah*, *aduh*, atau *hai*, dan kata yang dipakai sebagai sapaan, seperti *Bu*, *Dik*, atau *Nak*.
+	**III.B.5** Tanda koma dipakai sebelum dan/atau sesudah kata seru, seperti *o*, *ya*, *wah*, *aduh*, atau *hai*, dan kata yang dipakai sebagai sapaan, seperti *Bu*, *Dik*, atau *Nak*.
 
 Misalnya:
 
@@ -57,7 +57,7 @@ Misalnya:
 - Dia baik sekali, *Bu*.
 
 !!! important ""
-	**III.B.6.** Tanda koma dipakai untuk memisahkan petikan langsung dari bagian lain dalam kalimat.
+	**III.B.6** Tanda koma dipakai untuk memisahkan petikan langsung dari bagian lain dalam kalimat.
 
 Misalnya:
 
@@ -73,7 +73,7 @@ Misalnya:
 - "Wow, indahnya pantai ini!" seru wisatawan itu.
 
 !!! important ""
-	**III.B.7.** Tanda koma dipakai di antara (a) nama dan alamat, (b) bagian-bagian alamat, (c) tempat dan tanggal, serta (d) nama tempat dan wilayah atau negeri yang ditulis berurutan.
+	**III.B.7** Tanda koma dipakai di antara (a) nama dan alamat, (b) bagian-bagian alamat, (c) tempat dan tanggal, serta (d) nama tempat dan wilayah atau negeri yang ditulis berurutan.
 
 Misalnya:
 
@@ -83,7 +83,7 @@ Misalnya:
 - Tokyo, Jepang
 
 !!! important ""
-	**III.B.8.** Tanda koma dipakai untuk memisahkan bagian nama yang dibalik susunannya dalam daftar pustaka.
+	**III.B.8** Tanda koma dipakai untuk memisahkan bagian nama yang dibalik susunannya dalam daftar pustaka.
 
 Misalnya:
 
@@ -92,7 +92,7 @@ Misalnya:
 - Tulalessy, D. dkk. 2005. *Pengembangan Potensi Wisata Bahari di Wilayah Indonesia Timur*. Ambon: Mutiara Beta.
 
 !!! important ""
-	**III.B.9.** Tanda koma dipakai di antara bagian-bagian dalam catatan kaki atau catatan akhir.
+	**III.B.9** Tanda koma dipakai di antara bagian-bagian dalam catatan kaki atau catatan akhir.
 
 Misalnya:
 
@@ -101,7 +101,7 @@ Misalnya:
 - W.J.S. Poerwadarminta, *Bahasa Indonesia untuk Karang-mengarang* (Jogjakarta: UP Indonesia, 1967), hlm. 4.
 
 !!! important ""
-	**III.B.10.** Tanda koma dipakai di antara nama orang dan singkatan gelar akademis yang mengikutinya untuk membedakannya dari singkatan nama diri, keluarga, atau marga.
+	**III.B.10** Tanda koma dipakai di antara nama orang dan singkatan gelar akademis yang mengikutinya untuk membedakannya dari singkatan nama diri, keluarga, atau marga.
 
 Misalnya:
 
@@ -113,7 +113,7 @@ Misalnya:
 Catatan: Bandingkan *Siti Khadijah, M.A.* dengan *Siti Khadijah M.A.* (*Siti Khadijah Mas Agung*).
 
 !!! important ""
-	**III.B.11.** Tanda koma dipakai sebelum angka desimal atau di antara rupiah dan sen yang dinyatakan dengan angka.
+	**III.B.11** Tanda koma dipakai sebelum angka desimal atau di antara rupiah dan sen yang dinyatakan dengan angka.
 
 Misalnya:
 
@@ -123,7 +123,7 @@ Misalnya:
 - Rp750,00
 
 !!! important ""
-	**III.B.12.** Tanda koma dipakai untuk mengapit keterangan tambahan atau keterangan aposisi.
+	**III.B.12** Tanda koma dipakai untuk mengapit keterangan tambahan atau keterangan aposisi.
 
 Misalnya:
 
@@ -137,7 +137,7 @@ Bandingkan dengan keterangan pewatas yang pemakaiannya tidak diapit tanda koma!
 - Siswa *yang lulus dengan nilai tinggi* akan diterima di perguruan tinggi itu tanpa melalui tes.
 
 !!! important ""
-	**III.B.13.** Tanda koma *dapat* dipakai di belakang keterangan yang terdapat pada awal kalimat untuk menghindari salah baca/salah pengertian.
+	**III.B.13** Tanda koma *dapat* dipakai di belakang keterangan yang terdapat pada awal kalimat untuk menghindari salah baca/salah pengertian.
 
 Misalnya:
 

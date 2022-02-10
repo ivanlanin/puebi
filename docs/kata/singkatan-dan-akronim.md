@@ -1,7 +1,7 @@
 # H. Singkatan dan Akronim
 
 !!! important ""
-	**II.H.1.** Singkatan nama orang, gelar, sapaan, jabatan, atau pangkat diikuti dengan tanda titik pada setiap unsur singkatan itu.
+	**II.H.1** Singkatan nama orang, gelar, sapaan, jabatan, atau pangkat diikuti dengan tanda titik pada setiap unsur singkatan itu.
 
 Misalnya:
 
@@ -20,7 +20,7 @@ Misalnya:
 - Kol. Darmawati = Kolonel Darmawati
 
 !!! important ""
-	**II.H.2.a.** Singkatan yang terdiri atas huruf awal setiap kata nama lembaga pemerintah dan ketatanegaraan, lembaga pendidikan, badan atau organisasi, serta nama dokumen resmi ditulis dengan huruf kapital tanpa tanda titik.
+	**II.H.2.a** Singkatan yang terdiri atas huruf awal setiap kata nama lembaga pemerintah dan ketatanegaraan, lembaga pendidikan, badan atau organisasi, serta nama dokumen resmi ditulis dengan huruf kapital tanpa tanda titik.
 
 Misalnya:
 
@@ -32,7 +32,7 @@ Misalnya:
 - KUHP = Kitab Undang-Undang Hukum Pidana
 
 !!! important ""
-	**II.H.2.b.** Singkatan yang terdiri atas huruf awal setiap kata yang bukan nama diri ditulis dengan huruf kapital tanpa tanda titik.
+	**II.H.2.b** Singkatan yang terdiri atas huruf awal setiap kata yang bukan nama diri ditulis dengan huruf kapital tanpa tanda titik.
 
 Misalnya:
 
@@ -44,7 +44,7 @@ Misalnya:
 - NIP = nomor induk pegawai
 
 !!! important ""
-	**II.H.3.** Singkatan yang terdiri atas tiga huruf atau lebih diikuti dengan tanda titik.
+	**II.H.3** Singkatan yang terdiri atas tiga huruf atau lebih diikuti dengan tanda titik.
 
 Misalnya:
 
@@ -59,7 +59,7 @@ Misalnya:
 - dkk. = dan kawan-kawan
 
 !!! important ""
-	**II.H.4.** Singkatan yang terdiri atas dua huruf yang lazim dipakai dalam surat-menyurat masing-masing diikuti oleh tanda titik.
+	**II.H.4** Singkatan yang terdiri atas dua huruf yang lazim dipakai dalam surat-menyurat masing-masing diikuti oleh tanda titik.
 
 Misalnya:
 
@@ -70,7 +70,7 @@ Misalnya:
 - s.d. = sampai dengan
 
 !!! important ""
-	**II.H.5.** Lambang kimia, singkatan satuan ukuran, takaran, timbangan, dan mata uang tidak diikuti tanda titik.
+	**II.H.5** Lambang kimia, singkatan satuan ukuran, takaran, timbangan, dan mata uang tidak diikuti tanda titik.
 
 Misalnya:
 
@@ -82,7 +82,7 @@ Misalnya:
 - Rp = rupiah
 
 !!! important ""
-	**II.H.6.** Akronim nama diri yang terdiri atas huruf awal setiap kata ditulis dengan huruf kapital tanpa tanda titik.
+	**II.H.6** Akronim nama diri yang terdiri atas huruf awal setiap kata ditulis dengan huruf kapital tanpa tanda titik.
 
 Misalnya:
 
@@ -93,7 +93,7 @@ Misalnya:
 - PASI = Persatuan Atletik Seluruh Indonesia
 
 !!! important ""
-	**II.H.7.** Akronim nama diri yang berupa gabungan suku kata atau gabungan huruf dan suku kata dari deret kata ditulis dengan huruf awal kapital.
+	**II.H.7** Akronim nama diri yang berupa gabungan suku kata atau gabungan huruf dan suku kata dari deret kata ditulis dengan huruf awal kapital.
 
 Misalnya:
 
@@ -105,7 +105,7 @@ Misalnya:
 - Suramadu = Surabaya Madura
 
 !!! important ""
-	**II.H.8.** Akronim bukan nama diri yang berupa gabungan huruf awal dan suku kata atau gabungan suku kata ditulis dengan huruf kecil.
+	**II.H.8** Akronim bukan nama diri yang berupa gabungan huruf awal dan suku kata atau gabungan suku kata ditulis dengan huruf kecil.
 
 Misalnya:
 

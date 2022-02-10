@@ -1,7 +1,7 @@
 # G. Tanda Tanya (?)
 
 !!! important ""
-	**III.G.1.** Tanda tanya dipakai pada akhir kalimat tanya.
+	**III.G.1** Tanda tanya dipakai pada akhir kalimat tanya.
 
 Misalnya:
 
@@ -9,7 +9,7 @@ Misalnya:
 - Siapa pencipta lagu "Indonesia Raya"?
 
 !!! important ""
-	**III.G.2.** Tanda tanya dipakai di dalam tanda kurung untuk menyatakan bagian kalimat yang disangsikan atau yang kurang dapat dibuktikan kebenarannya.
+	**III.G.2** Tanda tanya dipakai di dalam tanda kurung untuk menyatakan bagian kalimat yang disangsikan atau yang kurang dapat dibuktikan kebenarannya.
 
 Misalnya:
 

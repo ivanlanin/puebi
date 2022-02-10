@@ -1,7 +1,7 @@
 # K. Tanda Petik Tunggal ('…')
 
 !!! important ""
-	**III.K.1.** Tanda petik tunggal dipakai untuk mengapit petikan yang terdapat dalam petikan lain.
+	**III.K.1** Tanda petik tunggal dipakai untuk mengapit petikan yang terdapat dalam petikan lain.
 
 Misalnya:
 
@@ -10,7 +10,7 @@ Misalnya:
 - "Kita bangga karena lagu 'Indonesia Raya' berkumandang di arena olimpiade itu," kata Ketua KONI.
 
 !!! important ""
-	**III.K.2.** Tanda petik tunggal dipakai untuk mengapit makna, terjemahan, atau penjelasan kata atau ungkapan.
+	**III.K.2** Tanda petik tunggal dipakai untuk mengapit makna, terjemahan, atau penjelasan kata atau ungkapan.
 
 Misalnya:
 

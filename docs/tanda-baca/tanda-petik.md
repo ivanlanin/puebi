@@ -1,7 +1,7 @@
 # J. Tanda Petik ("…")
 
 !!! important ""
-	**III.J.1.** Tanda petik dipakai untuk mengapit petikan langsung yang berasal dari pembicaraan, naskah, atau bahan tertulis lain.
+	**III.J.1** Tanda petik dipakai untuk mengapit petikan langsung yang berasal dari pembicaraan, naskah, atau bahan tertulis lain.
 
 Misalnya:
 
@@ -10,7 +10,7 @@ Misalnya:
 - Menurut Pasal 31 Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, "Setiap warga negara berhak memperoleh pendidikan."
 
 !!! important ""
-	**III.J.2.** Tanda petik dipakai untuk mengapit judul sajak, lagu, film, sinetron, artikel, naskah, atau bab buku yang dipakai dalam kalimat.
+	**III.J.2** Tanda petik dipakai untuk mengapit judul sajak, lagu, film, sinetron, artikel, naskah, atau bab buku yang dipakai dalam kalimat.
 
 Misalnya:
 
@@ -22,7 +22,7 @@ Misalnya:
 - Perhatikan "Pemakaian Tanda Baca" dalam buku *Pedoman Umum Ejaan Bahasa Indonesia yang Disempurnakan*.
 
 !!! important ""
-	**III.J.3.** Tanda petik dipakai untuk mengapit istilah ilmiah yang kurang dikenal atau kata yang mempunyai arti khusus.
+	**III.J.3** Tanda petik dipakai untuk mengapit istilah ilmiah yang kurang dikenal atau kata yang mempunyai arti khusus.
 
 Misalnya:
 

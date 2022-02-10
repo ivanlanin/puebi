@@ -6,7 +6,7 @@ Angka Arab atau angka Romawi lazim dipakai sebagai lambang bilangan atau nomor.
 - Angka Romawi: I, II, III, IV, V, VI, VII, VIII, IX, X, L (50), C (100), D (500), M (1.000), V̄ (5.000), M̄ (1.000.000)
 
 !!! important ""
-	**II.I.1.** Bilangan dalam teks yang dapat dinyatakan dengan satu atau dua kata ditulis dengan huruf, kecuali jika dipakai secara berurutan seperti dalam perincian.
+	**II.I.1** Bilangan dalam teks yang dapat dinyatakan dengan satu atau dua kata ditulis dengan huruf, kecuali jika dipakai secara berurutan seperti dalam perincian.
 
 Misalnya:
 
@@ -16,7 +16,7 @@ Misalnya:
 - Kendaraan yang dipesan untuk angkutan umum terdiri atas *50* bus, *100* minibus, dan *250* sedan.
 
 !!! important ""
-	**II.I.2.a.** Bilangan pada awal kalimat ditulis dengan huruf.
+	**II.I.2.a** Bilangan pada awal kalimat ditulis dengan huruf.
 
 Misalnya:
 
@@ -29,7 +29,7 @@ Catatan: Penulisan berikut *dihindari*:
 - *3* pemenang sayembara itu diundang ke Jakarta.
 
 !!! important ""
-	**II.I.2.b.** Apabila bilangan pada awal kalimat tidak dapat dinyatakan dengan satu atau dua kata, susunan kalimatnya diubah.
+	**II.I.2.b** Apabila bilangan pada awal kalimat tidak dapat dinyatakan dengan satu atau dua kata, susunan kalimatnya diubah.
 
 Misalnya:
 
@@ -42,7 +42,7 @@ Catatan: Penulisan berikut *dihindari*:
 - *25* naskah kuno tersimpan di lemari itu.
 
 !!! important ""
-	**II.I.3.** Angka yang menunjukkan bilangan besar dapat ditulis sebagian dengan huruf supaya lebih mudah dibaca.
+	**II.I.3** Angka yang menunjukkan bilangan besar dapat ditulis sebagian dengan huruf supaya lebih mudah dibaca.
 
 Misalnya:
 
@@ -51,7 +51,7 @@ Misalnya:
 - Proyek pemberdayaan ekonomi rakyat itu memerlukan biaya *Rp10 triliun*.
 
 !!! important ""
-	**II.I.4.** Angka dipakai untuk menyatakan (a) ukuran panjang, berat, luas, isi, dan waktu serta (b) nilai uang.
+	**II.I.4** Angka dipakai untuk menyatakan (a) ukuran panjang, berat, luas, isi, dan waktu serta (b) nilai uang.
 
 Misalnya:
 
@@ -67,7 +67,7 @@ Misalnya:
 - ¥100
 
 !!! important ""
-	**II.I.5.** Angka dipakai untuk menomori alamat, seperti jalan, rumah, apartemen, atau kamar.
+	**II.I.5** Angka dipakai untuk menomori alamat, seperti jalan, rumah, apartemen, atau kamar.
 
 Misalnya:
 
@@ -78,7 +78,7 @@ Misalnya:
 - Gedung Samudra, Lantai II, Ruang 201
 
 !!! important ""
-	**II.I.6.** Angka dipakai untuk menomori bagian karangan atau ayat kitab suci.
+	**II.I.6** Angka dipakai untuk menomori bagian karangan atau ayat kitab suci.
 
 Misalnya:
 
@@ -87,7 +87,7 @@ Misalnya:
 - Markus 16: 15—16
 
 !!! important ""
-	**II.I.7.** Penulisan bilangan dengan huruf dilakukan sebagai berikut.
+	**II.I.7** Penulisan bilangan dengan huruf dilakukan sebagai berikut.
 
 a. Bilangan Utuh
 
@@ -110,7 +110,7 @@ Misalnya:
 - satu permil (1o/oo)
 
 !!! important ""
-	**II.I.8.** Penulisan bilangan tingkat dapat dilakukan dengan cara berikut.
+	**II.I.8** Penulisan bilangan tingkat dapat dilakukan dengan cara berikut.
 
 Misalnya:
 
@@ -122,7 +122,7 @@ Misalnya:
 - Perang Dunia *Kedua*
 
 !!! important ""
-	**II.I.9.** Penulisan angka yang mendapat akhiran *-an* dilakukan dengan cara berikut.
+	**II.I.9** Penulisan angka yang mendapat akhiran *-an* dilakukan dengan cara berikut.
 
 Misalnya:
 
@@ -131,7 +131,7 @@ Misalnya:
 - uang *5.000-an* (uang *lima ribuan*)
 
 !!! important ""
-	**II.I.10.** Penulisan bilangan dengan angka dan huruf sekaligus dilakukan dalam peraturan perundang-undangan, akta, dan kuitansi.
+	**II.I.10** Penulisan bilangan dengan angka dan huruf sekaligus dilakukan dalam peraturan perundang-undangan, akta, dan kuitansi.
 
 Misalnya:
 
@@ -139,7 +139,7 @@ Misalnya:
 - Telah diterima uang sebanyak *Rp2.950.000,00 (dua juta sembilan ratus lima puluh ribu rupiah)* untuk pembayaran satu unit televisi.
 
 !!! important ""
-	**II.I.11.** Penulisan bilangan yang dilambangkan dengan angka dan diikuti huruf dilakukan seperti berikut.
+	**II.I.11** Penulisan bilangan yang dilambangkan dengan angka dan diikuti huruf dilakukan seperti berikut.
 
 Misalnya:
 
@@ -147,7 +147,7 @@ Misalnya:
 - Bukti pembelian barang seharga *Rp5.000.000,00 (lima juta rupiah)* ke atas harus dilampirkan pada laporan pertanggungjawaban.
 
 !!! important ""
-	**II.I.12.** Bilangan yang digunakan sebagai unsur nama geografi ditulis dengan huruf.
+	**II.I.12** Bilangan yang digunakan sebagai unsur nama geografi ditulis dengan huruf.
 
 Misalnya:
 

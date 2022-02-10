@@ -1,7 +1,7 @@
 # I. Tanda Elipsis (…)
 
 !!! important ""
-	**III.I.1.** Tanda elipsis dipakai untuk menunjukkan bahwa dalam suatu kalimat atau kutipan ada bagian yang dihilangkan.
+	**III.I.1** Tanda elipsis dipakai untuk menunjukkan bahwa dalam suatu kalimat atau kutipan ada bagian yang dihilangkan.
 
 Misalnya:
 
@@ -16,7 +16,7 @@ Catatan:
 (2) Tanda elipsis pada akhir kalimat diikuti oleh tanda titik (jumlah titik empat buah).
 
 !!! important ""
-	**III.I.2.** Tanda elipsis dipakai untuk menulis ujaran yang tidak selesai dalam dialog.
+	**III.I.2** Tanda elipsis dipakai untuk menulis ujaran yang tidak selesai dalam dialog.
 
 Misalnya:
 

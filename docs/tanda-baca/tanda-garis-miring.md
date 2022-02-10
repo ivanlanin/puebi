@@ -1,7 +1,7 @@
 # N. Tanda Garis Miring (/)
 
 !!! important ""
-	**III.N.1.** Tanda garis miring dipakai dalam nomor surat, nomor pada alamat, dan penandaan masa satu tahun yang terbagi dalam dua tahun takwim.
+	**III.N.1** Tanda garis miring dipakai dalam nomor surat, nomor pada alamat, dan penandaan masa satu tahun yang terbagi dalam dua tahun takwim.
 
 Misalnya:
 
@@ -10,7 +10,7 @@ Misalnya:
 - tahun ajaran 2012/2013
 
 !!! important ""
-	**III.N.2.** Tanda garis miring dipakai sebagai pengganti kata *dan*, *atau*, serta *setiap*.
+	**III.N.2** Tanda garis miring dipakai sebagai pengganti kata *dan*, *atau*, serta *setiap*.
 
 Misalnya:
 
@@ -20,7 +20,7 @@ Misalnya:
 - harganya Rp1.500,00/lembar = 'harganya Rp1.500,00 *setiap* lembar'
 
 !!! important ""
-	**III.N.3.** Tanda garis miring dipakai untuk mengapit huruf, kata, atau kelompok kata sebagai koreksi atau pengurangan atas kesalahan atau kelebihan di dalam naskah asli yang ditulis orang lain.
+	**III.N.3** Tanda garis miring dipakai untuk mengapit huruf, kata, atau kelompok kata sebagai koreksi atau pengurangan atas kesalahan atau kelebihan di dalam naskah asli yang ditulis orang lain.
 
 Misalnya:
 
