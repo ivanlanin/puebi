@@ -25,21 +25,21 @@ d. pelaporan.
 
 Misalnya:
 
-- Ketua : Ahmad Wijaya  
-Sekretaris : Siti Aryani  
-Bendahara : Aulia Arimbi
-- Narasumber : Prof. Dr. Rahmat Effendi  
-Pemandu : Abdul Gani, M.Hum.  
-Pencatat : Sri Astuti Amelia, S.Pd.  
+- <span style="display: inline-block; width: 6em;">Ketua</span>: Ahmad Wijaya  
+<span style="display: inline-block; width: 6em;">Sekretaris</span>: Siti Aryani  
+<span style="display: inline-block; width: 6em;">Bendahara</span>: Aulia Arimbi
+- <span style="display: inline-block; width: 6em;">Narasumber</span>: Prof. Dr. Rahmat Effendi  
+<span style="display: inline-block; width: 6em;">Pemandu</span>: Abdul Gani, M.Hum.  
+<span style="display: inline-block; width: 6em;">Pencatat</span>: Sri Astuti Amelia, S.Pd.  
 
 !!! important ""
 	**III.D.4** Tanda titik dua dipakai dalam naskah drama sesudah kata yang menunjukkan pelaku dalam percakapan.
 
 Misalnya:
 
-- Ibu : "Bawa koper ini, Nak!"  
-Amir : "Baik, Bu."  
-Ibu : "Jangan lupa, letakkan baik-baik!"  
+- <span style="display: inline-block; width: 3em;">Ibu</span>: "Bawa koper ini, Nak!"  
+<span style="display: inline-block; width: 3em;">Amir</span>: "Baik, Bu."  
+<span style="display: inline-block; width: 3em;">Ibu</span>: "Jangan lupa, letakkan baik-baik!"  
 
 !!! important ""
 	**III.D.5** Tanda titik dua dipakai di antara (a) jilid atau nomor dan halaman, (b) surah dan ayat dalam kitab suci, (c) judul dan anak judul suatu karangan, serta (d) nama kota dan penerbit dalam daftar pustaka.
