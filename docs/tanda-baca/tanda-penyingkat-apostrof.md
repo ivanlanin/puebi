@@ -1,4 +1,4 @@
-# O. Tanda Penyingkat ('')
+# O. Tanda Penyingkat (')
 
 !!! important ""
 	Tanda penyingkat atau apostrof dipakai untuk menunjukkan penghilangan bagian kata atau bagian angka tahun dalam konteks tertentu.
